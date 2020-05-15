@@ -31,10 +31,11 @@ $factory->define(User::class, function (Faker $faker) {
 
 $factory->define(Blog::class, function (Faker $faker) {
     return [
-        'name' => $faker->name,
-        'email' => $faker->unique()->safeEmail,
-        'email_verified_at' => now(),
-        'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', // password
-        'remember_token' => Str::random(10),
+        'body'   => $faker->paragraph(4),
+        'post_type' => $faker->unique()->safeEmail,
+        'title'     => $faker->sentence(5),
+        'blog_image' => $faker->image('public/images',640,480, null, false),
+        'user_id' => 1,
+        'slug' => $faker->randomFloat(2, 0, 10000)
     ];
 });
