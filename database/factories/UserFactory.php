@@ -27,7 +27,7 @@ $factory->define(User::class, function (Faker $faker) {
     ];
 });
 
-protected $fillable = ['body','post_type','title','blog_image','user_id','slug'];
+// protected $fillable = ['body','post_type','title','blog_image','user_id','slug'];
 
 $factory->define(Blog::class, function (Faker $faker) {
     return [
