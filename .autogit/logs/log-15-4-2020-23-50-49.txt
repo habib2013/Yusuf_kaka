@@ -1,0 +1,57 @@
+-------------------- Auto-Git Log --------------------
+		Fri May 15 2020 23:50:49 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* database/factories/UserFactory.php
+* resources/views/welcome.blade.php
+
+
+Created files:
+* public/images/0ceea11b23c96265c117df7a4f1cdf77.jpg
+* public/images/0dc78ab3c8908732fcbcbe9c134793de.jpg
+* public/images/178ece508836c573a5ea30bd10a71702.jpg
+* public/images/1ea078ea201b4cd6f29b2551b8e74201.jpg
+* public/images/26507a72d404691c9fa17ab72b4eacb9.jpg
+* public/images/2acb74937c15df4c1008294d61657507.jpg
+* public/images/30dde702cf25b5c20341f26a74c5cff7.jpg
+* public/images/350732214fe7c02f774f13997e18d31d.jpg
+* public/images/363090bc912ab7a09b3dde9769814e00.jpg
+* public/images/36f9f2cc8333068a6e1a40f23fa74aee.jpg
+* public/images/51e6d267ae9ef7de9bdda40d3746ab53.jpg
+* public/images/53747ddba74f45430844028f996a768a.jpg
+* public/images/689ec2dace298eb0319743b7b71b47a3.jpg
+* public/images/70754250b7a4291d2ee7c79c670be95e.jpg
+* public/images/71850423633de1d2a2705f904117a1a8.jpg
+* public/images/84efee622cac7f6db4c0db60808210ae.jpg
+* public/images/864883260d3d8fab3d3d6ebcd81c6e59.jpg
+* public/images/86975d60cf8f4c7e32dae05c3b6c0572.jpg
+* public/images/8c3f298f8483fcfdf28cd90d831aa86f.jpg
+* public/images/953b4411b9f742d33ed6d2153918834b.jpg
+* public/images/95ff9151191c769e3109bae77652ea9a.jpg
+* public/images/a4d0ffc6fc1860cafef24f8742df2b22.jpg
+* public/images/a6206a2e7d8e5ba695c3d14be9c41bdb.jpg
+* public/images/a64d26732333d385337b217bcd739201.jpg
+* public/images/b2305ff34554a22cc11dcf6733f2c30a.jpg
+* public/images/b41744044c3bc0d5bcefab037d2736d7.jpg
+* public/images/be26aae1a59f71b9d99ea465bb006fed.jpg
+* public/images/c484382bcb669746e9a6b5ca8bf291dd.jpg
+* public/images/cf12f4339bdaf23ace63e844fa3810db.jpg
+* public/images/d057049e8bfb3a16f613e4edeaadcf44.jpg
+* public/images/d33bbf0fb7fd92ca3830b087b09e9539.jpg
+* public/images/da90679f6d9296ee76c395f39fa80428.jpg
+* public/images/de6b744f9ac7a349b1476388b2289dad.jpg
+* public/images/df97600798d2cf49fdf1b9feef18c779.jpg
+* public/images/e6891ffc280008e44c736b846084b280.jpg
+* public/images/e79c80167ab5ee53f183fb3fecfb37c1.jpg
+* public/images/f157e6a4733962538b3546c8362acbbb.jpg
+* public/images/f433b410c184453428647b1271eb6d2c.jpg
+* public/images/f72b0ec4c3055134025e57fded39bba0.jpg
+* public/images/fde5fefa7014188b4ed963a0981aaa3d.jpg
+* public/images/fdf65c08a404c8decaed2aa8c954388c.jpg
+
+
+Deleted files:
+
+
+Renamed files:

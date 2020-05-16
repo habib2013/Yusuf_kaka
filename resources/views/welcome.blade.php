@@ -1774,54 +1774,37 @@ var lpCourseSettings = [];
 			<div id="cmsmasters_slider_4r975bzw6" class="cmsmasters_owl_slider owl-carousel" data-items="3" data-single-item="false" data-auto-play="5000"><div class="cmsmasters_owl_slider_item"><!-- Start Posts Slider Post Article -->
 	<article id="post-22" class="cmsmasters_slider_post post-22 post type-post status-publish format-standard has-post-thumbnail hentry category-chemistry tag-chemistry tag-children tag-school">
 		<div class="cmsmasters_slider_post_outer">
-		<div class="cmsmasters_slider_post_date_img_wrap"><figure class="cmsmasters_img_rollover_wrap preloader"><img width="580" height="360" src="https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-6-580x360.jpg" class="full-width wp-post-image" alt="Chemistry for Children and Teenagers" title="Chemistry for Children and Teenagers" srcset="https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-6-580x360.jpg 580w, https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-6-860x535.jpg 860w, https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-6-1160x722.jpg 1160w" sizes="(max-width: 580px) 100vw, 580px" /><div class="cmsmasters_img_rollover"><a href="https://ecole.cmsmasters.net/2018/12/10/chemistry-for-children-and-teenagers/" title="Chemistry for Children and Teenagers" class="cmsmasters_open_link"></a></div></figure></div><div class="data_cat"><span class="cmsmasters_slider_post_category"><a href="https://ecole.cmsmasters.net/category/chemistry/" class="cmsmasters_cat_color cmsmasters_cat_34" rel="category tag">Chemistry</a></span><span class="cmsmasters_slider_post_date"><abbr class="published" title="December 10, 2018">December 10, 2018</abbr><abbr class="dn date updated" title="July 30, 2019">July 30, 2019</abbr></span></div><div class="cmsmasters_slider_post_inner"><header class="cmsmasters_slider_post_header entry-header"><h4 class="cmsmasters_slider_post_title entry-title"><a href="https://ecole.cmsmasters.net/2018/12/10/chemistry-for-children-and-teenagers/">Chemistry for Children and Teenagers</a></h4></header><div class="cmsmasters_slider_post_content entry-content">
+		<div class="cmsmasters_slider_post_date_img_wrap"><figure class="cmsmasters_img_rollover_wrap preloader"><img width="580" height="360" src="https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-6-580x360.jpg" class="full-width wp-post-image" alt="Chemistry for Children and Teenagers" title="Chemistry for Children and Teenagers" srcset="https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-6-580x360.jpg 580w, https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-6-860x535.jpg 860w, https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-6-1160x722.jpg 1160w" sizes="(max-width: 580px) 100vw, 580px" /><div class="cmsmasters_img_rollover"><a href="https://ecole.cmsmasters.net/2018/12/10/chemistry-for-children-and-teenagers/" title="Chemistry for Children and Teenagers" class="cmsmasters_open_link"></a></div></figure></div><div class="data_cat">
+    <span class="cmsmasters_slider_post_date"><abbr class="published" title="December 10, 2018"></abbr><abbr class="dn date updated" title="July 30, 2019">July 30, 2019</abbr></span></div><div class="cmsmasters_slider_post_inner"><header class="cmsmasters_slider_post_header entry-header"><h4 class="cmsmasters_slider_post_title entry-title"><a href="https://ecole.cmsmasters.net/2018/12/10/chemistry-for-children-and-teenagers/">Chemistry for Children and Teenagers</a></h4></header><div class="cmsmasters_slider_post_content entry-content">
 	<p>There are many different school classes, ranging from basic required courses to elective “passion projects.” </p>
 	</div>
 	</div>	</div>
 	</article>
 	<!-- Finish Posts Slider Post Article -->
 
-	</div><div class="cmsmasters_owl_slider_item"><!-- Start Posts Slider Post Article -->
-	<article id="post-20" class="cmsmasters_slider_post post-20 post type-post status-publish format-standard has-post-thumbnail hentry category-technology tag-children tag-school tag-technologies">
-		<div class="cmsmasters_slider_post_outer">
-		<div class="cmsmasters_slider_post_date_img_wrap"><figure class="cmsmasters_img_rollover_wrap preloader"><img width="580" height="360" src="https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-5-580x360.jpg" class="full-width wp-post-image" alt="Modern Technologies and Development" title="Modern Technologies and Development" srcset="https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-5-580x360.jpg 580w, https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-5-860x535.jpg 860w, https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-5-1160x722.jpg 1160w" sizes="(max-width: 580px) 100vw, 580px" /><div class="cmsmasters_img_rollover"><a href="https://ecole.cmsmasters.net/2018/12/10/modern-technologies-and-development/" title="Modern Technologies and Development" class="cmsmasters_open_link"></a></div></figure></div><div class="data_cat"><span class="cmsmasters_slider_post_category"><a href="https://ecole.cmsmasters.net/category/technology/" class="cmsmasters_cat_color cmsmasters_cat_32" rel="category tag">Technology</a></span><span class="cmsmasters_slider_post_date"><abbr class="published" title="December 10, 2018">December 10, 2018</abbr><abbr class="dn date updated" title="July 30, 2019">July 30, 2019</abbr></span></div><div class="cmsmasters_slider_post_inner"><header class="cmsmasters_slider_post_header entry-header"><h4 class="cmsmasters_slider_post_title entry-title"><a href="https://ecole.cmsmasters.net/2018/12/10/modern-technologies-and-development/">Modern Technologies and Development</a></h4></header><div class="cmsmasters_slider_post_content entry-content">
-	<p>There are many different school classes, ranging from basic required courses to elective “passion projects.” </p>
-	</div>
-	</div>	</div>
-	</article>
-	<!-- Finish Posts Slider Post Article -->
+    </div>
 
-	</div><div class="cmsmasters_owl_slider_item"><!-- Start Posts Slider Post Article -->
-	<article id="post-18" class="cmsmasters_slider_post post-18 post type-post status-publish format-standard has-post-thumbnail hentry category-activities tag-activities tag-children tag-school">
-		<div class="cmsmasters_slider_post_outer">
-		<div class="cmsmasters_slider_post_date_img_wrap"><figure class="cmsmasters_img_rollover_wrap preloader"><img width="580" height="360" src="https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-4-580x360.jpg" class="full-width wp-post-image" alt="Extracurricular Activities for Schoolchildren" title="Extracurricular Activities for Schoolchildren" srcset="https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-4-580x360.jpg 580w, https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-4-860x535.jpg 860w, https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-4-1160x722.jpg 1160w" sizes="(max-width: 580px) 100vw, 580px" /><div class="cmsmasters_img_rollover"><a href="https://ecole.cmsmasters.net/2018/12/10/extracurricular-activities-for-schoolchildren/" title="Extracurricular Activities for Schoolchildren" class="cmsmasters_open_link"></a></div></figure></div><div class="data_cat"><span class="cmsmasters_slider_post_category"><a href="https://ecole.cmsmasters.net/category/activities/" class="cmsmasters_cat_color cmsmasters_cat_30" rel="category tag">Activities</a></span><span class="cmsmasters_slider_post_date"><abbr class="published" title="December 10, 2018">December 10, 2018</abbr><abbr class="dn date updated" title="July 30, 2019">July 30, 2019</abbr></span></div><div class="cmsmasters_slider_post_inner"><header class="cmsmasters_slider_post_header entry-header"><h4 class="cmsmasters_slider_post_title entry-title"><a href="https://ecole.cmsmasters.net/2018/12/10/extracurricular-activities-for-schoolchildren/">Extracurricular Activities for Schoolchildren</a></h4></header><div class="cmsmasters_slider_post_content entry-content">
-	<p>There are many different school classes, ranging from basic required courses to elective “passion projects.” </p>
-	</div>
-	</div>	</div>
-	</article>
-	<!-- Finish Posts Slider Post Article -->
 
-	</div><div class="cmsmasters_owl_slider_item"><!-- Start Posts Slider Post Article -->
-	<article id="post-516" class="cmsmasters_slider_post post-516 post type-post status-publish format-standard has-post-thumbnail hentry category-school-life tag-children tag-communication tag-school">
-		<div class="cmsmasters_slider_post_outer">
-		<div class="cmsmasters_slider_post_date_img_wrap"><figure class="cmsmasters_img_rollover_wrap preloader"><img width="580" height="360" src="https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-3-580x360.jpg" class="full-width wp-post-image" alt="School Life, Friendship &amp; Communication" title="School Life, Friendship &#038; Communication" srcset="https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-3-580x360.jpg 580w, https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-3-860x535.jpg 860w, https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-3-1160x722.jpg 1160w" sizes="(max-width: 580px) 100vw, 580px" /><div class="cmsmasters_img_rollover"><a href="https://ecole.cmsmasters.net/2018/12/10/school-life-friendship-communication/" title="School Life, Friendship &#038; Communication" class="cmsmasters_open_link"></a></div></figure></div><div class="data_cat"><span class="cmsmasters_slider_post_category"><a href="https://ecole.cmsmasters.net/category/school-life/" class="cmsmasters_cat_color cmsmasters_cat_28" rel="category tag">School Life</a></span><span class="cmsmasters_slider_post_date"><abbr class="published" title="December 10, 2018">December 10, 2018</abbr><abbr class="dn date updated" title="July 30, 2019">July 30, 2019</abbr></span></div><div class="cmsmasters_slider_post_inner"><header class="cmsmasters_slider_post_header entry-header"><h4 class="cmsmasters_slider_post_title entry-title"><a href="https://ecole.cmsmasters.net/2018/12/10/school-life-friendship-communication/">School Life, Friendship &#038; Communication</a></h4></header><div class="cmsmasters_slider_post_content entry-content">
-	<p>There are many different school classes, ranging from basic required courses to elective “passion projects.” </p>
-	</div>
-	</div>	</div>
-	</article>
-	<!-- Finish Posts Slider Post Article -->
 
-	</div><div class="cmsmasters_owl_slider_item"><!-- Start Posts Slider Post Article -->
-	<article id="post-514" class="cmsmasters_slider_post post-514 post type-post status-publish format-standard has-post-thumbnail hentry category-school-food tag-children tag-food tag-school">
-		<div class="cmsmasters_slider_post_outer">
-		<div class="cmsmasters_slider_post_date_img_wrap"><figure class="cmsmasters_img_rollover_wrap preloader"><img width="580" height="360" src="https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-1-580x360.jpg" class="full-width wp-post-image" alt="Importance of Healthy Food at School" title="Importance of Healthy Food at School" srcset="https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-1-580x360.jpg 580w, https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-1-860x535.jpg 860w, https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-1-1160x722.jpg 1160w" sizes="(max-width: 580px) 100vw, 580px" /><div class="cmsmasters_img_rollover"><a href="https://ecole.cmsmasters.net/2018/12/10/importance-of-healthy-food-at-school/" title="Importance of Healthy Food at School" class="cmsmasters_open_link"></a></div></figure></div><div class="data_cat"><span class="cmsmasters_slider_post_category"><a href="https://ecole.cmsmasters.net/category/school-food/" class="cmsmasters_cat_color cmsmasters_cat_22" rel="category tag">School Food</a></span><span class="cmsmasters_slider_post_date"><abbr class="published" title="December 10, 2018">December 10, 2018</abbr><abbr class="dn date updated" title="November 14, 2019">November 14, 2019</abbr></span></div><div class="cmsmasters_slider_post_inner"><header class="cmsmasters_slider_post_header entry-header"><h4 class="cmsmasters_slider_post_title entry-title"><a href="https://ecole.cmsmasters.net/2018/12/10/importance-of-healthy-food-at-school/">Importance of Healthy Food at School</a></h4></header><div class="cmsmasters_slider_post_content entry-content">
-	<p>There are many different school classes, ranging from basic required courses to elective “passion projects.” </p>
-	</div>
-	</div>	</div>
-	</article>
-	<!-- Finish Posts Slider Post Article -->
+    @foreach($allblogs as $home_blog)
+    <div class="cmsmasters_owl_slider_item"><!-- Start Posts Slider Post Article -->
+        <article id="post-20" class="cmsmasters_slider_post post-20 post type-post status-publish format-standard has-post-thumbnail hentry category-technology tag-children tag-school tag-technologies">
+            <div class="cmsmasters_slider_post_outer">
+            <div class="cmsmasters_slider_post_date_img_wrap"><figure class="cmsmasters_img_rollover_wrap preloader"><img width="580" height="360" src="images/{{$home_blog->blog_image}}" class="full-width wp-post-image" alt="Modern Technologies and Development" title="Modern Technologies and Development" srcset="images/{{$home_blog->blog_image}} 580w, images/{{$home_blog->blog_image}} 860w, images/{{$home_blog->blog_image}} 1160w" sizes="(max-width: 580px) 100vw, 580px" /><div class="cmsmasters_img_rollover"><a href="https://ecole.cmsmasters.net/2018/12/10/modern-technologies-and-development/" title="Modern Technologies and Development" class="cmsmasters_open_link"></a></div></figure></div><div class="data_cat">
+                       <span class="cmsmasters_slider_post_date"><abbr class="published" title="December 10, 2018">{{date('M j, Y',strtotime($home_blog->created_at))}}</abbr><abbr class="dn date updated" title="July 30, 2019">July 30, 2019</abbr></span></div><div class="cmsmasters_slider_post_inner"><header class="cmsmasters_slider_post_header entry-header"><h4 class="cmsmasters_slider_post_title entry-title"><a href="https://ecole.cmsmasters.net/2018/12/10/modern-technologies-and-development/">{{$home_blog->title}}</a></h4></header><div class="cmsmasters_slider_post_content entry-content">
+        <p>{{ substr(strip_tags($home_blog->body), 0, 200) }}  {{ strlen(strip_tags($home_blog->body)) > 50 ? "..." : "" }}</p>
+            </div>
+        </div>	</div>
+        </article>
+        <!-- Finish Posts Slider Post Article -->
 
-	</div></div></div>
+        </div>
+@endforeach
+
+
+
+
+</div></div>
 	</div></div>
 	</div>
 	</div>
@@ -2304,4 +2287,117 @@ Fax: 203.255.4052<br />
 			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
 		} )( document.body );
 		</script>
-		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><link href="https://fonts.googleapis.com/css?family=Roboto
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><link href="https://fonts.googleapis.com/css?family=Roboto:400%7CNoto+Serif+KR:700%7CDosis:700" rel="stylesheet" property="stylesheet" type="text/css" media="all">
+
+	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+			<script type="text/javascript">
+		if(typeof revslider_showDoubleJqueryError === "undefined") {
+			function revslider_showDoubleJqueryError(sliderID) {
+				var err = "<div class='rs_error_message_box'>";
+				err += "<div class='rs_error_message_oops'>Oops...</div>";
+				err += "<div class='rs_error_message_content'>";
+				err += "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
+				err += "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' ->  'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
+				err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
+				err += "</div>";
+			err += "</div>";
+				jQuery(sliderID).show().html(err);
+			}
+		}		</script>
+		<script type="text/javascript">
+			var wc_product_block_data = JSON.parse( decodeURIComponent( '%7B%22min_columns%22%3A1%2C%22max_columns%22%3A6%2C%22default_columns%22%3A3%2C%22min_rows%22%3A1%2C%22max_rows%22%3A6%2C%22default_rows%22%3A1%2C%22thumbnail_size%22%3A540%2C%22placeholderImgSrc%22%3A%22https%3A%5C%2F%5C%2Fecole.cmsmasters.net%5C%2Fonline-school%5C%2Fwp-content%5C%2Fuploads%5C%2Fsites%5C%2F6%5C%2Fwoocommerce-placeholder.png%22%2C%22min_height%22%3A500%2C%22default_height%22%3A500%2C%22isLargeCatalog%22%3Afalse%2C%22limitTags%22%3Afalse%2C%22hasTags%22%3Atrue%2C%22productCategories%22%3A%5B%7B%22term_id%22%3A15%2C%22name%22%3A%22Uncategorized%22%2C%22slug%22%3A%22uncategorized%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A15%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fecole.cmsmasters.net%5C%2Fonline-school%5C%2Fproduct-category%5C%2Funcategorized%5C%2F%22%7D%2C%7B%22term_id%22%3A59%2C%22name%22%3A%22Backpack%22%2C%22slug%22%3A%22backpack%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A59%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A4%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fecole.cmsmasters.net%5C%2Fonline-school%5C%2Fproduct-category%5C%2Fbackpack%5C%2F%22%7D%2C%7B%22term_id%22%3A119%2C%22name%22%3A%22School%20bag%22%2C%22slug%22%3A%22school-bag%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A119%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A2%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fecole.cmsmasters.net%5C%2Fonline-school%5C%2Fproduct-category%5C%2Fschool-bag%5C%2F%22%7D%5D%2C%22homeUrl%22%3A%22https%3A%5C%2F%5C%2Fecole.cmsmasters.net%5C%2Fonline-school%5C%2F%22%7D' ) );
+		</script>
+		<link rel='stylesheet' id='mailpoet_public-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/plugins/mailpoet/assets/dist/css/public.75b7aa11.css?ver=5.2.6' type='text/css' media='all' />
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/the-events-calendar/common/src/resources/js/tribe-common.min.js?ver=4.9.16'></script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/the-events-calendar/common/src/resources/js/tooltip.min.js?ver=4.9.16'></script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/cmsmasters-mega-menu/js/jquery.megaMenu.js?ver=1.2.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/ecole.cmsmasters.net\/online-school\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.4'></script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/online-school\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/online-school\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/ecole.cmsmasters.net\/online-school\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.7.0'></script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/online-school\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/online-school\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.7.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/online-school\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/online-school\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_77c74ba53b66e23797e007eacac3379e","fragment_name":"wc_fragments_77c74ba53b66e23797e007eacac3379e","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.7.0'></script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/cmsmasters-hover-slider.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/easing.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/easy-pie-chart.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/mousewheel.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/owlcarousel.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/request-animation-frame.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/scrollspy.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/scroll-to.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/stellar.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/waypoints.min.js?ver=1.0.0'></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cmsmasters_script = {"theme_url":"https:\/\/ecole.cmsmasters.net\/online-school\/wp-content\/themes\/ecole","site_url":"https:\/\/ecole.cmsmasters.net\/online-school\/","ajaxurl":"https:\/\/ecole.cmsmasters.net\/online-school\/wp-admin\/admin-ajax.php","nonce_ajax_like":"18cf6ab3e7","nonce_ajax_view":"621101c3f7","project_puzzle_proportion":"1","gmap_api_key":"AIzaSyBIyWpcN4BzUQduapNmX5kb2DruMvy2KMc","gmap_api_key_notice":"Please add your Google Maps API key","gmap_api_key_notice_link":"read more how","primary_color":"#3b575b","ilightbox_skin":"dark","ilightbox_path":"vertical","ilightbox_infinite":"0","ilightbox_aspect_ratio":"1","ilightbox_mobile_optimizer":"1","ilightbox_max_scale":"1","ilightbox_min_scale":"0.2","ilightbox_inner_toolbar":"0","ilightbox_smart_recognition":"0","ilightbox_fullscreen_one_slide":"0","ilightbox_fullscreen_viewport":"center","ilightbox_controls_toolbar":"1","ilightbox_controls_arrows":"0","ilightbox_controls_fullscreen":"1","ilightbox_controls_thumbnail":"1","ilightbox_controls_keyboard":"1","ilightbox_controls_mousewheel":"1","ilightbox_controls_swipe":"1","ilightbox_controls_slideshow":"0","ilightbox_close_text":"Close","ilightbox_enter_fullscreen_text":"Enter Fullscreen (Shift+Enter)","ilightbox_exit_fullscreen_text":"Exit Fullscreen (Shift+Enter)","ilightbox_slideshow_text":"Slideshow","ilightbox_next_text":"Next","ilightbox_previous_text":"Previous","ilightbox_load_image_error":"An error occurred when trying to load photo.","ilightbox_load_contents_error":"An error occurred when trying to load contents.","ilightbox_missing_plugin_error":"The content your are attempting to view requires the <a href='{pluginspage}' target='_blank'>{type} plugin<\\\/a>."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/jquery.script.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cmsmasters_theme_script = {"primary_color":"#3b575b","secondary_color":"#EB5353"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/theme-framework/theme-style/js/jquery.theme-script.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/jquery.tweet.min.js?ver=1.3.1'></script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/smooth-sticky.min.js?ver=1.0.2'></script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-includes/js/comment-reply.min.js?ver=5.2.6'></script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/cmsmasters-donations/cmsmasters-framework/theme-style/js/jquery.plugin-script.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cmsmasters_woo_script = {"currency_symbol":"$","thumbnail_image_width":"120","thumbnail_image_height":"120"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/woocommerce/cmsmasters-framework/theme-style/js/jquery.plugin-script.js?ver=1.0.0'></script>
+
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/tribe-events/cmsmasters-framework/theme-style/js/jquery.plugin-script.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/learnpress/cmsmasters-framework/theme-style/js/jquery.learnpress-script.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-includes/js/wp-embed.min.js?ver=5.2.6'></script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/mailpoet/assets/dist/js/vendor.84dfeb1a.js?ver=3.35.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var MailPoetForm = {"ajax_url":"https:\/\/ecole.cmsmasters.net\/online-school\/wp-admin\/admin-ajax.php","is_rtl":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/mailpoet/assets/dist/js/public.071bc811.js?ver=3.35.3'></script>
+<script type='text/javascript'>
+function initMailpoetTranslation() {
+  if (typeof MailPoet !== 'undefined') {
+    MailPoet.I18n.add('ajaxFailedErrorMessage', 'An error has happened while performing a request, please try again later.')
+  } else {
+    setTimeout(initMailpoetTranslation, 250);
+  }
+}
+setTimeout(initMailpoetTranslation, 250);
+</script>
+</body>
+
+<!-- Mirrored from ecole.cmsmasters.net/online-school/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 05 May 2020 16:55:32 GMT -->
+</html>
