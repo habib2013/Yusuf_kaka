@@ -1,26 +1,20 @@
 <!DOCTYPE html>
-<html lang="en-US" class="cmsmasters_html">
+<html lang="en-US">
 
-<!-- Mirrored from ecole.cmsmasters.net/online-school/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 05 May 2020 16:55:28 GMT -->
+<!-- Mirrored from demo.detheme.com/coachie-kit/template-kit/homepage/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 16 May 2020 03:57:36 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-<meta name="format-detection" content="telephone=no" />
-<link rel="profile" href="https://gmpg.org/xfn/11" />
-<link rel="pingback" href="https://ecole.cmsmasters.net/online-school/xmlrpc.php" />
-<title>Yusuf Kaka</title>
-<link href="https://fonts.googleapis.com/css2?family=Jost&display=swap" rel="stylesheet">
-<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<title>Homepage &#8211; Coachie</title>
 <link rel='dns-prefetch' href='http://s.w.org/' />
-<link rel="alternate" type="application/rss+xml" title="École Online School &raquo; Feed" href="https://ecole.cmsmasters.net/online-school/feed/" />
-<link rel="alternate" type="application/rss+xml" title="École Online School &raquo; Comments Feed" href="https://ecole.cmsmasters.net/online-school/comments/feed/" />
-<link rel="alternate" type="text/calendar" title="École Online School &raquo; iCal Feed" href="https://ecole.cmsmasters.net/online-school/events/?ical=1" />
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="alternate" type="application/rss+xml" title="Coachie &raquo; Feed" href="https://demo.detheme.com/coachie-kit/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Coachie &raquo; Comments Feed" href="https://demo.detheme.com/coachie-kit/comments/feed/" />
+
 	<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ecole.cmsmasters.net\/online-school\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.6"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/demo.detheme.com\/coachie-kit\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.1"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
 img.wp-smiley,
@@ -36,2368 +30,1783 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' id='lp-course-wishlist-style-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/plugins/learnpress-wishlist/assets/css/wishlist.css?ver=5.2.6' type='text/css' media='all' />
-<link rel='stylesheet' id='tribe-reset-style-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/plugins/the-events-calendar/common/src/resources/css/reset.min.css?ver=4.9.16' type='text/css' media='all' />
-<link rel='stylesheet' id='tribe-common-style-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/plugins/the-events-calendar/common/src/resources/css/common.min.css?ver=4.9.16' type='text/css' media='all' />
-<link rel='stylesheet' id='tribe-tooltip-css-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/plugins/the-events-calendar/common/src/resources/css/tooltip.min.css?ver=4.9.16' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-block-library-css'  href='https://ecole.cmsmasters.net/online-school/wp-includes/css/dist/block-library/style.min.css?ver=5.2.6' type='text/css' media='all' />
-<link rel='stylesheet' id='mptt-blocks-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/plugins/mp-timetable//media/css/style.css?ver=2.3.2' type='text/css' media='all' />
-<link rel='stylesheet' id='wc-block-style-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.3.0' type='text/css' media='all' />
-<link rel='stylesheet' id='contact-form-7-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.4' type='text/css' media='all' />
-<link rel='stylesheet' id='cookie-law-info-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-public.css?ver=1.8.0' type='text/css' media='all' />
-<link rel='stylesheet' id='cookie-law-info-gdpr-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-gdpr.css?ver=1.8.0' type='text/css' media='all' />
-<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.1.1' type='text/css' media='all' />
-<style id='rs-plugin-settings-inline-css' type='text/css'>
-#rs-demo-id {}
-</style>
-<style id='woocommerce-inline-inline-css' type='text/css'>
-.woocommerce form .form-row .required { visibility: visible; }
-</style>
-<link rel='stylesheet' id='ecole-theme-style-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/style.css?ver=1.0.0' type='text/css' media='screen, print' />
-<link rel='stylesheet' id='ecole-style-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/theme-framework/theme-style/css/style.css?ver=1.0.0' type='text/css' media='screen, print' />
-<style id='ecole-style-inline-css' type='text/css'>
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-4-css'  href='https://demo.detheme.com/coachie-kit/wp-content/uploads/sites/130/elementor/css/post-4.css?ver=1587560415' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=2.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=2.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-175-css'  href='https://demo.detheme.com/coachie-kit/wp-content/uploads/sites/130/elementor/css/post-175.css?ver=1587555197' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://demo.detheme.com/coachie-kit/wp-includes/css/dist/block-library/style.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='template-kit-export-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/template-kit-export/public/assets/css/template-kit-export-public.min.css?ver=1.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='asRange-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/metform/public/assets/css/asRange.min.css?ver=1.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/metform/public/assets/css/select2.min.css?ver=1.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='flatpickr-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.css?ver=4.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='metform-ui-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/metform/public/assets/css/metform-ui.css?ver=1.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='metform-style-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/metform/public/assets/css/style.css?ver=1.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='hello-elementor-css'  href='https://demo.detheme.com/coachie-kit/wp-content/themes/hello-elementor/style.min.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css'  href='https://demo.detheme.com/coachie-kit/wp-content/themes/hello-elementor/theme.min.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementskit-framework-css-frontend-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementskit-lite/libs/framework/assets/css/frontend-style.min.css?ver=1.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='typing-effect-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/press-elements/assets/css/typing-effect.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='metform-css-formpicker-control-editor-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/metform/controls/assets/css/form-picker-editor.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jet-sticky-frontend-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/jetsticky-for-elementor/assets/css/jet-sticky-frontend.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementskit-css-widgetarea-control-editor-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementskit-lite/modules/controls/assets/css/widgetarea-editor.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://demo.detheme.com/coachie-kit/wp-content/uploads/sites/130/elementor/css/global.css?ver=1587549584' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-6-css'  href='https://demo.detheme.com/coachie-kit/wp-content/uploads/sites/130/elementor/css/post-6.css?ver=1587558484' type='text/css' media='all' />
+
+
+<link rel='stylesheet' id='elementor-post-24-css'  href='../../wp-content/uploads/sites/130/elementor/css/post-24.cssver=1588823857.css' type='text/css' media='all' />
+
+
+
+<link rel='stylesheet' id='elementskit-vendors-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementskit-lite/widgets/init/assets/css/vendors.css?ver=1.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementskit-style-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementskit-lite/widgets/init/assets/css/style.css?ver=1.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementskit-responsive-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=1.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Space+Mono%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CNunito+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-1-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementskit-lite/modules/controls/assets/css/ekiticons.css?ver=5.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-ekiticons-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementskit-lite/modules/controls/assets/css/ekiticons.css?ver=5.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0' type='text/css' media='all' />
+<!--n2css--><script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=2.9.8'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/template-kit-export/public/assets/js/template-kit-export-public.min.js?ver=1.0.13'></script>
+<link rel='https://api.w.org/' href='https://demo.detheme.com/coachie-kit/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://demo.detheme.com/coachie-kit/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://demo.detheme.com/coachie-kit/wp-includes/wlwmanifest.xml" />
+<link rel='next' title='About' href='https://demo.detheme.com/coachie-kit/template-kit/about/' />
+<meta name="generator" content="WordPress 5.4.1" />
+<link rel="canonical" href="https://demo.detheme.com/coachie-kit/template-kit/homepage/" />
+<link rel='shortlink' href='https://demo.detheme.com/coachie-kit/?p=24' />
+<link rel="alternate" type="application/json+oembed" href="https://demo.detheme.com/coachie-kit/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdemo.detheme.com%2Fcoachie-kit%2Ftemplate-kit%2Fhomepage%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://demo.detheme.com/coachie-kit/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdemo.detheme.com%2Fcoachie-kit%2Ftemplate-kit%2Fhomepage%2F&#038;format=xml" />
 
-	.header_mid .header_mid_inner .logo_wrap {
-		width : 116px;
-	}
-
-	.header_mid_inner .logo img.logo_retina {
-		width : 116px;
-	}
-
-
-			.headline_color {
-				background-color:#F1434B;
-			}
-
-		.headline_aligner,
-		.cmsmasters_breadcrumbs_aligner {
-			min-height:185px;
-		}
-
-
-
-		#page .cmsmasters_social_icon_color.cmsmasters_social_icon_1 {
-			background-color:rgba(0,0,0,0);
-		}
-
-
-		#page .cmsmasters_social_icon_color.cmsmasters_social_icon_1:hover {
-			background-color:rgba(0,0,0,0);
-		}
-
-		#page .cmsmasters_social_icon_color.cmsmasters_social_icon_2 {
-			background-color:rgba(0,0,0,0);
-		}
-
-
-		#page .cmsmasters_social_icon_color.cmsmasters_social_icon_2:hover {
-			background-color:rgba(0,0,0,0);
-		}
-
-		#page .cmsmasters_social_icon_color.cmsmasters_social_icon_3 {
-			background-color:rgba(0,0,0,0);
-		}
-
-
-		#page .cmsmasters_social_icon_color.cmsmasters_social_icon_3:hover {
-			background-color:rgba(0,0,0,0);
-		}
-
-		#page .cmsmasters_social_icon_color.cmsmasters_social_icon_4 {
-			background-color:rgba(0,0,0,0);
-		}
-
-
-		#page .cmsmasters_social_icon_color.cmsmasters_social_icon_4:hover {
-			background-color:rgba(0,0,0,0);
-		}
-
-	.header_top {
-		height : 46px;
-	}
-
-	.header_mid {
-		height : 124px;
-	}
-
-	.header_bot {
-		height : 62px;
-	}
-
-	#page.cmsmasters_heading_after_header #middle,
-	#page.cmsmasters_heading_under_header #middle .headline .headline_outer {
-		padding-top : 124px;
-	}
-
-	#page.cmsmasters_heading_after_header.enable_header_top #middle,
-	#page.cmsmasters_heading_under_header.enable_header_top #middle .headline .headline_outer {
-		padding-top : 168px;
-	}
-
-	#page.cmsmasters_heading_after_header.enable_header_bottom #middle,
-	#page.cmsmasters_heading_under_header.enable_header_bottom #middle .headline .headline_outer {
-		padding-top : 184px;
-	}
-
-	#page.cmsmasters_heading_after_header.enable_header_top.enable_header_bottom #middle,
-	#page.cmsmasters_heading_under_header.enable_header_top.enable_header_bottom #middle .headline .headline_outer {
-		padding-top : 230px;
-	}
-
-	@media only screen and (max-width: 1024px) {
-		.header_top,
-		.header_mid,
-		.header_bot {
-			height : auto;
-		}
-
-		.header_mid .header_mid_inner > div {
-			height : 124px;
-		}
-
-		.header_bot .header_bot_inner > div {
-			height : 62px;
-		}
-
-		#page.cmsmasters_heading_after_header #middle,
-		#page.cmsmasters_heading_under_header #middle .headline .headline_outer,
-		#page.cmsmasters_heading_after_header.enable_header_top #middle,
-		#page.cmsmasters_heading_under_header.enable_header_top #middle .headline .headline_outer,
-		#page.cmsmasters_heading_after_header.enable_header_bottom #middle,
-		#page.cmsmasters_heading_under_header.enable_header_bottom #middle .headline .headline_outer,
-		#page.cmsmasters_heading_after_header.enable_header_top.enable_header_bottom #middle,
-		#page.cmsmasters_heading_under_header.enable_header_top.enable_header_bottom #middle .headline .headline_outer {
-			padding-top : 0 !important;
-		}
-	}
-
-	@media only screen and (max-width: 768px) {
-		.header_mid .header_mid_inner > div,
-		.header_bot .header_bot_inner > div {
-			height:auto;
-		}
-	.header_mid {
-		margin-top: -50px;
-	}
-	}
-
-</style>
-<link rel='stylesheet' id='ecole-adaptive-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/theme-framework/theme-style/css/adaptive.css?ver=1.0.0' type='text/css' media='screen, print' />
-<link rel='stylesheet' id='ecole-retina-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/theme-framework/theme-style/css/retina.css?ver=1.0.0' type='text/css' media='screen' />
-<style id='ecole-retina-inline-css' type='text/css'>
-#cmsmasters_row_h0afc4j4qa .cmsmasters_row_outer_parent {
-	padding-top: 0px;
-}
-
-#cmsmasters_row_h0afc4j4qa .cmsmasters_row_outer_parent {
-	padding-bottom: 0px;
-}
-
-#cmsmasters_row_h0afc4j4qa .cmsmasters_row_inner.cmsmasters_row_fullwidth {
-	padding-left:2.1%;
-}
-#cmsmasters_row_h0afc4j4qa .cmsmasters_row_inner.cmsmasters_row_fullwidth {
-	padding-right:2.1%;
-}
-
-#cmsmasters_column_kpcyb3w5w {
-	-webkit-border-radius:15px;
-	border-radius:15px; overflow:hidden;
-}
-
-#cmsmasters_row_mynpjtavsd .cmsmasters_row_outer_parent {
-	padding-top: 82px;
-}
-
-#cmsmasters_row_mynpjtavsd .cmsmasters_row_outer_parent {
-	padding-bottom: 40px;
-}
-
-
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_row_mynpjtavsd .cmsmasters_row_outer_parent {
-					padding-bottom: 20px;
-				}
-			}
-
-#cmsmasters_column_q7bo7d5lmw {
-	border-width:1px;
-	border-style:solid;
-	border-color:#dedede;
-	-webkit-border-radius:20px;
-	border-radius:20px; overflow:hidden;
-}
-
-#cmsmasters_column_q7bo7d5lmw .cmsmasters_column_inner {
-	padding: 15px 0 15px 0;
-}
-
-
-#cmsmasters_icon_box_rcnn5yybn7 {
-	border-width:0px;
-	-webkit-border-radius:10px;
-	border-radius:10px;
-	color:#2c3f44;
-	background-color:rgba(255,255,255,0);
-}
-
-#cmsmasters_icon_box_rcnn5yybn7:before,
-#cmsmasters_icon_box_rcnn5yybn7 .icon_box_heading:before {
-	font-size:60px;
-	line-height:90px;
-	width:90px;
-	height:90px;
-	border-width:0px;
-	color:#eb5353;
-	background-color:rgba(255,255,255,0);
-}
-
-#cmsmasters_icon_box_rcnn5yybn7.cmsmasters_icon_heading_left,
-#cmsmasters_icon_box_rcnn5yybn7.cmsmasters_icon_top,
-#cmsmasters_icon_box_rcnn5yybn7.cmsmasters_icon_box_left_top {
-	padding:30px 20px; }
-
-#cmsmasters_icon_box_rcnn5yybn7.cmsmasters_icon_top:before {
-	top:30px;}
-
-#cmsmasters_icon_box_rcnn5yybn7 a:not(.cmsmasters_button),
-#cmsmasters_icon_box_rcnn5yybn7 a:not(.cmsmasters_button):hover,
-#cmsmasters_icon_box_rcnn5yybn7 h1,
-#cmsmasters_icon_box_rcnn5yybn7 h2,
-#cmsmasters_icon_box_rcnn5yybn7 h3,
-#cmsmasters_icon_box_rcnn5yybn7 h4,
-#cmsmasters_icon_box_rcnn5yybn7 h5,
-#cmsmasters_icon_box_rcnn5yybn7 h6 {
-	color:#2c3f44;}
-
-#cmsmasters_icon_box_rcnn5yybn7 a:not(.cmsmasters_button) {
-
-	text-decoration:underline;}
-
-#cmsmasters_icon_box_rcnn5yybn7 a:not(.cmsmasters_button):hover {
-
-	text-decoration:none;}
-
-#cmsmasters_icon_box_rcnn5yybn7.cmsmasters_icon_box_left,
-#cmsmasters_icon_box_rcnn5yybn7.cmsmasters_icon_box_left_top {
-	padding-left:75px;
-	margin-left:45px;
-	}
-
-#cmsmasters_icon_box_rcnn5yybn7.cmsmasters_icon_box_left:before,
-#cmsmasters_icon_box_rcnn5yybn7.cmsmasters_icon_box_left_top:before {
-	left:-45px;
-	}
-
-#cmsmasters_icon_box_rcnn5yybn7.cmsmasters_icon_box_left:before {
-	margin-top:-45px;
-	}
-
-
-
-#cmsmasters_column_b2i6jwg6l {
-	border-width:1px;
-	border-style:solid;
-	border-color:#dedede;
-	-webkit-border-radius:20px;
-	border-radius:20px; overflow:hidden;
-}
-
-#cmsmasters_column_b2i6jwg6l .cmsmasters_column_inner {
-	padding: 15px 0 15px 0;
-}
-
-
-#cmsmasters_icon_box_xp6b0yp139 {
-	border-width:0px;
-	-webkit-border-radius:10px;
-	border-radius:10px;
-	color:#2c3f44;
-	background-color:rgba(255,255,255,0);
-}
-
-#cmsmasters_icon_box_xp6b0yp139:before,
-#cmsmasters_icon_box_xp6b0yp139 .icon_box_heading:before {
-	font-size:60px;
-	line-height:90px;
-	width:90px;
-	height:90px;
-	border-width:0px;
-	color:#e5b715;
-	background-color:rgba(255,255,255,0);
-}
-
-#cmsmasters_icon_box_xp6b0yp139.cmsmasters_icon_heading_left,
-#cmsmasters_icon_box_xp6b0yp139.cmsmasters_icon_top,
-#cmsmasters_icon_box_xp6b0yp139.cmsmasters_icon_box_left_top {
-	padding:30px 20px; }
-
-#cmsmasters_icon_box_xp6b0yp139.cmsmasters_icon_top:before {
-	top:30px;}
-
-#cmsmasters_icon_box_xp6b0yp139 a:not(.cmsmasters_button),
-#cmsmasters_icon_box_xp6b0yp139 a:not(.cmsmasters_button):hover,
-#cmsmasters_icon_box_xp6b0yp139 h1,
-#cmsmasters_icon_box_xp6b0yp139 h2,
-#cmsmasters_icon_box_xp6b0yp139 h3,
-#cmsmasters_icon_box_xp6b0yp139 h4,
-#cmsmasters_icon_box_xp6b0yp139 h5,
-#cmsmasters_icon_box_xp6b0yp139 h6 {
-	color:#2c3f44;}
-
-#cmsmasters_icon_box_xp6b0yp139 a:not(.cmsmasters_button) {
-
-	text-decoration:underline;}
-
-#cmsmasters_icon_box_xp6b0yp139 a:not(.cmsmasters_button):hover {
-
-	text-decoration:none;}
-
-#cmsmasters_icon_box_xp6b0yp139.cmsmasters_icon_box_left,
-#cmsmasters_icon_box_xp6b0yp139.cmsmasters_icon_box_left_top {
-	padding-left:75px;
-	margin-left:45px;
-	}
-
-#cmsmasters_icon_box_xp6b0yp139.cmsmasters_icon_box_left:before,
-#cmsmasters_icon_box_xp6b0yp139.cmsmasters_icon_box_left_top:before {
-	left:-45px;
-	}
-
-#cmsmasters_icon_box_xp6b0yp139.cmsmasters_icon_box_left:before {
-	margin-top:-45px;
-	}
-
-
-
-#cmsmasters_column_d5krw2l8as {
-	border-width:1px;
-	border-style:solid;
-	border-color:#dedede;
-	-webkit-border-radius:20px;
-	border-radius:20px; overflow:hidden;
-}
-
-#cmsmasters_column_d5krw2l8as .cmsmasters_column_inner {
-	padding: 15px 0 15px 0;
-}
-
-
-#cmsmasters_icon_box_7z4yl4ws09 {
-	border-width:0px;
-	-webkit-border-radius:10px;
-	border-radius:10px;
-	color:#2c3f44;
-	background-color:rgba(255,255,255,0);
-}
-
-#cmsmasters_icon_box_7z4yl4ws09:before,
-#cmsmasters_icon_box_7z4yl4ws09 .icon_box_heading:before {
-	font-size:60px;
-	line-height:90px;
-	width:90px;
-	height:90px;
-	border-width:0px;
-	color:#007690;
-	background-color:rgba(255,255,255,0);
-}
-
-#cmsmasters_icon_box_7z4yl4ws09.cmsmasters_icon_heading_left,
-#cmsmasters_icon_box_7z4yl4ws09.cmsmasters_icon_top,
-#cmsmasters_icon_box_7z4yl4ws09.cmsmasters_icon_box_left_top {
-	padding:30px 20px; }
-
-#cmsmasters_icon_box_7z4yl4ws09.cmsmasters_icon_top:before {
-	top:30px;}
-
-#cmsmasters_icon_box_7z4yl4ws09 a:not(.cmsmasters_button),
-#cmsmasters_icon_box_7z4yl4ws09 a:not(.cmsmasters_button):hover,
-#cmsmasters_icon_box_7z4yl4ws09 h1,
-#cmsmasters_icon_box_7z4yl4ws09 h2,
-#cmsmasters_icon_box_7z4yl4ws09 h3,
-#cmsmasters_icon_box_7z4yl4ws09 h4,
-#cmsmasters_icon_box_7z4yl4ws09 h5,
-#cmsmasters_icon_box_7z4yl4ws09 h6 {
-	color:#2c3f44;}
-
-#cmsmasters_icon_box_7z4yl4ws09 a:not(.cmsmasters_button) {
-
-	text-decoration:underline;}
-
-#cmsmasters_icon_box_7z4yl4ws09 a:not(.cmsmasters_button):hover {
-
-	text-decoration:none;}
-
-#cmsmasters_icon_box_7z4yl4ws09.cmsmasters_icon_box_left,
-#cmsmasters_icon_box_7z4yl4ws09.cmsmasters_icon_box_left_top {
-	padding-left:75px;
-	margin-left:45px;
-	}
-
-#cmsmasters_icon_box_7z4yl4ws09.cmsmasters_icon_box_left:before,
-#cmsmasters_icon_box_7z4yl4ws09.cmsmasters_icon_box_left_top:before {
-	left:-45px;
-	}
-
-#cmsmasters_icon_box_7z4yl4ws09.cmsmasters_icon_box_left:before {
-	margin-top:-45px;
-	}
-
-
-#cmsmasters_row_rb78rt2bpi .cmsmasters_row_outer_parent {
-	padding-top: 0px;
-}
-
-#cmsmasters_row_rb78rt2bpi .cmsmasters_row_outer_parent {
-	padding-bottom: 50px;
-}
-
-
-#cmsmasters_column_nqox8cjd5y {
-	border-width:1px;
-	border-style:solid;
-	border-color:#dedede;
-	-webkit-border-radius:20px;
-	border-radius:20px; overflow:hidden;
-}
-
-#cmsmasters_column_nqox8cjd5y .cmsmasters_column_inner {
-	padding: 15px 0 15px 0;
-}
-
-
-#cmsmasters_icon_box_b2y36iq9go {
-	border-width:0px;
-	-webkit-border-radius:10px;
-	border-radius:10px;
-	color:#2c3f44;
-	background-color:rgba(255,255,255,0);
-}
-
-#cmsmasters_icon_box_b2y36iq9go:before,
-#cmsmasters_icon_box_b2y36iq9go .icon_box_heading:before {
-	font-size:60px;
-	line-height:90px;
-	width:90px;
-	height:90px;
-	border-width:0px;
-	color:#eb5353;
-	background-color:rgba(255,255,255,0);
-}
-
-#cmsmasters_icon_box_b2y36iq9go.cmsmasters_icon_heading_left,
-#cmsmasters_icon_box_b2y36iq9go.cmsmasters_icon_top,
-#cmsmasters_icon_box_b2y36iq9go.cmsmasters_icon_box_left_top {
-	padding:30px 20px; }
-
-#cmsmasters_icon_box_b2y36iq9go.cmsmasters_icon_top:before {
-	top:30px;}
-
-#cmsmasters_icon_box_b2y36iq9go a:not(.cmsmasters_button),
-#cmsmasters_icon_box_b2y36iq9go a:not(.cmsmasters_button):hover,
-#cmsmasters_icon_box_b2y36iq9go h1,
-#cmsmasters_icon_box_b2y36iq9go h2,
-#cmsmasters_icon_box_b2y36iq9go h3,
-#cmsmasters_icon_box_b2y36iq9go h4,
-#cmsmasters_icon_box_b2y36iq9go h5,
-#cmsmasters_icon_box_b2y36iq9go h6 {
-	color:#2c3f44;}
-
-#cmsmasters_icon_box_b2y36iq9go a:not(.cmsmasters_button) {
-
-	text-decoration:underline;}
-
-#cmsmasters_icon_box_b2y36iq9go a:not(.cmsmasters_button):hover {
-
-	text-decoration:none;}
-
-#cmsmasters_icon_box_b2y36iq9go.cmsmasters_icon_box_left,
-#cmsmasters_icon_box_b2y36iq9go.cmsmasters_icon_box_left_top {
-	padding-left:75px;
-	margin-left:45px;
-	}
-
-#cmsmasters_icon_box_b2y36iq9go.cmsmasters_icon_box_left:before,
-#cmsmasters_icon_box_b2y36iq9go.cmsmasters_icon_box_left_top:before {
-	left:-45px;
-	}
-
-#cmsmasters_icon_box_b2y36iq9go.cmsmasters_icon_box_left:before {
-	margin-top:-45px;
-	}
-
-
-
-#cmsmasters_column_px4myppn1q {
-	border-width:1px;
-	border-style:solid;
-	border-color:#dedede;
-	-webkit-border-radius:20px;
-	border-radius:20px; overflow:hidden;
-}
-
-#cmsmasters_column_px4myppn1q .cmsmasters_column_inner {
-	padding: 15px 0 15px 0;
-}
-
-
-#cmsmasters_icon_box_jxcuai4x1f {
-	border-width:0px;
-	-webkit-border-radius:10px;
-	border-radius:10px;
-	color:#2c3f44;
-	background-color:rgba(255,255,255,0);
-}
-
-#cmsmasters_icon_box_jxcuai4x1f:before,
-#cmsmasters_icon_box_jxcuai4x1f .icon_box_heading:before {
-	font-size:60px;
-	line-height:90px;
-	width:90px;
-	height:90px;
-	border-width:0px;
-	color:#e5b715;
-	background-color:rgba(255,255,255,0);
-}
-
-#cmsmasters_icon_box_jxcuai4x1f.cmsmasters_icon_heading_left,
-#cmsmasters_icon_box_jxcuai4x1f.cmsmasters_icon_top,
-#cmsmasters_icon_box_jxcuai4x1f.cmsmasters_icon_box_left_top {
-	padding:30px 20px; }
-
-#cmsmasters_icon_box_jxcuai4x1f.cmsmasters_icon_top:before {
-	top:30px;}
-
-#cmsmasters_icon_box_jxcuai4x1f a:not(.cmsmasters_button),
-#cmsmasters_icon_box_jxcuai4x1f a:not(.cmsmasters_button):hover,
-#cmsmasters_icon_box_jxcuai4x1f h1,
-#cmsmasters_icon_box_jxcuai4x1f h2,
-#cmsmasters_icon_box_jxcuai4x1f h3,
-#cmsmasters_icon_box_jxcuai4x1f h4,
-#cmsmasters_icon_box_jxcuai4x1f h5,
-#cmsmasters_icon_box_jxcuai4x1f h6 {
-	color:#2c3f44;}
-
-#cmsmasters_icon_box_jxcuai4x1f a:not(.cmsmasters_button) {
-
-	text-decoration:underline;}
-
-#cmsmasters_icon_box_jxcuai4x1f a:not(.cmsmasters_button):hover {
-
-	text-decoration:none;}
-
-#cmsmasters_icon_box_jxcuai4x1f.cmsmasters_icon_box_left,
-#cmsmasters_icon_box_jxcuai4x1f.cmsmasters_icon_box_left_top {
-	padding-left:75px;
-	margin-left:45px;
-	}
-
-#cmsmasters_icon_box_jxcuai4x1f.cmsmasters_icon_box_left:before,
-#cmsmasters_icon_box_jxcuai4x1f.cmsmasters_icon_box_left_top:before {
-	left:-45px;
-	}
-
-#cmsmasters_icon_box_jxcuai4x1f.cmsmasters_icon_box_left:before {
-	margin-top:-45px;
-	}
-
-
-
-#cmsmasters_column_uhieq7a1pq {
-	border-width:1px;
-	border-style:solid;
-	border-color:#dedede;
-	-webkit-border-radius:20px;
-	border-radius:20px; overflow:hidden;
-}
-
-#cmsmasters_column_uhieq7a1pq .cmsmasters_column_inner {
-	padding: 15px 0 15px 0;
-}
-
-
-#cmsmasters_icon_box_ffxyl0usi {
-	border-width:0px;
-	-webkit-border-radius:10px;
-	border-radius:10px;
-	color:#2c3f44;
-	background-color:rgba(255,255,255,0);
-}
-
-#cmsmasters_icon_box_ffxyl0usi:before,
-#cmsmasters_icon_box_ffxyl0usi .icon_box_heading:before {
-	font-size:60px;
-	line-height:90px;
-	width:90px;
-	height:90px;
-	border-width:0px;
-	color:#007690;
-	background-color:rgba(255,255,255,0);
-}
-
-#cmsmasters_icon_box_ffxyl0usi.cmsmasters_icon_heading_left,
-#cmsmasters_icon_box_ffxyl0usi.cmsmasters_icon_top,
-#cmsmasters_icon_box_ffxyl0usi.cmsmasters_icon_box_left_top {
-	padding:30px 20px; }
-
-#cmsmasters_icon_box_ffxyl0usi.cmsmasters_icon_top:before {
-	top:30px;}
-
-#cmsmasters_icon_box_ffxyl0usi a:not(.cmsmasters_button),
-#cmsmasters_icon_box_ffxyl0usi a:not(.cmsmasters_button):hover,
-#cmsmasters_icon_box_ffxyl0usi h1,
-#cmsmasters_icon_box_ffxyl0usi h2,
-#cmsmasters_icon_box_ffxyl0usi h3,
-#cmsmasters_icon_box_ffxyl0usi h4,
-#cmsmasters_icon_box_ffxyl0usi h5,
-#cmsmasters_icon_box_ffxyl0usi h6 {
-	color:#2c3f44;}
-
-#cmsmasters_icon_box_ffxyl0usi a:not(.cmsmasters_button) {
-
-	text-decoration:underline;}
-
-#cmsmasters_icon_box_ffxyl0usi a:not(.cmsmasters_button):hover {
-
-	text-decoration:none;}
-
-#cmsmasters_icon_box_ffxyl0usi.cmsmasters_icon_box_left,
-#cmsmasters_icon_box_ffxyl0usi.cmsmasters_icon_box_left_top {
-	padding-left:75px;
-	margin-left:45px;
-	}
-
-#cmsmasters_icon_box_ffxyl0usi.cmsmasters_icon_box_left:before,
-#cmsmasters_icon_box_ffxyl0usi.cmsmasters_icon_box_left_top:before {
-	left:-45px;
-	}
-
-#cmsmasters_icon_box_ffxyl0usi.cmsmasters_icon_box_left:before {
-	margin-top:-45px;
-	}
-
-
-#cmsmasters_row_krgkeeoycv .cmsmasters_row_outer_parent {
-	padding-top: 50px;
-}
-
-#cmsmasters_row_krgkeeoycv .cmsmasters_row_outer_parent {
-	padding-bottom: 0px;
-}
-
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_row_krgkeeoycv .cmsmasters_row_outer_parent {
-					padding-top: 20px;
-				}
-			}
-
-
-			@media only screen and (max-width: 320px) {
-				#cmsmasters_column_841ftrh1sa .cmsmasters_column_inner {
-					padding: 0 15px 0 0;
-				}
-			}
-
-#cmsmasters_heading_t113ax83n8 {
-	text-align:center;
-	margin-top:0px;
-	margin-bottom:60px;
-}
-
-#cmsmasters_heading_t113ax83n8 .cmsmasters_heading {
-	text-align:center;
-}
-
-#cmsmasters_heading_t113ax83n8 .cmsmasters_heading, #cmsmasters_heading_t113ax83n8 .cmsmasters_heading a {
-	font-family:'Noto Serif KR';
-	font-size:40px;
-	line-height:60px;
-	color:#2c3f44;
-}
-
-#cmsmasters_heading_t113ax83n8 .cmsmasters_heading a:hover {
-}
-
-#cmsmasters_heading_t113ax83n8 .cmsmasters_heading_divider {
-}
-
-@media (max-width: 1024px) {
-						#cmsmasters_heading_t113ax83n8 .cmsmasters_heading,
-						#cmsmasters_heading_t113ax83n8 .cmsmasters_heading a { font-size:34px;line-height:54px;}
-					}@media (max-width: 320px) {
-						#cmsmasters_heading_t113ax83n8 .cmsmasters_heading,
-						#cmsmasters_heading_t113ax83n8 .cmsmasters_heading a { font-size:32px;line-height:52px;}
-					}
-#cmsmasters_row_y5h9pefb8d {
-	background-color:#ffffff;
-}
-
-#cmsmasters_row_y5h9pefb8d .cmsmasters_row_outer_parent {
-	padding-top: 40px;
-}
-
-#cmsmasters_row_y5h9pefb8d .cmsmasters_row_outer_parent {
-	padding-bottom: 30px;
-}
-
-
-			@media only screen and (min-width: 1440px) {
-				#cmsmasters_row_y5h9pefb8d .cmsmasters_row_outer_parent {
-					padding-top: 70px;
-				}
-			}
-
-			@media only screen and (min-width: 1440px) {
-				#cmsmasters_row_y5h9pefb8d .cmsmasters_row_outer_parent {
-					padding-bottom: 10px;
-				}
-			}
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_row_y5h9pefb8d .cmsmasters_row_outer_parent {
-					padding-top: 30px;
-				}
-			}
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_row_y5h9pefb8d .cmsmasters_row_outer_parent {
-					padding-bottom: 30px;
-				}
-			}
-
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_row_y5h9pefb8d .cmsmasters_row_outer_parent {
-					padding-top: 60px;
-				}
-			}
-			#cmsmasters_row_y5h9pefb8d .cmsmasters_row_inner.cmsmasters_row_fullwidth {
-	padding-left:0%;
-}
-#cmsmasters_row_y5h9pefb8d .cmsmasters_row_inner.cmsmasters_row_fullwidth {
-	padding-right:0%;
-}
-
-#cmsmasters_column_emkak9y71q {
-	background-image: url(https://ecole.cmsmasters.net/online-school/wp-content/uploads/sites/6/2019/08/cole-home-2-3.jpg);
-	background-position: center left;
-	background-repeat: no-repeat;
-	background-attachment: scroll;
-	background-size: contain;
-}
-
-#cmsmasters_column_emkak9y71q .cmsmasters_column_inner {
-	padding: 0 0 600px 0;
-}
-
-
-			@media only screen and (min-width: 1440px) {
-				#cmsmasters_column_emkak9y71q .cmsmasters_column_inner {
-					padding: 0 0 80% 0;
-				}
-			}
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_column_emkak9y71q .cmsmasters_column_inner {
-					padding: 0 0 500px 0;
-				}
-			}
-
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_column_emkak9y71q .cmsmasters_column_inner {
-					padding: 0 0 550px 0;
-				}
-			}
-
-			@media only screen and (max-width: 540px) {
-				#cmsmasters_column_emkak9y71q .cmsmasters_column_inner {
-					padding: 0 0 370px 0;
-				}
-			}
-
-			@media only screen and (max-width: 320px) {
-				#cmsmasters_column_emkak9y71q .cmsmasters_column_inner {
-					padding: 0 0 270px 0;
-				}
-			}
-
-#cmsmasters_column_uxhriuxiqo .cmsmasters_column_inner {
-	padding: 11% 100px 0 70px;
-}
-
-
-			@media only screen and (min-width: 1440px) {
-				#cmsmasters_column_uxhriuxiqo .cmsmasters_column_inner {
-					padding: 15% 30% 0 70px;
-				}
-			}
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_column_uxhriuxiqo .cmsmasters_column_inner {
-					padding: 15% 10px 0 70px;
-				}
-			}
-
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_column_uxhriuxiqo .cmsmasters_column_inner {
-					padding: 0px 10px 30px 20px;
-				}
-			}
-
-			@media only screen and (max-width: 540px) {
-				#cmsmasters_column_uxhriuxiqo .cmsmasters_column_inner {
-					padding: 0px 10px 30px 20px;
-				}
-			}
-
-			@media only screen and (max-width: 320px) {
-				#cmsmasters_column_uxhriuxiqo .cmsmasters_column_inner {
-					padding: 0px 0px 30px 20px;
-				}
-			}
-
-#cmsmasters_fb_ymehpfk2qe {
-	padding-top:0px;
-	padding-bottom:0px;
-	background-color:rgba(255,255,255,0);
-}
-
-#cmsmasters_fb_ymehpfk2qe .featured_block_inner {
-	width: 100%;
-	padding: 0 50px 0 0;
-	text-align: left;
-	margin:0 auto;
-}
-
-#cmsmasters_fb_ymehpfk2qe .featured_block_text {
-	text-align: left;
-}
-
-
-
-#cmsmasters_heading_ymehpfk2qe {
-	text-align:left;
-	margin-top:0px;
-	margin-bottom:30px;
-}
-
-#cmsmasters_heading_ymehpfk2qe .cmsmasters_heading {
-	text-align:left;
-}
-
-#cmsmasters_heading_ymehpfk2qe .cmsmasters_heading, #cmsmasters_heading_ymehpfk2qe .cmsmasters_heading a {
-	font-family:'Noto Serif KR';
-	font-size:42px;
-	line-height:60px;
-	color:#2C3F44;
-}
-
-#cmsmasters_heading_ymehpfk2qe .cmsmasters_heading a:hover {
-}
-
-#cmsmasters_heading_ymehpfk2qe .cmsmasters_heading_divider {
-}
-
-@media (max-width: 1024px) {
-						#cmsmasters_heading_ymehpfk2qe .cmsmasters_heading,
-						#cmsmasters_heading_ymehpfk2qe .cmsmasters_heading a { font-size:34px;line-height:54px;}
-					}
-
-#cmsmasters_divider_yyzvre1ddw {
-	border-bottom-width:0px;
-	border-bottom-style:solid;
-	margin-top:0px;
-	margin-bottom:33px;
-}
-
-#cmsmasters_button_y53qv8jg1 {
-	float:left;
-	text-align:left;
-
-}
-
-#cmsmasters_button_y53qv8jg1 .cmsmasters_button:before {
-	margin-right:.5em;
-	margin-left:0;
-	vertical-align:baseline;
-}
-
-#cmsmasters_button_y53qv8jg1 .cmsmasters_button {
-	font-family:'Dosis';
-	font-size:16px;
-	padding-right:30px;
-	padding-left:30px;
-	background-color:#007690;
-	color:#ffffff;
-	border-color:#007690;
-}
-#cmsmasters_button_y53qv8jg1 .cmsmasters_button:hover {
-	background-color:#ffffff;
-	color:#007690;
-	border-color:#007690;
-}
-
-#cmsmasters_row_z37gnktrxi .cmsmasters_row_outer_parent {
-	padding-top: 0px;
-}
-
-#cmsmasters_row_z37gnktrxi .cmsmasters_row_outer_parent {
-	padding-bottom: 35px;
-}
-
-
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_row_z37gnktrxi .cmsmasters_row_outer_parent {
-					padding-top: 30px;
-				}
-			}
-
-
-			@media only screen and (max-width: 320px) {
-				#cmsmasters_column_m59j1ji3k .cmsmasters_column_inner {
-					padding: 0 15px 0 0;
-				}
-			}
-
-#cmsmasters_heading_yq5rxndwb {
-	text-align:center;
-	margin-top:0px;
-	margin-bottom:60px;
-}
-
-#cmsmasters_heading_yq5rxndwb .cmsmasters_heading {
-	text-align:center;
-}
-
-#cmsmasters_heading_yq5rxndwb .cmsmasters_heading, #cmsmasters_heading_yq5rxndwb .cmsmasters_heading a {
-	font-family:'Noto Serif KR';
-	font-size:40px;
-	line-height:60px;
-	color:#2c3f44;
-}
-
-#cmsmasters_heading_yq5rxndwb .cmsmasters_heading a:hover {
-}
-
-#cmsmasters_heading_yq5rxndwb .cmsmasters_heading_divider {
-}
-
-@media (max-width: 1024px) {
-						#cmsmasters_heading_yq5rxndwb .cmsmasters_heading,
-						#cmsmasters_heading_yq5rxndwb .cmsmasters_heading a { font-size:34px;line-height:54px;}
-					}@media (max-width: 320px) {
-						#cmsmasters_heading_yq5rxndwb .cmsmasters_heading,
-						#cmsmasters_heading_yq5rxndwb .cmsmasters_heading a { font-size:32px;line-height:52px;}
-					}
-#cmsmasters_row_mlai76sctv {
-	background-color:#ffffff;
-}
-
-#cmsmasters_row_mlai76sctv .cmsmasters_row_outer_parent {
-	padding-top: 70px;
-}
-
-#cmsmasters_row_mlai76sctv .cmsmasters_row_outer_parent {
-	padding-bottom: 0px;
-}
-
-
-			@media only screen and (min-width: 1440px) {
-				#cmsmasters_row_mlai76sctv .cmsmasters_row_outer_parent {
-					padding-top: 70px;
-				}
-			}
-
-			@media only screen and (min-width: 1440px) {
-				#cmsmasters_row_mlai76sctv .cmsmasters_row_outer_parent {
-					padding-bottom: 40px;
-				}
-			}
-			#cmsmasters_row_mlai76sctv .cmsmasters_row_inner.cmsmasters_row_fullwidth {
-	padding-left:0%;
-}
-#cmsmasters_row_mlai76sctv .cmsmasters_row_inner.cmsmasters_row_fullwidth {
-	padding-right:0%;
-}
-
-#cmsmasters_column_0sh6m3ir3 .cmsmasters_column_inner {
-	padding: 10px 0px 0 5%;
-}
-
-
-			@media only screen and (min-width: 1440px) {
-				#cmsmasters_column_0sh6m3ir3 .cmsmasters_column_inner {
-					padding: 60px 0px 0 40%;
-				}
-			}
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_column_0sh6m3ir3 .cmsmasters_column_inner {
-					padding: 10px 0px 0 20px;
-				}
-			}
-
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_column_0sh6m3ir3 .cmsmasters_column_inner {
-					padding: 10px 0px 50px 20px;
-				}
-			}
-
-#cmsmasters_fb_1ni9y4qlvm {
-	padding-top:0px;
-	padding-bottom:0px;
-	background-color:rgba(255,255,255,0);
-}
-
-#cmsmasters_fb_1ni9y4qlvm .featured_block_inner {
-	width: 100%;
-	padding: 0 0px 0 0;
-	text-align: left;
-	margin:0 auto;
-}
-
-#cmsmasters_fb_1ni9y4qlvm .featured_block_text {
-	text-align: left;
-}
-
-
-
-#cmsmasters_heading_1ni9y4qlvm {
-	text-align:left;
-	margin-top:0px;
-	margin-bottom:23px;
-}
-
-#cmsmasters_heading_1ni9y4qlvm .cmsmasters_heading {
-	text-align:left;
-}
-
-#cmsmasters_heading_1ni9y4qlvm .cmsmasters_heading, #cmsmasters_heading_1ni9y4qlvm .cmsmasters_heading a {
-	font-family:'Noto Serif KR';
-	font-size:42px;
-	line-height:60px;
-	color:#2C3F44;
-}
-
-#cmsmasters_heading_1ni9y4qlvm .cmsmasters_heading a:hover {
-}
-
-#cmsmasters_heading_1ni9y4qlvm .cmsmasters_heading_divider {
-}
-
-@media (max-width: 1024px) {
-						#cmsmasters_heading_1ni9y4qlvm .cmsmasters_heading,
-						#cmsmasters_heading_1ni9y4qlvm .cmsmasters_heading a { font-size:34px;line-height:54px;}
-					}
-
-#cmsmasters_column_d0stix3co {
-	background-image: url(https://ecole.cmsmasters.net/online-school/wp-content/uploads/sites/6/2019/08/cole-home-3-3.jpg);
-	background-position: top center;
-	background-repeat: no-repeat;
-	background-attachment: scroll;
-	background-size: contain;
-}
-
-#cmsmasters_column_d0stix3co .cmsmasters_column_inner {
-	padding: 0 0 700px 0;
-}
-
-
-			@media only screen and (min-width: 1440px) {
-				#cmsmasters_column_d0stix3co .cmsmasters_column_inner {
-					padding: 0 0 765px 0;
-				}
-			}
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_column_d0stix3co .cmsmasters_column_inner {
-					padding: 0 0 600px 0;
-				}
-			}
-
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_column_d0stix3co .cmsmasters_column_inner {
-					padding: 0 0 550px 0;
-				}
-			}
-
-			@media only screen and (max-width: 540px) {
-				#cmsmasters_column_d0stix3co .cmsmasters_column_inner {
-					padding: 0 0 400px 0;
-				}
-			}
-
-			@media only screen and (max-width: 320px) {
-				#cmsmasters_column_d0stix3co .cmsmasters_column_inner {
-					padding: 0 0 300px 0;
-				}
-			}
-			#cmsmasters_row_b6jjm0jnqk .cmsmasters_row_outer_parent {
-	padding-top: 0px;
-}
-
-#cmsmasters_row_b6jjm0jnqk .cmsmasters_row_outer_parent {
-	padding-bottom: 60px;
-}
-
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_row_b6jjm0jnqk .cmsmasters_row_outer_parent {
-					padding-top: 30px;
-				}
-			}
-
-			@media only screen and (max-width: 540px) {
-				#cmsmasters_row_b6jjm0jnqk .cmsmasters_row_outer_parent {
-					padding-top: 50px;
-				}
-			}
-
-
-			@media only screen and (max-width: 320px) {
-				#cmsmasters_column_x974jija3c .cmsmasters_column_inner {
-					padding: 0 15px 0 0;
-				}
-			}
-
-#cmsmasters_heading_9zc36x4f8 {
-	text-align:center;
-	margin-top:0px;
-	margin-bottom:60px;
-}
-
-#cmsmasters_heading_9zc36x4f8 .cmsmasters_heading {
-	text-align:center;
-}
-
-#cmsmasters_heading_9zc36x4f8 .cmsmasters_heading, #cmsmasters_heading_9zc36x4f8 .cmsmasters_heading a {
-	font-family:'Noto Serif KR';
-	font-size:42px;
-	line-height:60px;
-	color:#2c3f44;
-}
-
-#cmsmasters_heading_9zc36x4f8 .cmsmasters_heading a:hover {
-}
-
-#cmsmasters_heading_9zc36x4f8 .cmsmasters_heading_divider {
-}
-
-@media (max-width: 1024px) {
-						#cmsmasters_heading_9zc36x4f8 .cmsmasters_heading,
-						#cmsmasters_heading_9zc36x4f8 .cmsmasters_heading a { font-size:34px;line-height:54px;}
-					}@media (max-width: 320px) {
-						#cmsmasters_heading_9zc36x4f8 .cmsmasters_heading,
-						#cmsmasters_heading_9zc36x4f8 .cmsmasters_heading a { font-size:32px;line-height:52px;}
-					}
-#cmsmasters_row_74gp2u4f0o {
-	background-color:#ffd3e4;
-	background-image: url(https://ecole.cmsmasters.net/online-school/wp-content/uploads/sites/6/2019/08/cole-home-4-3.jpg);
-	background-position: top center;
-	background-repeat: no-repeat;
-	background-attachment: scroll;
-	background-size: cover;
-}
-
-
-		@media only screen and (max-width: 320px) {
-			#cmsmasters_row_74gp2u4f0o.cmsmasters_row {
-				background-image: none;
-			}
-		}
-		#cmsmasters_row_74gp2u4f0o .cmsmasters_row_outer_parent {
-	padding-top: 0px;
-}
-
-#cmsmasters_row_74gp2u4f0o .cmsmasters_row_outer_parent {
-	padding-bottom: 50px;
-}
-
-
-#cmsmasters_column_0e9wx82rvo .cmsmasters_column_inner {
-	padding: 130px 0 80px 0;
-}
-
-
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_column_0e9wx82rvo .cmsmasters_column_inner {
-					padding: 130px 30% 80px 0;
-				}
-			}
-
-			@media only screen and (max-width: 540px) {
-				#cmsmasters_column_0e9wx82rvo .cmsmasters_column_inner {
-					padding: 90px 30% 50px 0;
-				}
-			}
-
-			@media only screen and (max-width: 320px) {
-				#cmsmasters_column_0e9wx82rvo .cmsmasters_column_inner {
-					padding: 70px 0% 40px 0;
-				}
-			}
-
-#cmsmasters_heading_96oty3sb3q {
-	text-align:left;
-	margin-top:0px;
-	margin-bottom:15px;
-}
-
-#cmsmasters_heading_96oty3sb3q .cmsmasters_heading {
-	text-align:left;
-}
-
-#cmsmasters_heading_96oty3sb3q .cmsmasters_heading, #cmsmasters_heading_96oty3sb3q .cmsmasters_heading a {
-	font-family:'Noto Serif KR';
-	font-size:42px;
-	line-height:60px;
-	color:#2c3f44;
-}
-
-#cmsmasters_heading_96oty3sb3q .cmsmasters_heading a:hover {
-}
-
-#cmsmasters_heading_96oty3sb3q .cmsmasters_heading_divider {
-}
-
-@media (max-width: 1024px) {
-						#cmsmasters_heading_96oty3sb3q .cmsmasters_heading,
-						#cmsmasters_heading_96oty3sb3q .cmsmasters_heading a { font-size:34px;line-height:54px;}
-					}@media (max-width: 320px) {
-						#cmsmasters_heading_96oty3sb3q .cmsmasters_heading,
-						#cmsmasters_heading_96oty3sb3q .cmsmasters_heading a { font-size:32px;line-height:52px;}
-					}
-
-#cmsmasters_divider_cmys19skoh {
-	border-bottom-width:0px;
-	border-bottom-style:solid;
-	margin-top:0px;
-	margin-bottom:20px;
-}
-
-#cmsmasters_button_ubibkswjsq {
-	display:inline-block;
-	;
-
-	margin:0 30px 0 0;
-}
-
-#cmsmasters_button_ubibkswjsq .cmsmasters_button:before {
-	margin-right:.5em;
-	margin-left:0;
-	vertical-align:baseline;
-}
-
-#cmsmasters_button_ubibkswjsq .cmsmasters_button {
-	font-family:'Dosis';
-	font-size:16px;
-	padding-right:30px;
-	padding-left:30px;
-	background-color:#f1434b;
-	color:#ffffff;
-	border-color:#f1434b;
-}
-#cmsmasters_button_ubibkswjsq .cmsmasters_button:hover {
-	background-color:#ffffff;
-	color:#f1434b;
-	border-color:#f1434b;
-}
-
-
-#cmsmasters_button_nrlyye9moa {
-	display:inline-block;
-	;
-
-}
-
-#cmsmasters_button_nrlyye9moa .cmsmasters_button:before {
-	margin-right:.5em;
-	margin-left:0;
-	vertical-align:baseline;
-}
-
-
-@media only screen and (max-width: 768px) {
-						#cmsmasters_button_nrlyye9moa { margin:0 0 0 0;
-						}
-					}
-				#cmsmasters_button_nrlyye9moa .cmsmasters_button {
-	font-family:'Dosis';
-	font-size:16px;
-	padding-right:0px;
-	padding-left:0px;
-	background-color:rgba(255,255,255,0);
-	color:#f1434b;
-	border-color:rgba(255,255,255,0);
-}
-#cmsmasters_button_nrlyye9moa .cmsmasters_button:hover {
-	background-color:rgba(255,255,255,0);
-	color:#ffffff;
-	border-color:rgba(255,255,255,0);
-}
-
-
-#cmsmasters_row_ejw9md0msg .cmsmasters_row_outer_parent {
-	padding-top: 0px;
-}
-
-#cmsmasters_row_ejw9md0msg .cmsmasters_row_outer_parent {
-	padding-bottom: 0px;
-}
-
-
-.cmsmasters_custom_style .cmsmasters_column_inner {
-    -webkit-border-radius: 15px;
-    border-radius: 15px;
-     overflow: hidden;
-}
-</style>
-<link rel='stylesheet' id='ecole-icons-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/css/fontello.css?ver=1.0.0' type='text/css' media='screen' />
-<link rel='stylesheet' id='ecole-icons-custom-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/theme-vars/theme-style/css/fontello-custom.css?ver=1.0.0' type='text/css' media='screen' />
-<link rel='stylesheet' id='animate-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/css/animate.css?ver=1.0.0' type='text/css' media='screen' />
-<link rel='stylesheet' id='i-light-box-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/css/ilightbox.css?ver=2.2.0' type='text/css' media='screen' />
-<link rel='stylesheet' id='ilightbox-skin-dark-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/css/ilightbox-skins/dark-skin.css?ver=2.2.0' type='text/css' media='screen' />
-<link rel='stylesheet' id='ecole-fonts-schemes-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/uploads/sites/6/cmsmasters_styles/ecole.css?ver=1.0.0' type='text/css' media='screen' />
-<link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?family=Quicksand%3A400%2C700%7CDosis%3A400%2C700%7CNoto+Serif+KR%3A700&amp;ver=5.2.6' type='text/css' media='all' />
-<link rel='stylesheet' id='ecole-gutenberg-frontend-style-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/gutenberg/cmsmasters-framework/theme-style/css/frontend-style.css?ver=1.0.0' type='text/css' media='screen' />
-<link rel='stylesheet' id='ecole-donations-style-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/cmsmasters-donations/cmsmasters-framework/theme-style/css/plugin-style.css?ver=1.0.0' type='text/css' media='screen' />
-<link rel='stylesheet' id='ecole-donations-adaptive-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/cmsmasters-donations/cmsmasters-framework/theme-style/css/plugin-adaptive.css?ver=1.0.0' type='text/css' media='screen' />
-<link rel='stylesheet' id='ecole-woocommerce-style-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/woocommerce/cmsmasters-framework/theme-style/css/plugin-style.css?ver=1.0.0' type='text/css' media='screen' />
-<link rel='stylesheet' id='ecole-woocommerce-adaptive-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/woocommerce/cmsmasters-framework/theme-style/css/plugin-adaptive.css?ver=1.0.0' type='text/css' media='screen' />
-<link rel='stylesheet' id='ecole-tribe-events-style-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/tribe-events/cmsmasters-framework/theme-style/css/plugin-style.css?ver=1.0.0' type='text/css' media='screen' />
-<link rel='stylesheet' id='ecole-tribe-events-adaptive-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/tribe-events/cmsmasters-framework/theme-style/css/plugin-adaptive.css?ver=1.0.0' type='text/css' media='screen' />
-<link rel='stylesheet' id='ecole-mp-timetable-style-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/mp-timetable/cmsmasters-framework/theme-style/css/plugin-style.css?ver=1.0.0' type='text/css' media='screen' />
-<link rel='stylesheet' id='ecole-mp-timetable-adaptive-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/mp-timetable/cmsmasters-framework/theme-style/css/plugin-adaptive.css?ver=1.0.0' type='text/css' media='screen' />
-<link rel='stylesheet' id='learn-press-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/plugins/learnpress/assets/css/learnpress.css?ver=3.2.6.4' type='text/css' media='all' />
-<link rel='stylesheet' id='ecole-learnpress-style-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/learnpress/cmsmasters-framework/theme-style/css/plugin-style.css?ver=1.0.0' type='text/css' media='screen' />
-<link rel='stylesheet' id='ecole-learnpress-adaptive-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/learnpress/cmsmasters-framework/theme-style/css/plugin-adaptive.css?ver=1.0.0' type='text/css' media='screen' />
-<link rel='stylesheet' id='ecole-child-style-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole-child-banner/style.css?ver=1.0.0' type='text/css' media='screen, print' />
-<link rel='stylesheet' id='tribe-events-bootstrap-datepicker-css-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/plugins/the-events-calendar/vendor/bootstrap-datepicker/css/bootstrap-datepicker.standalone.min.css?ver=4.9.8' type='text/css' media='all' />
-<link rel='stylesheet' id='learn-press-bundle-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/plugins/learnpress/assets/css/bundle.min.css?ver=3.2.6.4' type='text/css' media='all' />
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/learnpress-wishlist/assets/js/wishlist.js?ver=5.2.6'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var Cli_Data = {"nn_cookie_ids":[],"cookielist":[]};
-var log_object = {"ajax_url":"https:\/\/ecole.cmsmasters.net\/online-school\/wp-admin\/admin-ajax.php"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js?ver=1.8.0'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js?ver=6.0'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.1.1'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/debounced-resize.min.js?ver=1.0.0'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/modernizr.min.js?ver=1.0.0'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/respond.min.js?ver=1.0.0'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/jquery.iLightBox.min.js?ver=2.2.0'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/learnpress/assets/js/vendor/plugins.all.min.js?ver=3.2.6.4'></script>
-<script src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/the-events-calendar/common/src/resources/js/underscore-before.js'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
-<script src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/the-events-calendar/common/src/resources/js/underscore-after.js'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var userSettings = {"url":"\/","uid":"0","time":"1588697722","secure":"1"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-includes/js/utils.min.js?ver=5.2.6'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var lpGlobalSettings = {"url":null,"siteurl":"https:\/\/ecole.cmsmasters.net\/online-school","ajax":"https:\/\/ecole.cmsmasters.net\/online-school\/wp-admin\/admin-ajax.php","theme":"ecole-child-banner","localize":{"button_ok":"OK","button_cancel":"Cancel","button_yes":"Yes","button_no":"No"}};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/learnpress/assets/js/global.min.js?ver=3.2.6.4'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/learnpress/assets/js/utils.min.js?ver=3.2.6.4'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/learnpress/assets/js/frontend/learnpress.min.js?ver=3.2.6.4'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var lpCourseSettings = [];
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/learnpress/assets/js/frontend/course.js?ver=3.2.6.4'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/learnpress/assets/js/frontend/become-teacher.js?ver=3.2.6.4'></script>
-<link rel='https://api.w.org/' href='https://ecole.cmsmasters.net/online-school/wp-json/' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ecole.cmsmasters.net/online-school/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://ecole.cmsmasters.net/online-school/wp-includes/wlwmanifest.xml" />
-<meta name="generator" content="WordPress 5.2.6" />
-<meta name="generator" content="WooCommerce 3.7.0" />
-<link rel="canonical" href="index.html" />
-<link rel='shortlink' href='index.html' />
-<link rel="alternate" type="application/json+oembed" href="https://ecole.cmsmasters.net/online-school/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fecole.cmsmasters.net%2Fonline-school%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://ecole.cmsmasters.net/online-school/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fecole.cmsmasters.net%2Fonline-school%2F&amp;format=xml" />
-<noscript><style type="text/css">.mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:table!important}.mptt-shortcode-wrapper .mptt-shortcode-table .mptt-event-container:hover{height:auto!important;min-height:100%!important}body.mprm_ie_browser .mptt-shortcode-wrapper .mptt-event-container{height:auto!important}@media (max-width:767px){.mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:none!important}}</style></noscript><meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://ecole.cmsmasters.net/online-school"><link rel="https://theeventscalendar.com/" href="https://ecole.cmsmasters.net/online-school/wp-json/tribe/events/v1/" />	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-			<script type="text/javascript">
-			var cli_flush_cache=2;
-		</script>
-		<meta name="generator" content="Powered by Slider Revolution 6.1.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
-<link rel="icon" href="https://ecole.cmsmasters.net/online-school/wp-content/uploads/sites/6/2019/07/cropped-favicon-1-32x32.png" sizes="32x32" />
-<link rel="icon" href="https://ecole.cmsmasters.net/online-school/wp-content/uploads/sites/6/2019/07/cropped-favicon-1-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon-precomposed" href="https://ecole.cmsmasters.net/online-school/wp-content/uploads/sites/6/2019/07/cropped-favicon-1-180x180.png" />
-<meta name="msapplication-TileImage" content="https://ecole.cmsmasters.net/online-school/wp-content/uploads/sites/6/2019/07/cropped-favicon-1-270x270.png" />
-<script type="text/javascript">function setREVStartSize(a){try{var b,c=document.getElementById(a.c).parentNode.offsetWidth;if(c=0===c||isNaN(c)?window.innerWidth:c,a.tabw=void 0===a.tabw?0:parseInt(a.tabw),a.thumbw=void 0===a.thumbw?0:parseInt(a.thumbw),a.tabh=void 0===a.tabh?0:parseInt(a.tabh),a.thumbh=void 0===a.thumbh?0:parseInt(a.thumbh),a.tabhide=void 0===a.tabhide?0:parseInt(a.tabhide),a.thumbhide=void 0===a.thumbhide?0:parseInt(a.thumbhide),a.mh=void 0===a.mh||""==a.mh?0:a.mh,"fullscreen"===a.layout||"fullscreen"===a.l)b=Math.max(a.mh,window.innerHeight);else{for(var d in a.gw=Array.isArray(a.gw)?a.gw:[a.gw],a.rl)(void 0===a.gw[d]||0===a.gw[d])&&(a.gw[d]=a.gw[d-1]);for(var d in a.gh=void 0===a.el||""===a.el||Array.isArray(a.el)&&0==a.el.length?a.gh:a.el,a.gh=Array.isArray(a.gh)?a.gh:[a.gh],a.rl)(void 0===a.gh[d]||0===a.gh[d])&&(a.gh[d]=a.gh[d-1]);var e,f=Array(a.rl.length),g=0;for(var d in a.tabw=a.tabhide>=c?0:a.tabw,a.thumbw=a.thumbhide>=c?0:a.thumbw,a.tabh=a.tabhide>=c?0:a.tabh,a.thumbh=a.thumbhide>=c?0:a.thumbh,a.rl)f[d]=a.rl[d]<window.innerWidth?0:a.rl[d];for(var d in e=f[0],f)e>f[d]&&0<f[d]&&(e=f[d],g=d);var h=c>a.gw[g]+a.tabw+a.thumbw?1:(c-(a.tabw+a.thumbw))/a.gw[g];b=a.gh[g]*h+(a.tabh+a.thumbh)}void 0===window.rs_init_css&&(window.rs_init_css=document.head.appendChild(document.createElement("style"))),document.getElementById(a.c).height=b,window.rs_init_css.innerHTML+="#"+a.c+"_wrapper { height: "+b+"px }"}catch(a){console.log("Failure at Presize of Slider:"+a)}};</script>
 </head>
-<body style="font-family: 'Jost', sans-serif;" data-rsssl=1 class="home page-template-default page page-id-2213 theme-ecole woocommerce-no-js tribe-no-js">
-
-<div class="cmsmasters_wrap_header_search_form">
-			<div class="cmsmasters_header_search_form">
-				<span class="cmsmasters_header_search_form_close cmsmasters_theme_icon_cancel"></span><form method="get" action="https://ecole.cmsmasters.net/online-school/">
-			<div class="cmsmasters_header_search_form_field">
-				<button type="submit" class="cmsmasters_theme_icon_search"></button>
-				<input type="search" name="s" placeholder="Search..." value="" />
+<body data-rsssl=1 class="envato_tk_templates-template envato_tk_templates-template-elementor_header_footer single single-envato_tk_templates postid-24 elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-24">
+<div class="ekit-template-content-markup ekit-template-content-header ekit-template-content-theme-support">
+<style>.elementor-4 .elementor-element.elementor-element-d398ab8{padding:2% 5% 2% 5%;}.elementor-4 .elementor-element.elementor-element-d398ab8.jet-sticky-section-sticky--stuck{padding:1% 5% 1% 5%;background-color:#FFFFFF;box-shadow:0px 0px 0px 1px #DEDEDE;}.elementor-4 .elementor-element.elementor-element-d398ab8.jet-sticky-section-sticky--stuck.jet-sticky-transition-in, .elementor-4 .elementor-element.elementor-element-d398ab8.jet-sticky-section-sticky--stuck.jet-sticky-transition-out{transition:margin 0.7s, padding 0.7s, background 0.7s, box-shadow 0.7s;}.elementor-bc-flex-widget .elementor-4 .elementor-element.elementor-element-4693295.elementor-column .elementor-column-wrap{align-items:center;}.elementor-4 .elementor-element.elementor-element-4693295.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-4 .elementor-element.elementor-element-4693295 > .elementor-element-populated{padding:0px 0px 0px 30px;}.elementor-4 .elementor-element.elementor-element-cb9d52c{text-align:left;z-index:1;}.elementor-4 .elementor-element.elementor-element-cb9d52c .elementor-image img{width:140px;}.elementor-4 .elementor-element.elementor-element-cb9d52c > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-bc-flex-widget .elementor-4 .elementor-element.elementor-element-7aec691.elementor-column .elementor-column-wrap{align-items:center;}.elementor-4 .elementor-element.elementor-element-7aec691.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-4 .elementor-element.elementor-element-7aec691.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:flex-end;}.elementor-4 .elementor-element.elementor-element-7aec691 > .elementor-element-populated{padding:0px 30px 0px 0px;}.elementor-4 .elementor-element.elementor-element-7aec691{z-index:2;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-menu-container{height:48px;border-radius:0px 0px 0px 0px;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-navbar-nav > li > a{font-size:15px;font-weight:700;font-style:normal;padding:0px 20px 0px 20px;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-navbar-nav li a .ekit-menu-icon{padding:0px 0px 0px 0px;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-navbar-nav > li > a:hover{color:#009BC1;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-navbar-nav > li > a:focus{color:#009BC1;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-navbar-nav > li > a:active{color:#009BC1;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-navbar-nav > li:hover > a{color:#009BC1;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-navbar-nav > li:hover > a .elementskit-submenu-indicator{color:#009BC1;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-navbar-nav > li > a:hover .elementskit-submenu-indicator{color:#009BC1;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-navbar-nav > li > a:focus .elementskit-submenu-indicator{color:#009BC1;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-navbar-nav > li > a:active .elementskit-submenu-indicator{color:#009BC1;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-navbar-nav > li.current-menu-item > a{color:#009BC1;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-navbar-nav > li.current-menu-ancestor > a{color:#009BC1;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-navbar-nav > li.current-menu-ancestor > a .elementskit-submenu-indicator{color:#009BC1;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-navbar-nav > li > a .elementskit-submenu-indicator{color:#009BC1;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-navbar-nav-default .elementskit-dropdown-has>a .elementskit-submenu-indicator{margin:1px 0px 0px 8px;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-navbar-nav .elementskit-submenu-panel > li > a{font-size:15px;font-weight:700;font-style:normal;padding:8px 32px 8px 32px;color:#333333;border-style:solid;border-color:rgba(2, 1, 1, 0);}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-navbar-nav .elementskit-submenu-panel > li.current-menu-item > a{color:#009BC1 !important;background-color:rgba(2, 1, 1, 0);}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-navbar-nav .elementskit-submenu-panel{border-style:solid;border-width:0px 0px 0px 0px;border-color:#DEDEDE;background-color:#FFFFFF;border-radius:2px 2px 2px 2px;min-width:210px;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-menu-hamburger{float:right;background-color:#FFFFFF;border-style:solid;border-color:#333333;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-menu-hamburger .elementskit-menu-hamburger-icon{background-color:#333333;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-menu-hamburger > .ekit-menu-icon{color:#333333;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-menu-hamburger:hover{background-color:#333333;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-menu-hamburger:hover .elementskit-menu-hamburger-icon{background-color:#FFFFFF;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-menu-hamburger:hover > .ekit-menu-icon{color:#FFFFFF;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-menu-close{font-family:"Arial", Sans-serif;font-weight:100;background-color:#262B2F;border-style:solid;color:#FFFFFF;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-menu-close:hover{color:rgba(0, 0, 0, 0.5);}.elementor-4 .elementor-element.elementor-element-5a8b95d > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-4 .elementor-element.elementor-element-5a8b95d{width:auto;max-width:auto;}.elementor-4 .elementor-element.elementor-element-c569236{width:auto;max-width:auto;}.elementor-4 .elementor-element.elementor-element-37e1cf6 .ekit_navsearch-button{font-size:15px;border-radius:50% 50% 50% 50%;margin:5px 5px 5px 5px;padding:0px 0px 0px 0px;width:40px;height:40px;line-height:40px;text-align:center;}.elementor-4 .elementor-element.elementor-element-37e1cf6 .ekit_navsearch-button svg{max-width:15px;}.elementor-4 .elementor-element.elementor-element-37e1cf6 .ekit_navsearch-button, .elementor-4 .elementor-element.elementor-element-37e1cf6 .ekit_search-button i{color:#333333;}.elementor-4 .elementor-element.elementor-element-37e1cf6 .ekit_navsearch-button svg path, .elementor-4 .elementor-element.elementor-element-37e1cf6 .ekit_search-button svg path{stroke:#333333;fill:#333333;}.elementor-4 .elementor-element.elementor-element-37e1cf6{width:auto;max-width:auto;}.elementor-4 .elementor-element.elementor-element-24eaa97 .ekit-bg-black{background-color:rgba(44, 63, 68, 0.32);}.elementor-4 .elementor-element.elementor-element-24eaa97 .ekit_navSidebar-button{color:#009BC1;}.elementor-4 .elementor-element.elementor-element-24eaa97 .ekit_navSidebar-button svg path{stroke:#009BC1;fill:#009BC1;}.elementor-4 .elementor-element.elementor-element-24eaa97 .ekit_navSidebar-button i{font-size:20px;}.elementor-4 .elementor-element.elementor-element-24eaa97 .ekit_navSidebar-button svg{max-width:20px;}.elementor-4 .elementor-element.elementor-element-24eaa97 .ekit_navSidebar-button, .elementor-4 .elementor-element.elementor-element-24eaa97 .ekit_social_media ul > li:last-child{padding:4px 7px 5px 7px;}.elementor-4 .elementor-element.elementor-element-24eaa97 .ekit_close-side-widget{color:#333;font-size:20px;border-style:solid;border-width:0px 0px 0px 0px;padding:4px 7px 5px 7px;}.elementor-4 .elementor-element.elementor-element-24eaa97 .ekit_close-side-widget svg path{stroke:#333;fill:#333;}.elementor-4 .elementor-element.elementor-element-24eaa97 .ekit_close-side-widget svg{max-width:20px;}.elementor-4 .elementor-element.elementor-element-24eaa97 .ekit-wid-con .ekit-sidebar-widget{background-color:#FFFFFF;}.elementor-4 .elementor-element.elementor-element-24eaa97{z-index:9999;width:auto;max-width:auto;}@media(max-width:1024px){.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-menu-container{height:16%;border-radius:0px 0px 0px 0px;background-image:linear-gradient(180deg, #ffffff 0%, #ffffff 100%);max-width:300px;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-nav-identity-panel{padding:32px 0px 0px 18px;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-navbar-nav > li > a{font-size:16px;padding:8px 0px 8px 24px;color:#000000;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-navbar-nav .elementskit-submenu-panel > li > a{font-size:16px;padding:3px 0px 8px 16px;color:#333333;border-width:0px 0px 0px 24px;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-navbar-nav .elementskit-submenu-panel{border-width:0px 0px 0px 1px;border-radius:0px 0px 0px 0px;min-width:200px;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-menu-hamburger{padding:8px 8px 8px 8px;width:45px;border-radius:0px;border-width:0px 0px 0px 0px;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-menu-close{font-size:11px;padding:11px 7px 11px 7px;margin:8px 12px 11px 12px;width:40px;border-radius:100%;border-width:1px 1px 1px 1px;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-nav-logo > img{max-width:100px;max-height:60px;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-nav-logo{margin:9px 0px 32px 0px;padding:5px 5px 5px 5px;}.elementor-4 .elementor-element.elementor-element-5a8b95d > .elementor-widget-container{margin:0px 24px 0px 0px;}}@media(min-width:768px){.elementor-4 .elementor-element.elementor-element-4693295{width:22.196%;}.elementor-4 .elementor-element.elementor-element-7aec691{width:77.799%;}}@media(max-width:1024px) and (min-width:768px){.elementor-4 .elementor-element.elementor-element-4693295{width:40%;}.elementor-4 .elementor-element.elementor-element-7aec691{width:60%;}}@media(max-width:767px){.elementor-4 .elementor-element.elementor-element-4693295{width:25%;}.elementor-bc-flex-widget .elementor-4 .elementor-element.elementor-element-4693295.elementor-column .elementor-column-wrap{align-items:center;}.elementor-4 .elementor-element.elementor-element-4693295.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-4 .elementor-element.elementor-element-4693295 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-4 .elementor-element.elementor-element-7aec691{width:75%;}.elementor-bc-flex-widget .elementor-4 .elementor-element.elementor-element-7aec691.elementor-column .elementor-column-wrap{align-items:center;}.elementor-4 .elementor-element.elementor-element-7aec691.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-4 .elementor-element.elementor-element-7aec691 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-4 .elementor-element.elementor-element-5a8b95d .elementskit-nav-logo > img{max-width:120px;max-height:50px;}.elementor-4 .elementor-element.elementor-element-5a8b95d > .elementor-widget-container{margin:0px 10px 0px 0px;padding:0px 0px 0px 0px;}.elementor-4 .elementor-element.elementor-element-c569236 .elementor-button{font-size:10px;padding:8px 8px 8px 8px;}}</style>		<div data-elementor-type="wp-post" data-elementor-id="4" class="elementor elementor-4" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-d398ab8 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="d398ab8" data-element_type="section" data-settings="{&quot;jet_sticky_section_sticky&quot;:&quot;yes&quot;,&quot;jet_sticky_section_sticky_visibility&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}">
+						<div class="elementor-container elementor-column-gap-wider">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4693295 elementor-column elementor-col-50 elementor-top-column" data-id="4693295" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-cb9d52c elementor-widget elementor-widget-image" data-id="cb9d52c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="index.html">
+							<img width="184" height="37" src="../../wp-content/uploads/sites/130/2020/04/dark-1.png" class="attachment-large size-medium" alt="" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
 			</div>
-		</form></div>
 		</div>
-<!-- Start Page -->
-<div id="page" class="csstransition cmsmasters_liquid fixed_header cmsmasters_heading_after_header hfeed site">
-
-<!-- Start Main -->
-<div id="main">
-
-<!-- Start Header -->
-<header id="header" >
-	<div  class="header_mid" data-height="124"><div class="header_mid_outer"><div class="header_mid_inner"><div class="logo_wrap"><a href="index.html" title="École Online School" class="logo">
-	<img src="wp-content/uploads/sites/6/2019/09/yk_logo.png" alt="École Online School" />
-<div style="margin-top: -37px;"></div>
-</a>
-</div>
-<div class="header_mid_intarface">
-	<div class="mid_search_but_wrap">
-
-	</div>
-
-		</div>
-
-				<div class="resp_mid_nav_wrap" style="margin-left: 200px;margin-top: -200px;"><div class="resp_mid_nav_outer" >
-
-					<a class="responsive_nav resp_mid_nav" href="javascript:void(0)" >
-							<!-- <span class="top"></span>
-							<span class="center_h"></span>
-							<span class="center_w"></span>
-							<span class="bot"></span> -->
-							<img src="wp-content/uploads/sites/6/2019/09/savaa.png" alt="">
+				<div class="elementor-element elementor-element-7aec691 elementor-column elementor-col-50 elementor-top-column" data-id="7aec691" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-5a8b95d elementor-widget__width-auto elementor-widget elementor-widget-ekit-nav-menu" data-id="5a8b95d" data-element_type="widget" data-widget_type="ekit-nav-menu.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con ekit_menu_responsive_tablet" data-hamburger-icon="" data-hamburger-icon-type="icon"><div id="ekit-megamenu-main-menu" class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default elementskit_fill_arrow ekit-nav-menu-one-page-no"><ul id="main-menu" class="elementskit-navbar-nav elementskit-menu-po-right"><li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-12 nav-item elementskit-mobile-builder-content active"><a href="index.html" class="ekit-menu-nav-link active">Home</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14 nav-item elementskit-mobile-builder-content"><a href="https://demo.detheme.com/coachie-kit/template-kit/about" class="ekit-menu-nav-link">About</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16 nav-item elementskit-mobile-builder-content"><a href="https://demo.detheme.com/coachie-kit/template-kit/blog" class="ekit-menu-nav-link">Blog</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17 nav-item elementskit-mobile-builder-content"><a href="https://demo.detheme.com/coachie-kit/template-kit/contact-us/" class="ekit-menu-nav-link">Contact</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19 nav-item elementskit-dropdown-has elementskit-mobile-builder-content"><a href="#" class="ekit-menu-nav-link ekit-menu-dropdown-toggle">Pages<i class="elementskit-submenu-indicator"></i></a>
+<ul class="elementskit-dropdown elementskit-submenu-panel">
+	<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15 nav-item elementskit-mobile-builder-content"><a href="https://demo.detheme.com/coachie-kit/template-kit/pricing" class=" dropdown-item">Pricing</a>	<li id="menu-item-409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-409 nav-item elementskit-mobile-builder-content"><a href="https://demo.detheme.com/coachie-kit/template-kit/404" class=" dropdown-item">404</a>	<li id="menu-item-410" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-410 nav-item elementskit-mobile-builder-content"><a href="https://demo.detheme.com/coachie-kit/template-kit/coming-soon" class=" dropdown-item">Coming Soon</a>	<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18 nav-item elementskit-mobile-builder-content"><a href="https://demo.detheme.com/coachie-kit/template-kit/appointment" class=" dropdown-item">Appointment</a>	<li id="menu-item-454" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-454 nav-item elementskit-mobile-builder-content"><a href="https://demo.detheme.com/coachie-kit/template-kit/become-a-coach/" class=" dropdown-item">Become a Coach</a>	<li id="menu-item-578" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-578 nav-item elementskit-mobile-builder-content"><a href="https://demo.detheme.com/coachie-kit/2020/04/17/duplicated-malesuada-lorem-nibh-ligula-porta-153-6/" class=" dropdown-item">Single Post</a></ul>
+</li>
+</ul>
+				<div class="elementskit-nav-identity-panel">
+					<div class="elementskit-site-title">
+						<a class="elementskit-nav-logo" href="https://demo.detheme.com/coachie-kit" target="_self" rel="">
+							<img src="../../wp-content/uploads/sites/130/2020/04/dark-1.png" alt="">
 						</a>
 					</div>
+					<button class="elementskit-menu-close elementskit-menu-toggler" type="button">X</button>
+				</div>
+			</div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c569236 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="c569236" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://demo.detheme.com/coachie-kit/template-kit/appointment/" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Book Appointment</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-37e1cf6 elementor-widget__width-auto elementor-hidden-phone elementor-widget elementor-widget-elementskit-header-search" data-id="37e1cf6" data-element_type="widget" data-widget_type="elementskit-header-search.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <a href="#ekit_modal-popup-37e1cf6" class="ekit_navsearch-button ekit-modal-popup">
+            <i aria-hidden="true" class="icon icon-search-5"></i>        </a>
+        <!-- language switcher strart -->
+        <!-- xs modal -->
+        <div class="zoom-anim-dialog mfp-hide ekit_modal-searchPanel" id="ekit_modal-popup-37e1cf6">
+            <div class="ekit-search-panel">
+            <!-- Polylang search - thanks to Alain Melsens -->
+                <form role="search" method="get" class="ekit-search-group" action="https://demo.detheme.com/coachie-kit/">
+                    <input type="search" class="ekit_search-field" placeholder="Search..." value="" name="s" />
+                    <button type="submit" class="ekit_search-button">
+                        <i aria-hidden="true" class="icon icon-search-5"></i>                    </button>
+                </form>
+            </div>
+        </div><!-- End xs modal -->
+        <!-- end language switcher strart -->
+        </div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-24eaa97 elementor-widget__width-auto elementor-hidden-phone elementor-widget elementor-widget-elementskit-header-offcanvas" data-id="24eaa97" data-element_type="widget" data-widget_type="elementskit-header-offcanvas.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <div class="ekit-offcanvas-toggle-wraper">
+            <a href="#" class="ekit_navSidebar-button ekit_offcanvas-sidebar">
+                <i aria-hidden="true" class="icon icon-menu-5"></i>            </a>
+        </div>
+        <!-- offset cart strart -->
+        <!-- sidebar cart item -->
+        <div class="ekit-sidebar-group info-group">
+            <div class="ekit-overlay ekit-bg-black"></div>
+            <div class="ekit-sidebar-widget">
+                <div class="ekit_sidebar-widget-container">
+                    <div class="ekit_widget-heading">
+                        <a href="#" class="ekit_close-side-widget">
+
+
+                        </a>
+                    </div>
+                    <div class="ekit_sidebar-textwidget">
+
+		<div class="widgetarea_warper widgetarea_warper_editable" data-elementskit-widgetarea-key="24eaa97"  data-elementskit-widgetarea-index="99">
+			<div class="widgetarea_warper_edit" data-elementskit-widgetarea-key="24eaa97" data-elementskit-widgetarea-index="99">
+				<i class="eicon-edit" aria-hidden="true"></i>
+				<span class="elementor-screen-only">Edit</span>
+			</div>
+
+			<div class="elementor-widget-container">
+						<div data-elementor-type="wp-post" data-elementor-id="508" class="elementor elementor-508" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-354895e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="354895e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wider">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-d245d89 elementor-column elementor-col-100 elementor-top-column" data-id="d245d89" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-ccfa6a5 elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="ccfa6a5" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Facebook</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Twitter</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">LinkedIn</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Youtube</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-dd986a9 elementor-widget elementor-widget-elementskit-mail-chimp" data-id="dd986a9" data-element_type="widget" data-widget_type="elementskit-mail-chimp.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		 <div class="ekit-mail-chimp">
+			<form method="post" class="ekit-mailChimpForm" data-listed="19fae928e7" data-success-message="Successfully listed this email">
+			<div class="ekit-mail-message"></div>
+
+				<div class="elementskit_form_wraper ">
+													<div class="ekit-mail-chimp-email elementskit_input_wraper elementskit_input_container">
+						<div class="elementskit_form_group">
+														<div class="elementskit_input_element_container elementskit_input_group">
+																<input type="email" name="email" class="ekit_mail_email ekit_form_control " placeholder="Email Address" required />
+
+															</div>
+						</div>
 					</div>
-
-					<!-- Start Navigation -->
-						<div class="mid_nav_wrap"><nav><div class="menu-primary-navigation-container"><ul id="navigation" class="mid_nav navigation"><li id="menu-item-2504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2213 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-2504 menu-item-depth-0"><a href="index.html"><span class="nav_item_wrap"><span class="nav_title">About</span></span></a>
-<ul class="sub-menu">
-	<li id="menu-item-2507" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2507 menu-item-depth-1"><a href="https://ecole.cmsmasters.net/"><span class="nav_item_wrap"><span class="nav_title">About Yusuf Kaka</span></span></a>	</li>
-	<li id="menu-item-2508" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2508 menu-item-depth-1"><a href="https://ecole.cmsmasters.net/private-school/"><span class="nav_item_wrap"><span class="nav_title">Hire Yusuf Kaka</span></span></a>	</li>
-	<li id="menu-item-2509" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2509 menu-item-depth-1"><a href="https://ecole.cmsmasters.net/public-school/"><span class="nav_item_wrap"><span class="nav_title">Foundation</span></span></a>	</li>
-	<li id="menu-item-2510" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2510 menu-item-depth-1"><a href="https://ecole.cmsmasters.net/art-school/"><span class="nav_item_wrap"><span class="nav_title">YK Quotes</span></span></a>	</li>
-</ul>
-</li>
-<li id="menu-item-2483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2483 menu-item-depth-0"><a href="https://ecole.cmsmasters.net/online-school/academics/"><span class="nav_item_wrap"><span class="nav_title">Coaching</span></span></a></li>
-
-<li id="menu-item-2434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2434 menu-item-depth-0"><a><span class="nav_item_wrap"><span class="nav_title">Events</span></span></a>
-<ul class="sub-menu">
-	<li id="menu-item-2486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2486 menu-item-depth-1"><a href="https://ecole.cmsmasters.net/online-school/our-school/"><span class="nav_item_wrap"><span class="nav_title">Leadership Events</span></span></a>	</li>
-	<li id="menu-item-2484" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2484 menu-item-depth-1"><a href="https://ecole.cmsmasters.net/online-school/admission/"><span class="nav_item_wrap"><span class="nav_title">Live Interview</span></span></a>	</li>
-</ul>
-</li>
-<li id="menu-item-2483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2483 menu-item-depth-0"><a href="https://ecole.cmsmasters.net/online-school/academics/"><span class="nav_item_wrap"><span class="nav_title">Blog</span></span></a></li>
-<li id="menu-item-2434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2434 menu-item-depth-0"><a><span class="nav_item_wrap"><span class="nav_title">Contact</span></span></a>
-	<ul class="sub-menu">
-		<li id="menu-item-2486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2486 menu-item-depth-1"><a href="https://ecole.cmsmasters.net/online-school/our-school/"><span class="nav_item_wrap"><span class="nav_title">Customer Support</span></span></a>	</li>
-		<li id="menu-item-2484" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2484 menu-item-depth-1"><a href="https://ecole.cmsmasters.net/online-school/admission/"><span class="nav_item_wrap"><span class="nav_title">Hire To Speak</span></span></a>	</li>
-	</ul>
-	</li>
-
-<li id="menu-item-2424" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2424 menu-item-mega menu-item-mega-cols-four menu-item-depth-0"><a><span class="nav_item_wrap"><span class="nav_title">Hire To Speak</span></span></a>
-
-</li>
-
-</ul></div></nav></div><!-- Finish Navigation --></div></div></div></header>
-<!-- Finish Header -->
-
-
-<!-- Start Middle -->
-<div id="middle">
-<div class="headline cmsmasters_color_scheme_default">
-				<div class="headline_outer cmsmasters_headline_disabled">
-					<div class="headline_color"></div></div>
-			</div><div class="middle_inner">
-<div class="content_wrap fullwidth">
-
-<!-- Start Content -->
-<div class="middle_content entry"></div></div><div id="cmsmasters_row_h0afc4j4qa" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
-<div class="cmsmasters_row_outer_parent">
-<div class="cmsmasters_row_outer">
-<div class="cmsmasters_row_inner cmsmasters_row_fullwidth">
-<div class="cmsmasters_row_margin">
-<div id="cmsmasters_column_kpcyb3w5w" class="cmsmasters_column one_first cmsmasters_custom_style">
-<div class="cmsmasters_column_inner">
-<div class="cmsmasters_slider">
-			<!-- START Home 5 REVOLUTION SLIDER 6.1.1 --><p class="rs-p-wp-fix"></p>
-			<rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;max-width:">
-				<rs-module id="rev_slider_1_1" style="display:none;" data-version="6.1.1">
-					<rs-slides>
-						<rs-slide data-key="rs-1" data-title="Slide" data-anim="ei:d;eo:d;s:50;r:0;t:fade;sl:d;">
-							<img src="wp-content/uploads/sites/6/2019/09/rename_bg.png" alt="home slider 1" title="home slider 1" width="1820" height="720" class="rev-slidebg" data-no-retina>
-<!--
-							--><rs-layer
-								id="slider-1-slide-1-layer-3"
-								data-type="image"
-								data-xy="xo:-562px,-321px,-288px,-262px;yo:-211px,-123px,-72px,-174px;"
-								data-text="w:normal;s:20,11,8,4;l:0,14,10,6;"
-								data-dim="w:1129px,941px,828px,927px;h:1085px,904px,796px,891px;"
-								data-rsp_bd="off"
-								data-frame_999="o:0;st:w;"
-								data-loop_0="xR:30px;yR:-30px;"
-								data-loop_999="xR:30px;yR:-30px;crd:t;crns:1;sp:10000;"
-								style="z-index:8;font-family:Roboto;"
-							><img src="wp-content/uploads/sites/6/2019/09/Figures-3.png" alt="Figures 3" width="1129" height="1085" data-no-retina>
-							</rs-layer><!--
-
-							--><rs-layer
-								id="slider-1-slide-1-layer-4"
-								data-type="image"
-								data-xy="xo:1274px,847px,515px,241px;yo:97px,483px,538px,422px;"
-								data-text="w:normal;s:20,11,8,4;l:0,14,10,6;"
-								data-dim="w:467px,262px,199px,122px;h:415px,233px,177px,109px;"
-								data-rsp_bd="off"
-								data-frame_999="o:0;st:w;"
-								data-loop_999="rZ:360;sp:10000;"
-								style="z-index:10;font-family:Roboto;"
-							><img src="wp-content/uploads/sites/6/2019/09/Figures.png" alt="Figures" width="467" height="415" data-no-retina>
-							</rs-layer><!--
-
-							--><rs-layer
-								id="slider-1-slide-1-layer-5"
-								data-type="text"
-								data-xy="xo:30px,80px,40px,26px;yo:260px,220px,220px,137px;"
-								data-text="w:normal;s:62;l:76;fw:700;a:inherit;"
-								data-dim="w:500px,500px,500px,442px;"
-								data-frame_0="tp:600;"
-								data-frame_1="tp:600;sp:1100;"
-								data-frame_999="o:0;tp:600;st:w;sR:7900;"
-								style="z-index:11;font-family: 'Jost', sans-serif;"
-							>Welcome To Kaka World!
-
-							</rs-layer><!--
-
-							--><rs-layer
-								id="slider-1-slide-1-layer-6"
-								data-type="image"
-								data-xy="xo:1174px,997px,747px,424px;yo:-5px,366px,510px,364px;"
-								data-text="w:normal;s:20,11,8,4;l:0,14,10,6;"
-								data-dim="w:118px,66px,50px,30px;h:99px,55px,41px,25px;"
-								data-rsp_bd="off"
-								data-frame_999="o:0;st:w;"
-								data-loop_0="rZ:-90deg;"
-								data-loop_999="rZ:90deg;sp:10000;"
-								style="z-index:9;font-family:Roboto;"
-							><img src="wp-content/uploads/sites/6/2019/09/Figures-2.png" alt="Figures 2" width="118" height="99" data-no-retina>
-							</rs-layer><!--
-
-							--><rs-layer
-								id="slider-1-slide-1-layer-7"
-								class="rev-btn"
-								data-type="button"
-								data-color="#007690"
-								data-xy="xo:30px,80px,40px,26px;yo:456px,416px,416px,333px;"
-								data-text="s:16;l:29;fw:700;a:inherit;"
-								data-actions='o:click;a:simplelink;target:_self;url:/online-school/our-school/;'
-								data-padding="t:12;r:41;b:12;l:41;"
-								data-border="bor:30px,30px,30px,30px;"
-								data-frame_0="tp:600;"
-								data-frame_1="tp:600;st:240;sp:1000;sR:240;"
-								data-frame_999="o:0;tp:600;st:w;sR:7760;"
-								data-frame_hover="c:#fff;bgc:rgba(234,193,31,0.7);boc:#000;bor:30px,30px,30px,30px;bos:solid;oX:50;oY:50;sp:400ms;"
-								style="z-index:12;background-color:#ffffff;font-family:Dosis;cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"
-							>ABOUT KAKA
-							</rs-layer><!--
-
-							--><rs-layer
-								id="slider-1-slide-1-layer-8"
-								class="rev-btn"
-								data-type="button"
-								data-color="rgba(255,255,255,1)"
-								data-xy="xo:185px,235px,195px,181px;yo:462px,422px,422px,339px;"
-								data-text="s:16;l:17;fw:700;a:inherit;"
-								data-actions='o:click;a:simplelink;target:_self;url:/online-school/admission/;'
-								data-padding="t:12;r:35;b:12;l:35;"
-								data-frame_0="tp:600;"
-								data-frame_1="tp:600;st:470;sp:1000;sR:470;"
-								data-frame_999="o:0;tp:600;st:w;sR:7530;"
-								data-frame_hover="c:rgba(255,255,255,0.7);bgc:rgba(255,255,255,0);boc:#000;bor:0px,0px,0px,0px;bos:solid;oX:50;oY:50;sp:400ms;"
-								style="z-index:13;background-color:rgba(0,0,0,0);font-family:Dosis;cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"
-							>Let's Talk
-							</rs-layer><!--
--->						</rs-slide>
-					</rs-slides>
-					<rs-static-layers><!--
-					--></rs-static-layers>
-					<rs-progress class="rs-bottom" style="visibility: hidden !important;"></rs-progress>
-				</rs-module>
-				<script type="text/javascript">
-					setREVStartSize({c: 'rev_slider_1_1',rl:[1240,1024,778,480],el:[720,698,640,530],gw:[1160,1024,778,480],gh:[720,698,640,530],layout:'fullwidth',mh:"0"});
-					var	revapi1,
-						tpj;
-					jQuery(function() {
-						tpj = jQuery;
-						if(tpj("#rev_slider_1_1").revolution == undefined){
-							revslider_showDoubleJqueryError("#rev_slider_1_1");
-						}else{
-							revapi1 = tpj("#rev_slider_1_1").show().revolution({
-								jsFileLocation:"//ecole.cmsmasters.net/online-school/wp-content/plugins/revslider/public/assets/js/",
-								visibilityLevels:"1240,1024,778,480",
-								gridwidth:"1160,1024,778,480",
-								gridheight:"720,698,640,530",
-								minHeight:"",
-								spinner:"spinner0",
-								editorheight:"720,698,640,530",
-								responsiveLevels:"1240,1024,778,480",
-								disableProgressBar:"on",
-								navigation: {
-									onHoverStop:false
-								},
-								fallbacks: {
-									allowHTML5AutoPlayOnAndroid:true
-								},
-							});
-						}
-
-					});
-				</script>
-			</rs-module-wrap>
-			<!-- END REVOLUTION SLIDER -->
-</div>
-</div></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div id="cmsmasters_row_mynpjtavsd" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
-<div class="cmsmasters_row_outer_parent">
-<div class="cmsmasters_row_outer">
-<div class="cmsmasters_row_inner">
-<div class="cmsmasters_row_margin">
-
-<div id="cmsmasters_column_q7bo7d5lmw" class="cmsmasters_column one_third">
-<div class="cmsmasters_column_inner">
-	<div class="icon_box_inner">
-<div class="icon_box_text">
-<h6 align="center" class="mt-4" > Kaka Capital</h6>
-</div>
-</div>
-</div>
-</div>
-
-
-
-    <div id="cmsmasters_column_q7bo7d5lmw" class="cmsmasters_column one_third">
-        <div class="cmsmasters_column_inner">
-            <div class="icon_box_inner">
-        <div class="icon_box_text">
-        <h6 align="center" class="mt-4" > Kaka Foundation</h6>
-        </div>
-        </div>
-        </div>
-        </div>
-
-        <div id="cmsmasters_column_q7bo7d5lmw" class="cmsmasters_column one_third">
-            <div class="cmsmasters_column_inner">
-                <div class="icon_box_inner">
-            <div class="icon_box_text">
-            <h6 align="center" class="mt-4" > Kaka Advertising</h6>
-            </div>
-            </div>
-            </div>
-            </div>
-
-
-            <div id="cmsmasters_column_q7bo7d5lmw" class="cmsmasters_column one_third">
-                <div class="cmsmasters_column_inner">
-                    <div class="icon_box_inner">
-                <div class="icon_box_text">
-                <h6 align="center" class="mt-4" > Kaka On Demand</h6>
-                </div>
-                </div>
-                </div>
-                </div>
-
-
-                <div id="cmsmasters_column_q7bo7d5lmw" class="cmsmasters_column one_third">
-                    <div class="cmsmasters_column_inner">
-                        <div class="icon_box_inner">
-                    <div class="icon_box_text">
-                    <h6 align="center" class="mt-4" > Kaka University</h6>
-                    </div>
-                    </div>
-                    </div>
-                    </div>
-
-                    <div id="cmsmasters_column_q7bo7d5lmw" class="cmsmasters_column one_third">
-                        <div class="cmsmasters_column_inner">
-                            <div class="icon_box_inner">
-                        <div class="icon_box_text">
-                        <h6 align="center" class="mt-4" > Kaka Show</h6>
-                        </div>
-                        </div>
-                        </div>
-                        </div>
-
-</div>
-</div>
-</div>
-</div>
-</div>
- <br>
-
-
- <div id="cmsmasters_row_xqif9uu3x" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
-	<div class="cmsmasters_row_outer_parent">
-	<div class="cmsmasters_row_outer">
-	<div class="cmsmasters_row_inner">
-	<div class="cmsmasters_row_margin">
-	<div id="cmsmasters_column_r7ez6356tc" class="cmsmasters_column one_first">
-	<div class="cmsmasters_column_inner"><div id="cmsmasters_heading_pwhbq6jqo" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">
-		<h3 class="cmsmasters_heading aligncenter" style="font-family: 'Jost', sans-serif;">Unlock the Potential In Every Area of Your Life</h3>
-	</div><div class="aligncenter"><div class="cmsmasters_img  cmsmasters_image_c"><img src="https://ecole.cmsmasters.net/wp-content/uploads/2019/08/école-line-3.jpg" alt="école-line-3" /></div></div>
-	</div></div>
-	</div>
-	</div>
-	</div>
-	</div>
-	</div>
-	<div id="cmsmasters_row_tu0tdo2am" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
-	<div class="cmsmasters_row_outer_parent">
-	<div class="cmsmasters_row_outer">
-	<div class="cmsmasters_row_inner">
-	<div class="cmsmasters_row_margin">
-	<div id="cmsmasters_column_awnsvp0qvt" class="cmsmasters_column one_first">
-	<div class="cmsmasters_column_inner">
-	<div class="cmsmasters_posts_slider cmsmasters_posts_slider_type_post cmsmasters_border" >
-			<div id="cmsmasters_slider_4r975bzw6" class="cmsmasters_owl_slider owl-carousel" data-items="3" data-single-item="false" data-auto-play="5000"><div class="cmsmasters_owl_slider_item"><!-- Start Posts Slider Post Article -->
-	<article id="post-22" class="cmsmasters_slider_post post-22 post type-post status-publish format-standard has-post-thumbnail hentry category-chemistry tag-chemistry tag-children tag-school">
-		<div class="cmsmasters_slider_post_outer">
-		<div class="cmsmasters_slider_post_date_img_wrap"><figure class="cmsmasters_img_rollover_wrap preloader"><img width="580" height="360" src="https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-6-580x360.jpg" class="full-width wp-post-image" alt="Chemistry for Children and Teenagers" title="Chemistry for Children and Teenagers" srcset="https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-6-580x360.jpg 580w, https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-6-860x535.jpg 860w, https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-blog-6-1160x722.jpg 1160w" sizes="(max-width: 580px) 100vw, 580px" /><div class="cmsmasters_img_rollover"><a href="https://ecole.cmsmasters.net/2018/12/10/chemistry-for-children-and-teenagers/" title="Chemistry for Children and Teenagers" class="cmsmasters_open_link"></a></div></figure></div><div class="data_cat">
-    <span class="cmsmasters_slider_post_date"><abbr class="published" title="December 10, 2018"></abbr><abbr class="dn date updated" title="July 30, 2019">July 30, 2019</abbr></span></div><div class="cmsmasters_slider_post_inner"><header class="cmsmasters_slider_post_header entry-header"><h4 class="cmsmasters_slider_post_title entry-title"><a href="https://ecole.cmsmasters.net/2018/12/10/chemistry-for-children-and-teenagers/">Chemistry for Children and Teenagers</a></h4></header><div class="cmsmasters_slider_post_content entry-content">
-	<p>There are many different school classes, ranging from basic required courses to elective “passion projects.” </p>
-	</div>
-	</div>	</div>
-	</article>
-	<!-- Finish Posts Slider Post Article -->
-
-    </div>
-
-
-
-    @foreach($allblogs as $home_blog)
-    <div class="cmsmasters_owl_slider_item"><!-- Start Posts Slider Post Article -->
-        <article id="post-20" class="cmsmasters_slider_post post-20 post type-post status-publish format-standard has-post-thumbnail hentry category-technology tag-children tag-school tag-technologies">
-            <div class="cmsmasters_slider_post_outer">
-            <div class="cmsmasters_slider_post_date_img_wrap"><figure class="cmsmasters_img_rollover_wrap preloader"><img width="580" height="360" src="images/{{$home_blog->blog_image}}" class="full-width wp-post-image" alt="Modern Technologies and Development" title="Modern Technologies and Development" srcset="images/{{$home_blog->blog_image}} 580w, images/{{$home_blog->blog_image}} 860w, images/{{$home_blog->blog_image}} 1160w" sizes="(max-width: 580px) 100vw, 580px" /><div class="cmsmasters_img_rollover"><a href="https://ecole.cmsmasters.net/2018/12/10/modern-technologies-and-development/" title="Modern Technologies and Development" class="cmsmasters_open_link"></a></div></figure></div><div class="data_cat">
-                       <span class="cmsmasters_slider_post_date"><abbr class="published" title="December 10, 2018">{{date('M j, Y',strtotime($home_blog->created_at))}}</abbr><abbr class="dn date updated" title="July 30, 2019">July 30, 2019</abbr></span></div><div class="cmsmasters_slider_post_inner"><header class="cmsmasters_slider_post_header entry-header"><h4 class="cmsmasters_slider_post_title entry-title"><a href="https://ecole.cmsmasters.net/2018/12/10/modern-technologies-and-development/">{{$home_blog->title}}</a></h4></header><div class="cmsmasters_slider_post_content entry-content">
-        <p>{{ substr(strip_tags($home_blog->body), 0, 200) }}  {{ strlen(strip_tags($home_blog->body)) > 50 ? "..." : "" }}</p>
-            </div>
-        </div>	</div>
-        </article>
-        <!-- Finish Posts Slider Post Article -->
-
-        </div>
-@endforeach
-
-
-
-
-</div></div>
-	</div></div>
-	</div>
-	</div>
-	</div>
-	</div>
-	</div>
-
-
-
-
-
-
-<div id="cmsmasters_row_y5h9pefb8d" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
-<div class="cmsmasters_row_outer_parent">
-<div class="cmsmasters_row_outer">
-<div class="cmsmasters_row_inner cmsmasters_row_fullwidth">
-<div class="cmsmasters_row_margin">
-
-<div id="cmsmasters_column_em" class="cmsmasters_column one_half">
-<div class="cmsmasters_column_inner"> <img src="wp-content/uploads/sites/6/2019/09/maniblu.png" alt=""> </div>
-</div>
-
-<div id="cmsmasters_column_uxhriuxiqo" class="cmsmasters_column one_half">
-<div class="cmsmasters_column_inner"><div id="cmsmasters_fb_ymehpfk2qe" class="cmsmasters_featured_block">
-<div class="featured_block_inner">
-<div class="featured_block_text">
-<div id="cmsmasters_heading_ymehpfk2qe" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-	<h2 class="cmsmasters_heading" style="font-family: 'Jost', sans-serif;">About Yusuf Kaka</h2>
-</div>
-
-</div>
-</div>
-</div>
-<div class="cmsmasters_text">
-<p>
-    I’m an entrepreneur, personal development trainer,a life changing success coach and regular guy devoted to helping you make the world a better place by putting love and giving at the centre of growing your business.
-
-    I’ve always known I was meant to help other people. And always known I was meant a lot of evidence to support this belief.
-
-    But growing up, I was an average student
-
-    I was deathly  afraid of public speaking ...</p>
-</div>
-<div id="cmsmasters_divider_yyzvre1ddw" class="cl"></div>
-<div id="cmsmasters_button_y53qv8jg1" class="button_wrap"><a href="https://ecole.cmsmasters.net/online-school/our-school/" class="cmsmasters_button"><span>Read More</span></a></div>
-</div></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div id="cmsmasters_row_z37gnktrxi" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
-<div class="cmsmasters_row_outer_parent">
-<div class="cmsmasters_row_outer">
-<div class="cmsmasters_row_inner">
-<div class="cmsmasters_row_margin">
-<div id="cmsmasters_column_m59j1ji3k" class="cmsmasters_column one_first">
-<div class="cmsmasters_column_inner"><div id="cmsmasters_heading_yq5rxndwb" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">
-	<h2 class="cmsmasters_heading" style="font-family: 'Jost', sans-serif;">Learn From Kaka</h2>
-</div>
-<div id="cmsmasters_learnpress_shortcode_v1k5zv1yo5" class="cmsmasters_learnpress_shortcode cmsmasters_4">
-
-
-<article id="lpr_course_post-921" class="lpr_course_post">
-<div class="cmsmasters_course_image_wrap"><figure class="cmsmasters_img_rollover_wrap preloader"><img width="580" height="580" src="https://ecole.cmsmasters.net/online-school/wp-content/uploads/sites/6/2019/07/cole-learnpress-1-1-580x580.jpg" class="full-width wp-post-image" alt="Technical Courses" title="Technical Courses" srcset="https://ecole.cmsmasters.net/online-school/wp-content/uploads/sites/6/2019/07/cole-learnpress-1-1-580x580.jpg 580w, https://ecole.cmsmasters.net/online-school/wp-content/uploads/sites/6/2019/07/cole-learnpress-1-1-150x150.jpg 150w, https://ecole.cmsmasters.net/online-school/wp-content/uploads/sites/6/2019/07/cole-learnpress-1-1-120x120.jpg 120w, https://ecole.cmsmasters.net/online-school/wp-content/uploads/sites/6/2019/07/cole-learnpress-1-1-540x540.jpg 540w" sizes="(max-width: 580px) 100vw, 580px" /><div class="cmsmasters_img_rollover"><a href="https://ecole.cmsmasters.net/online-school/courses/technical-courses/" title="Technical Courses" class="cmsmasters_open_link"></a></div></figure>
-<div class="cmsmasters_course_price"><span class="origin-price">&#36;55.00</span><span class="price">&#36;45.00</span></div></div>
-<div class="lpr_course_inner">
-<header class="entry-header lpr_course_header">
-					<h4 class="entry-title lpr_course_title"><a href=https://ecole.cmsmasters.net/online-school/courses/technical-courses/>Technical Courses</a></h4>
-				</header>
-<div class="entry-meta cmsmasters_cource_cat"><a href="https://ecole.cmsmasters.net/online-school/course-category/education/" rel="tag">Education</a></div></div>
-<footer class="cmsmasters_course_footer">
-<div class="review-stars-rated">
-							<div class="review-stars empty"></div>
-							<div class="review-stars filled"  style="width:0%;"></div>
-						</div><div class="cmsmasters_cource_duration">5 weeks</div></footer>
-</article>
-</div>
-</div></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-<div id="cmsmasters_row_wkhd26n7cg" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
-	<div class="cmsmasters_row_outer_parent">
-	<div class="cmsmasters_row_outer">
-	<div class="cmsmasters_row_inner">
-	<div class="cmsmasters_row_margin">
-	<div id="cmsmasters_column_ulh8cp92jj" class="cmsmasters_column one_first">
-	<div class="cmsmasters_column_inner"><div id="cmsmasters_heading_4t7upxg58i" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">
-		<h2 class="cmsmasters_heading">Read The Blog</h2>
-	</div><div class="aligncenter"><div class="cmsmasters_img  cmsmasters_image_c"><img src="https://ecole.cmsmasters.net/wp-content/uploads/2019/08/école-line-2.jpg" alt="école-line-2" /></div></div>
-	</div></div>
-	</div>
-	</div>
-	</div>
-	</div>
-	</div>
-	<div id="cmsmasters_row_4cr47z18dm" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
-	<div class="cmsmasters_row_outer_parent">
-	<div class="cmsmasters_row_outer">
-	<div class="cmsmasters_row_inner">
-	<div class="cmsmasters_row_margin">
-	<div id="cmsmasters_column_0fw61ijyw9" class="cmsmasters_column one_first">
-	<div class="cmsmasters_column_inner">
-	<div class="cmsmasters_posts_slider cmsmasters_posts_slider_type_project cmsmasters_border_none" >
-			<div id="cmsmasters_slider_cly6morzwg" class="cmsmasters_owl_slider owl-carousel" data-items="4" data-single-item="false" data-auto-play="5000"><div class="cmsmasters_owl_slider_item"><!-- Start Posts Slider Project Article -->
-
-	<!-- Finish Posts Slider Project Article -->
-
-    <div class="cmsmasters_owl_slider_item"><!-- Start Posts Slider Project Article -->
-	<article id="post-45" class="cmsmasters_slider_project post-45 project type-project status-publish format-standard has-post-thumbnail hentry pj-categs-athletics pj-categs-class pj-tags-activities pj-tags-children pj-tags-school">
-		<div class="cmsmasters_slider_project_outer">
-		<figure class="cmsmasters_img_rollover_wrap preloader"><img width="580" height="580" src="https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-project-1-580x580.jpg" class="full-width wp-post-image" alt="Physical Education" title="Physical Education" srcset="https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-project-1-580x580.jpg 580w, https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-project-1-150x150.jpg 150w, https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-project-1-120x120.jpg 120w, https://ecole.cmsmasters.net/wp-content/uploads/2019/07/école-project-1-540x540.jpg 540w" sizes="(max-width: 580px) 100vw, 580px" /><div class="cmsmasters_img_rollover"><a href="https://ecole.cmsmasters.net/project/physical-education/" title="Physical Education" class="cmsmasters_open_link"></a></div></figure><div class="cmsmasters_slider_project_inner"><header class="cmsmasters_slider_project_header entry-header"><h4 class="cmsmasters_slider_project_title entry-title"><a href="https://ecole.cmsmasters.net/project/physical-education/">Physical Education</a></h4></header><div class="cmsmasters_slider_project_content entry-content">
-	<p>We enable all our Students to become the best possible. </p>
-	</div>
-	<footer class="cmsmasters_slider_project_footer entry-meta"><span class="cmsmasters_slider_project_category"><a href="https://ecole.cmsmasters.net/pj-categs/athletics/" class="cmsmasters_cat_color cmsmasters_cat_36" rel="category tag">Athletics</a><a href="https://ecole.cmsmasters.net/pj-categs/class/" class="cmsmasters_cat_color cmsmasters_cat_140" rel="category tag">Class</a></span></footer></div>	</div>
-	</article>
-	<!-- Finish Posts Slider Project Article -->
-
-    </div>
-</div>
-</div>
-	</div></div>
-	</div>
-	</div>
-	</div>
-	</div>
-	</div>
-
-
-
-<div id="cmsmasters_row_b6jjm0jnqk" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
-<div class="cmsmasters_row_outer_parent">
-<div class="cmsmasters_row_outer">
-<div class="cmsmasters_row_inner">
-<div class="cmsmasters_row_margin">
-<div id="cmsmasters_column_x974jija3c" class="cmsmasters_column one_first">
-<div class="cmsmasters_column_inner"><div id="cmsmasters_heading_9zc36x4f8" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">
-	<h2 class="cmsmasters_heading">Success Stories</h2>
-</div><div class="cmsmasters_quotes_slider_wrap">
-<div id="cmsmasters_quotes_slider_wjbmb0ik6" class="cmsmasters_owl_slider owl-carousel cmsmasters_quotes cmsmasters_quotes_slider quote_three" data-items="3" data-single-item="false" data-auto-play="5000"><div class="cmsmasters_quote cmsmasters_owl_slider_item">
-<!-- Start Quote Slider Article -->
-<article class="cmsmasters_quote_inner">
-<div class="cmsmasters_quote_img_info_wrap"><span class="cmsmasters_quote_icon"></span><div class="cmsmasters_quote_info_wrap"><header class="cmsmasters_quote_header"><h4 class="cmsmasters_quote_title">Sara E.</h4><div class="cmsmasters_quote_subtitle_wrap"><h5 class="cmsmasters_quote_subtitle">Mom from Quebec</h5></div></header></div></div><div class="cmsmasters_quote_content">
-<p>My daughter loves the content, and loves the interaction and feedback. It keeps her off games and mindless activities.</p>
-</div></article>
-<!-- Finish Quote Slider Article -->
-
-</div>
-<div class="cmsmasters_quote cmsmasters_owl_slider_item">
-<!-- Start Quote Slider Article -->
-<article class="cmsmasters_quote_inner">
-<div class="cmsmasters_quote_img_info_wrap"><span class="cmsmasters_quote_icon"></span><div class="cmsmasters_quote_info_wrap"><header class="cmsmasters_quote_header"><h4 class="cmsmasters_quote_title">Monica H</h4><div class="cmsmasters_quote_subtitle_wrap"><h5 class="cmsmasters_quote_subtitle">Mom from London</h5></div></header></div></div><div class="cmsmasters_quote_content">
-<p>It&#8217;s fun, it&#8217;s very easy to follow, and kids can complete most projects on their own and there is also absolutely no pressure.</p>
-</div></article>
-<!-- Finish Quote Slider Article -->
-
-</div>
-<div class="cmsmasters_quote cmsmasters_owl_slider_item">
-<!-- Start Quote Slider Article -->
-<article class="cmsmasters_quote_inner">
-<div class="cmsmasters_quote_img_info_wrap"><span class="cmsmasters_quote_icon"></span><div class="cmsmasters_quote_info_wrap"><header class="cmsmasters_quote_header"><h4 class="cmsmasters_quote_title">Megan S.</h4><div class="cmsmasters_quote_subtitle_wrap"><h5 class="cmsmasters_quote_subtitle">Mom from Sidney</h5></div></header></div></div><div class="cmsmasters_quote_content">
-<p>My son absolutely loves your courses, and it has completely turned around his self-confidence.</p>
-</div></article>
-<!-- Finish Quote Slider Article -->
-
-</div>
-<div class="cmsmasters_quote cmsmasters_owl_slider_item">
-<!-- Start Quote Slider Article -->
-<article class="cmsmasters_quote_inner">
-<div class="cmsmasters_quote_img_info_wrap"><span class="cmsmasters_quote_icon"></span><div class="cmsmasters_quote_info_wrap"><header class="cmsmasters_quote_header"><h4 class="cmsmasters_quote_title">Anna P.</h4><div class="cmsmasters_quote_subtitle_wrap"><h5 class="cmsmasters_quote_subtitle">Mom from New York</h5></div></header></div></div><div class="cmsmasters_quote_content">
-<p>My child is very happy, the teaching staff are very good at nurturing and developing the children&#8217;s academic skills as well as social interaction and productive play.</p>
-</div></article>
-<!-- Finish Quote Slider Article -->
-
-</div>
-<div class="cmsmasters_quote cmsmasters_owl_slider_item">
-<!-- Start Quote Slider Article -->
-<article class="cmsmasters_quote_inner">
-<div class="cmsmasters_quote_img_info_wrap"><span class="cmsmasters_quote_icon"></span><div class="cmsmasters_quote_info_wrap"><header class="cmsmasters_quote_header"><h4 class="cmsmasters_quote_title">Jim N.</h4><div class="cmsmasters_quote_subtitle_wrap"><h5 class="cmsmasters_quote_subtitle">Dad from Los Angeles</h5></div></header></div></div><div class="cmsmasters_quote_content">
-<p>Very grateful for the rich learning environment in Nursery and for the Speech and Language and the Sound Tots interventions.</p>
-</div></article>
-<!-- Finish Quote Slider Article -->
-
-</div>
-<div class="cmsmasters_quote cmsmasters_owl_slider_item">
-<!-- Start Quote Slider Article -->
-<article class="cmsmasters_quote_inner">
-<div class="cmsmasters_quote_img_info_wrap"><span class="cmsmasters_quote_icon"></span><div class="cmsmasters_quote_info_wrap"><header class="cmsmasters_quote_header"><h4 class="cmsmasters_quote_title">John S.</h4><div class="cmsmasters_quote_subtitle_wrap"><h5 class="cmsmasters_quote_subtitle">Dad from Boston</h5></div></header></div></div><div class="cmsmasters_quote_content">
-<p>Very happy with my child&#8217;s progress, can&#8217;t fault the teaching staff! Thank you.</p>
-</div></article>
-<!-- Finish Quote Slider Article -->
-
-</div>
-</div>
-</div>
-</div></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-<div id="cmsmasters_row_ejw9md0msg" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
-<div class="cmsmasters_row_outer_parent">
-<div class="cmsmasters_row_outer">
-<div class="cmsmasters_row_inner">
-<div class="cmsmasters_row_margin">
-<div id="cmsmasters_column_1hnmswjnx" class="cmsmasters_column one_first">
-<div class="cmsmasters_column_inner"><p></p>
-</div></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-<div class="cl"></div><div class="content_wrap fullwidth">
-
-<div class="middle_content entry"></div>
-<!-- Finish Content -->
-
-
-
-		</div>
-	</div>
-</div>
-<!-- Finish Middle -->
-
-
-<div id="cmsmasters_row_5rrex5068q" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
-	<div class="cmsmasters_row_outer_parent">
-	<div class="cmsmasters_row_outer">
-	<div class="cmsmasters_row_inner">
-	<div class="cmsmasters_row_margin">
-	<div id="cmsmasters_column_2wbxc7il5q" class="cmsmasters_column one_first">
-	<div class="cmsmasters_column_inner"><div id="cmsmasters_heading_dz77n0ig0f" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">
-		<h2 class="cmsmasters_heading">Upcoming Events</h2>
-	</div><div class="aligncenter"><div class="cmsmasters_img  cmsmasters_image_c"><img src="https://ecole.cmsmasters.net/wp-content/uploads/2019/08/école-line-4.jpg" alt="école-line-4" /></div></div>
-	</div></div>
-	</div>
-	</div>
-	</div>
-	</div>
-	</div>
-	<div id="cmsmasters_row_3rsdptcxur" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
-	<div class="cmsmasters_row_outer_parent">
-	<div class="cmsmasters_row_outer">
-	<div class="cmsmasters_row_inner">
-	<div class="cmsmasters_row_margin">
-	<div id="cmsmasters_column_krr2ac28uk" class="cmsmasters_column one_first">
-	<div class="cmsmasters_column_inner">
-	<div class="cmsmasters_sidebar sidebar_layout_11"><aside id="tribe-events-adv-list-widget-4" class="widget tribe-events-adv-list-widget">	<ol class="hfeed vcalendar">
-
-			<!-- Event  -->
-
-
-			<!-- Event  -->
-			<li class="type-tribe_events post-765 tribe-clearfix tribe-events-category-tour tribe-events-venue-391 tribe-events-organizer-393 tribe-events-first tribe-events-last">
-				<div class="tribe-mini-calendar-event event-0  first  last ">
-		<div class="cmsmasters_event_date">
-			<div class="cmsmasters_event_date_inner">
-				<span class="cmsmasters_event_day">20</span>
-				<span class="cmsmasters_event_mon">February</span>
-				<span class="cmsmasters_event_big_week">Thursday</span>
-			</div>
-		</div>
-				<div class="tribe-events-event-image">
-				<figure class="cmsmasters_img_wrap"><a href="https://ecole.cmsmasters.net/wp-content/uploads/2019/12/école-events-10.jpg" title="Sightseeng Tours" rel="ilightbox[1_5eb199be0b074]" class="cmsmasters_img_link"><img width="580" height="580" src="https://ecole.cmsmasters.net/wp-content/uploads/2019/12/école-events-10-580x580.jpg" class=" wp-post-image" alt="école-events-10" title="école-events-10" srcset="https://ecole.cmsmasters.net/wp-content/uploads/2019/12/école-events-10-580x580.jpg 580w, https://ecole.cmsmasters.net/wp-content/uploads/2019/12/école-events-10-150x150.jpg 150w, https://ecole.cmsmasters.net/wp-content/uploads/2019/12/école-events-10-120x120.jpg 120w, https://ecole.cmsmasters.net/wp-content/uploads/2019/12/école-events-10-540x540.jpg 540w" sizes="(max-width: 580px) 100vw, 580px" /></a></figure>		</div>
-			<div class="tribe-events-list-widget-content-wrap">
-
-			<h5 class="entry-title summary">
-				<a href="https://ecole.cmsmasters.net/event/sightseeng-tours/" rel="bookmark">Sightseeng Tours</a>
-			</h5>
-
-
-
-			<div class="cmsmasters_widget_event_info">
-				<div class="duration cmsmasters_theme_icon_time">
-					<span class="tribe-event-date-start">February 20, 2020 @ 8:00 am</span> - <span class="tribe-event-date-end">February 19, 2021 @ 5:00 pm</span>			</div>
-
-				<div class="vcard adr location cmsmasters_widget_event_venue_info_loc">
-							</div>
-			</div>
-			<div class="tribe-events-list-event-description tribe-events-content description entry-summary">
-				<p>Our courses are high quality, facilitating your swift career progression. Our approach to graduate study places an emphasis on your ability to work independently.</p>
-			</div>
-			<div class="cmsmasters_events_more">
-				<a href="https://ecole.cmsmasters.net/event/sightseeng-tours/" class="tribe-events-read-more button" rel="bookmark">View event</a>
-			</div>
-
+					<div class="ekit_submit_input_holder elementskit_input_wraper">
+						<button type="submit" class="ekit-mail-submit" name="ekit_mail_chimp">Subscribe</button>
+					</div>
 				</div>
-	</div>
-
-			</li><!-- .hentry .vevent -->
-
-
-			</ol><!-- .hfeed -->
-
-		<p class="tribe-events-widget-link">
-			<a href="https://ecole.cmsmasters.net/events/" rel="bookmark">
-				View More&hellip;		</a>
-		</p>
-
-	</aside><script type="application/ld+json">
-	[{"@context":"http://schema.org","@type":"Event","name":"Music Classes","description":"&lt;p&gt;Our courses are high quality, facilitating your swift career progression. Our approach to graduate study places an emphasis on your ability to work independently.&lt;/p&gt;\\n","image":"https://ecole.cmsmasters.net/wp-content/uploads/2019/07/\u00e9cole-events-6.jpg","url":"https://ecole.cmsmasters.net/event/music-classes/","startDate":"2020-02-14T00:00:00+00:00","endDate":"2021-02-12T23:59:59+00:00","location":{"@type":"Place","name":"Central Park","description":"","url":"https://ecole.cmsmasters.net/venue/central-park/","address":{"@type":"PostalAddress","streetAddress":"Brooklyn, NY 10036","addressLocality":"New York","addressRegion":"AK","addressCountry":"United States"},"telephone":"+ 1 (000) 111 2233","sameAs":""},"organizer":{"@type":"Person","name":"Nick Sims","description":"","url":"https://ecole.cmsmasters.net/organizer/nick-sims/","telephone":"+1 123 2345 678","email":"s&#105;&#109;s&#64;&#101;&#120;&#97;&#109;p&#108;&#101;&#46;&#99;&#111;m","sameAs":"http://example.com"},"offers":{"@type":"Offer","price":"10","priceCurrency":"USD","url":"https://ecole.cmsmasters.net/event/music-classes/","category":"primary","availability":"inStock","validFrom":"2019-12-25T00:00:00+00:00"},"performer":"Organization"},{"@context":"http://schema.org","@type":"Event","name":"Sightseeng Tours","description":"&lt;p&gt;Our courses are high quality, facilitating your swift career progression. Our approach to graduate study places an emphasis on your ability to work independently.&lt;/p&gt;\\n","image":"https://ecole.cmsmasters.net/wp-content/uploads/2019/12/\u00e9cole-events-10.jpg","url":"https://ecole.cmsmasters.net/event/sightseeng-tours/","startDate":"2020-02-20T08:00:00+00:00","endDate":"2021-02-19T17:00:00+00:00","location":{"@type":"Place","name":"Central Park","description":"","url":"https://ecole.cmsmasters.net/venue/central-park/","address":{"@type":"PostalAddress","streetAddress":"Brooklyn, NY 10036","addressLocality":"New York","addressRegion":"AK","addressCountry":"United States"},"telephone":"+ 1 (000) 111 2233","sameAs":""},"organizer":{"@type":"Person","name":"Nick Sims","description":"","url":"https://ecole.cmsmasters.net/organizer/nick-sims/","telephone":"+1 123 2345 678","email":"s&#105;ms&#64;&#101;xa&#109;pl&#101;.&#99;om","sameAs":"http://example.com"},"performer":"Organization"}]
-	</script><div class="cl"></div>
-	</div>
-	</div></div>
-	</div>
-	</div>
-	</div>
-	</div>
-	</div>
-	<!-- Start Bottom -->
-	<div id="bottom" class="cmsmasters_color_scheme_footer">
-		<div class="bottom_bg">
-			<div class="bottom_outer">
-				<div class="bottom_inner sidebar_layout_14141414">
-	<aside id="text-2" class="widget widget_text"><h3 class="widgettitle">About Us</h3>			<div class="textwidget"><p>We provide an environment where our children develop into empathetic, self-directed, critical thinkers who don&#8217;t give up when faced with challenges.</p>
-</div>
-		</aside><aside id="text-4" class="widget widget_text"><h3 class="widgettitle">Contacts</h3>			<div class="textwidget"><p style="text-align: left; font-family: 'Quicksand'; font-size: 16px; font-weight: 300; line-height: 26px;">214 Main Street<br />
-Southport, CT 06890</p>
-<p style="text-align: left; font-family: 'Quicksand'; font-size: 16px; font-weight: 300; line-height: 26px;">Phone: 203.254.2044<br />
-Fax: 203.255.4052<br />
-<a href="mailto:#">example@example.com</a></p>
-</div>
-		</aside><aside id="text-3" class="widget widget_text"><h3 class="widgettitle">Extra Links</h3>			<div class="textwidget"><p><a href="https://ecole.cmsmasters.net/online-school/our-school/">About Us</a><br />
-<a href="https://ecole.cmsmasters.net/online-school/admission/">Teacher Resources</a><br />
-<a href="https://ecole.cmsmasters.net/online-school/academics/">Contact Us</a><br />
-<a href="https://ecole.cmsmasters.net/online-school/privacy-policy/">Privacy Policy</a><br />
-<a href="https://ecole.cmsmasters.net/online-school/website-disclaimer/">Website Disclaimer</a></p>
-</div>
-		</aside>  <aside id="mailpoet_form-1" class="widget widget_mailpoet_form">
-
-      <h3 class="widgettitle">School Newsletter</h3>
-
-  <div id="mailpoet_form_1" class="mailpoet_form mailpoet_form_widget">
-    <style type="text/css">.mailpoet_hp_email_label{display:none;}#mailpoet_form_1 .mailpoet_form {  }
-#mailpoet_form_1 .mailpoet_paragraph { line-height: 20px; }
-#mailpoet_form_1 .mailpoet_segment_label, #mailpoet_form_1 .mailpoet_text_label, #mailpoet_form_1 .mailpoet_textarea_label, #mailpoet_form_1 .mailpoet_select_label, #mailpoet_form_1 .mailpoet_radio_label, #mailpoet_form_1 .mailpoet_checkbox_label, #mailpoet_form_1 .mailpoet_list_label, #mailpoet_form_1 .mailpoet_date_label { display: block; font-weight: bold; }
-#mailpoet_form_1 .mailpoet_text, #mailpoet_form_1 .mailpoet_textarea, #mailpoet_form_1 .mailpoet_select, #mailpoet_form_1 .mailpoet_date_month, #mailpoet_form_1 .mailpoet_date_day, #mailpoet_form_1 .mailpoet_date_year, #mailpoet_form_1 .mailpoet_date { display: block; }
-#mailpoet_form_1 .mailpoet_text, #mailpoet_form_1 .mailpoet_textarea { width: 200px; }
-#mailpoet_form_1 .mailpoet_checkbox {  }
-#mailpoet_form_1 .mailpoet_submit input {  }
-#mailpoet_form_1 .mailpoet_divider {  }
-#mailpoet_form_1 .mailpoet_message {  }
-#mailpoet_form_1 .mailpoet_validate_success { font-weight: 600; color: #468847; }
-#mailpoet_form_1 .mailpoet_validate_error { color: #b94a48; }
-#mailpoet_form_1 .mailpoet_form_loading { width: 30px; text-align: center; line-height: normal; }
-#mailpoet_form_1 .mailpoet_form_loading > span { width: 5px; height: 5px; background-color: #5b5b5b; }</style>
-    <form
-      target="_self"
-      method="post"
-      action="https://ecole.cmsmasters.net/online-school/wp-admin/admin-post.php?action=mailpoet_subscription_form"
-      class="mailpoet_form mailpoet_form_widget"
-      novalidate
-    >
-      <input type="hidden" name="data[form_id]" value="1" />
-      <input type="hidden" name="token" value="ad9e43f721" />
-      <input type="hidden" name="api_version" value="v1" />
-      <input type="hidden" name="endpoint" value="subscribers" />
-      <input type="hidden" name="mailpoet_method" value="subscribe" />
-
-      <label class="mailpoet_hp_email_label">Please leave this field empty<input type="email" name="data[email]"></label><p class="mailpoet_paragraph"><input type="text" class="mailpoet_text" name="data[form_field_MDU2ZTgyN2IyZDEyX2ZpcnN0X25hbWU=]" title="Your name" value=""   placeholder="Your name *" data-parsley-required="true" data-parsley-required-message="This field is required."/></p>
-<p class="mailpoet_paragraph"><input type="email" class="mailpoet_text" name="data[form_field_MDEyYjNhZDU0MjM2X2VtYWls]" title="Email" value="" data-automation-id="form_email"  placeholder="Email *" data-parsley-required="true" data-parsley-minlength="6" data-parsley-maxlength="150" data-parsley-error-message="Please specify a valid email address." data-parsley-required-message="This field is required."/></p>
-<p class="mailpoet_paragraph"><input type="submit" class="mailpoet_submit" value="Subscribe!" data-automation-id="subscribe-submit-button" /><span class="mailpoet_form_loading"><span class="mailpoet_bounce1"></span><span class="mailpoet_bounce2"></span><span class="mailpoet_bounce3"></span></span></p>
-
-      <div class="mailpoet_message">
-        <p class="mailpoet_validate_success"
-                    style="display:none;"
-                  >Check your inbox or spam folder to confirm your subscription.
-        </p>
-        <p class="mailpoet_validate_error"
-                    style="display:none;"
-                  >        </p>
-      </div>
-    </form>
-  </div>
-  </aside>
+			</form>
+		 </div>
+		 </div>		</div>
 				</div>
+						</div>
 			</div>
 		</div>
-	</div>
-	<!-- Finish Bottom -->
-	<a href="javascript:void(0)" id="slide_top" class="cmsmasters_theme_icon_slide_top"><span></span></a>
-</div>
-<!-- Finish Main -->
-
-<!-- Start Footer -->
-
-<!-- Finish Footer -->
-
-</div>
-<span class="cmsmasters_responsive_width"></span>
-<!-- Finish Page -->
-
-	<div id="cookie-law-info-again" style="display:none;"><span id="cookie_hdr_showagain">Privacy & Cookies Policy</span></div><div class="cli-modal" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
-  <div class="cli-modal-dialog" role="document">
-    <div class="cli-modal-content cli-bar-popup">
-      <button type="button" class="cli-modal-close" id="cliModalClose">
-        <svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
-      </button>
-      <div class="cli-modal-body">
-        <div class="cli-container-fluid cli-tab-container">
-    <div class="cli-row">
-        <div class="cli-col-12 cli-align-items-stretch cli-px-0">
-            <div class="cli-privacy-overview">
-                <h4>Privacy Overview</h4>
-                <div class="cli-privacy-content">
-                    <p class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are as essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.</p>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+					</div>
+		</div>
+		                    </div>
                 </div>
-                <a class="cli-privacy-readmore" data-readmore-text="Show more" data-readless-text="Show less"></a>            </div>
-        </div>
-        <div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
-            <div class="cli-tab-section cli-privacy-tab">
-                <div class="cli-tab-header">
-                    <a class="cli-nav-link cli-settings-mobile" >
-                        Privacy Overview                    </a>
-                </div>
-                <div class="cli-tab-content">
-                    <div class="cli-tab-pane cli-fade">
-                        <p>This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are as essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.</p>
-                    </div>
-                </div>
+            </div>
+        </div> <!-- END sidebar widget item -->
+        <!-- END offset cart strart -->
+        </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		</div>
+		<div data-elementor-type="wp-post" data-elementor-id="24" class="elementor elementor-24" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-0cc01a7 elementor-section-height-min-height animated-slow elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-invisible elementor-section elementor-top-section" data-id="0cc01a7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInUp&quot;,&quot;animation_delay&quot;:0}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-wider">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-c736b5f elementor-column elementor-col-50 elementor-top-column" data-id="c736b5f" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-30375f0 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="30375f0" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-85801cc elementor-column elementor-col-100 elementor-inner-column" data-id="85801cc" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-454cef3 elementor-invisible elementor-widget elementor-widget-premium-addon-dual-header" data-id="454cef3" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInDown&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="premium-addon-dual-header.default">
+				<div class="elementor-widget-container">
 
+    <div class="premium-dual-header-container">
+                    <div class="premium-dual-header-first-container">
+                <h1 class="premium-dual-header-first-header "><span class="premium-dual-header-first-span">Welcome To Kaka World </span><span class="premium-dual-header-second-header ">.</span></h1>             </div>
             </div>
 
+    		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-b8e5ef0 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="b8e5ef0" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5ebec08 elementor-column elementor-col-100 elementor-inner-column" data-id="5ebec08" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-b75c99a elementor-invisible elementor-widget elementor-widget-heading" data-id="b75c99a" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInDown&quot;,&quot;_animation_delay&quot;:800}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Lorem ipsum dolor sit amet, consectetur adipiscing elit </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
 
-                            <div class="cli-tab-section">
-                    <div class="cli-tab-header">
-                        <a class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab" >
-                            Necessary
-                        </a>
 
-                    <span class="cli-necessary-caption">Always Enabled</span>                     </div>
-                    <div class="cli-tab-content">
-                        <div class="cli-tab-pane cli-fade" data-id="necessary">
-                            <p>Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.</p>
-                        </div>
-                    </div>
+				<section class="elementor-element elementor-element-3a2c941 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="3a2c941" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-96e5586 elementor-invisible elementor-column elementor-col-50 elementor-inner-column" data-id="96e5586" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;slideInDown&quot;,&quot;animation_delay&quot;:1100}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7ba1e08 elementor-align-left elementor-widget elementor-widget-button" data-id="7ba1e08" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-md" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Learn more</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-4cc4fbc elementor-invisible elementor-column elementor-col-50 elementor-inner-column" data-id="4cc4fbc" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;slideInDown&quot;,&quot;animation_delay&quot;:1400}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-4692e4f elementor-widget__width-auto elementor-widget elementor-widget-elementskit-video" data-id="4692e4f" data-element_type="widget" data-widget_type="elementskit-video.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >			<div class="video-content">
+                <a href="https://www.youtube.com/watch?v=bzEwCusA_vw?autoplay=yes&amp;loop=no&amp;controls=no&amp;mute=no&amp;start=0&amp;end=&amp;version=3" class="ekit-video-popup ekit-video-popup-btn ekit_icon_button ">
+																<i aria-hidden="true" class="icon icon-play-button"></i>										                </a>
+            </div>
+		</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b7ad71b elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="b7ad71b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Watch video</span>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-cd0e90f elementor-column elementor-col-50 elementor-top-column" data-id="cd0e90f" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+
+
+
+				<section class="elementor-element elementor-element-cd37c19 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="cd37c19" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wider">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-e4eb263 elementor-column elementor-col-100 elementor-top-column" data-id="e4eb263" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-58c56ae elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="58c56ae" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-wider">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-1e83856 elementor-column elementor-col-33 elementor-inner-column" data-id="1e83856" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-19ac19a elementor-column elementor-col-33 elementor-inner-column" data-id="19ac19a" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-3fee87a elementor-widget elementor-widget-heading" data-id="3fee87a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Aenean Malesuada</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-dad0480 elementor-widget elementor-widget-premium-addon-dual-header" data-id="dad0480" data-element_type="widget" data-widget_type="premium-addon-dual-header.default">
+				<div class="elementor-widget-container">
+
+    <div class="premium-dual-header-container">
+                    <div class="premium-dual-header-first-container">
+                <h2 class="premium-dual-header-first-header "><span class="premium-dual-header-first-span">Our area of expertise </span><span class="premium-dual-header-second-header ">.</span></h2>             </div>
+            </div>
+
+    		</div>
+				</div>
+				<div class="elementor-element elementor-element-b768dd0 elementor-widget elementor-widget-heading" data-id="b768dd0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Lorem ipsum dolor sit amet, consectetur adipiscing elit Etiam porta sem malesuada magna mollis euismod.</div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-e25c170 elementor-column elementor-col-33 elementor-inner-column" data-id="e25c170" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-1720ee7 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="1720ee7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-aa98356 elementor-column elementor-col-25 elementor-inner-column" data-id="aa98356" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-ea6f83c elementor-widget elementor-widget-elementskit-icon-box" data-id="ea6f83c" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-center icon-top-align elementor-animation-float    ">
+                            <div class="elementskit-box-header">
+                <div class="elementskit-info-box-icon ">
+                    <img src="../../wp-content/uploads/sites/130/2020/04/16.png" alt="Leadership">
                 </div>
-
-
-                            <div class="cli-tab-section">
-                    <div class="cli-tab-header">
-                        <a class="cli-nav-link cli-settings-mobile" data-target="non-necessary" data-toggle="cli-toggle-tab" >
-                            Non-necessary
-                        </a>
-                    <div class="cli-switch">
-                        <input type="checkbox" id="checkbox-non-necessary" class="cli-user-preference-checkbox" data-id="checkbox-non-necessary" checked />
-                        <label for="checkbox-non-necessary" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled">Non-necessary</label>
-                    </div>                    </div>
-                    <div class="cli-tab-content">
-                        <div class="cli-tab-pane cli-fade" data-id="non-necessary">
-                            <p>Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.</p>
-                        </div>
-                    </div>
+          </div>
+                <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Leadership                </h3>
+                                    <p>Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod  </p>
+                                        <div class="box-footer disable_hover_button">
+                    <div class="btn-wraper">
+                                                            <a href="#"  target="_blank" rel="nofollow" class="elementskit-btn elementor-animation-">
+                                        Book Appointment
+                                        <i aria-hidden="true" class="fas fa-angle-right"></i>
+                                    </a>
+                                                        </div>
                 </div>
+                    </div>
 
+
+                </div>
+        </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-3e013c4 elementor-column elementor-col-25 elementor-inner-column" data-id="3e013c4" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-35591aa elementor-widget elementor-widget-elementskit-icon-box" data-id="35591aa" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-center icon-top-align elementor-animation-float    ">
+                            <div class="elementskit-box-header">
+                <div class="elementskit-info-box-icon ">
+                    <img src="../../wp-content/uploads/sites/130/2020/04/60.png" alt="Business">
+                </div>
+          </div>
+                <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Business                </h3>
+                                    <p>Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod  </p>
+                                        <div class="box-footer disable_hover_button">
+                    <div class="btn-wraper">
+                                                            <a href="#"  target="_blank" rel="nofollow" class="elementskit-btn elementor-animation-">
+                                        Book Appointment
+                                        <i aria-hidden="true" class="fas fa-angle-right"></i>
+                                    </a>
+                                                        </div>
+                </div>
+                    </div>
+
+
+                </div>
+        </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-b605fc2 elementor-column elementor-col-25 elementor-inner-column" data-id="b605fc2" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1bd56e4 elementor-widget elementor-widget-elementskit-icon-box" data-id="1bd56e4" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-center icon-top-align elementor-animation-float    ">
+                            <div class="elementskit-box-header">
+                <div class="elementskit-info-box-icon ">
+                    <img src="../../wp-content/uploads/sites/130/2020/04/13.png" alt="Family">
+                </div>
+          </div>
+                <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Family                </h3>
+                                    <p>Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod  </p>
+                                        <div class="box-footer disable_hover_button">
+                    <div class="btn-wraper">
+                                                            <a href="#"  target="_blank" rel="nofollow" class="elementskit-btn elementor-animation-">
+                                        Book Appointment
+                                        <i aria-hidden="true" class="fas fa-angle-right"></i>
+                                    </a>
+                                                        </div>
+                </div>
+                    </div>
+
+
+                </div>
+        </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-0d8675f elementor-column elementor-col-25 elementor-inner-column" data-id="0d8675f" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-9e7b986 elementor-widget elementor-widget-elementskit-icon-box" data-id="9e7b986" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-center icon-top-align elementor-animation-float    ">
+                            <div class="elementskit-box-header">
+                <div class="elementskit-info-box-icon ">
+                    <img src="../../wp-content/uploads/sites/130/2020/04/43.png" alt="Organization">
+                </div>
+          </div>
+                <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Organization                </h3>
+                                    <p>Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod  </p>
+                                        <div class="box-footer disable_hover_button">
+                    <div class="btn-wraper">
+                                                            <a href="#"  target="_blank" rel="nofollow" class="elementskit-btn elementor-animation-">
+                                        Book Appointment
+                                        <i aria-hidden="true" class="fas fa-angle-right"></i>
+                                    </a>
+                                                        </div>
+                </div>
+                    </div>
+
+
+                </div>
+        </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-cd64432 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="cd64432" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wider">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-70d7e96 elementor-column elementor-col-100 elementor-top-column" data-id="70d7e96" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-938b150 elementor-widget elementor-widget-heading" data-id="938b150" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Aenean Malesuada</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b1b84b2 elementor-widget elementor-widget-premium-addon-dual-header" data-id="b1b84b2" data-element_type="widget" data-widget_type="premium-addon-dual-header.default">
+				<div class="elementor-widget-container">
+
+    <div class="premium-dual-header-container">
+                    <div class="premium-dual-header-first-container">
+                <h2 class="premium-dual-header-first-header "><span class="premium-dual-header-first-span">Our impact in numbers </span><span class="premium-dual-header-second-header ">.</span></h2>             </div>
+            </div>
+
+    		</div>
+				</div>
+				<section class="elementor-element elementor-element-3cf970c elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="3cf970c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-432af2a elementor-column elementor-col-25 elementor-inner-column" data-id="432af2a" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-ac9c39a elementor-widget elementor-widget-elementskit-funfact" data-id="ac9c39a" data-element_type="widget" data-widget_type="elementskit-funfact.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >
+        <div class="elementskit-funfact text-left     ">
+                        <div class="elementskit-funfact-inner">
+                                <div class="funfact-content">
+                    <div class="number-percentage-wraper">
+                        <span class="number-percentage" data-value="153" data-animation-duration="3500">0</span>                                                <span class="super">+</span>
+                                            </div>
+                    <h3 class="funfact-title">Donec id elit non mi porta gravida at eget metus.</h3>
+                                    </div>
+            </div>
         </div>
-    </div>
-</div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
-<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
-<script type="text/javascript">
-  /* <![CDATA[ */
-  cli_cookiebar_settings='{"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":false,"button_1_button_colour":"#000","button_1_button_hover":"#000000","button_1_link_colour":"#fff","button_1_as_button":true,"button_1_new_win":false,"button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":false,"button_2_hidebar":false,"button_3_button_colour":"#000","button_3_button_hover":"#000000","button_3_link_colour":"#fff","button_3_as_button":true,"button_3_new_win":false,"button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#62a329","button_4_as_button":false,"font_family":"inherit","header_fix":false,"notify_animate_hide":true,"notify_animate_show":false,"notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":false,"scroll_close_reload":false,"accept_close_reload":false,"reject_close_reload":false,"showagain_tab":false,"showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#000","show_once_yn":false,"show_once":"10000","logging_on":false,"as_popup":false,"popup_overlay":true,"bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"}';
-  /* ]]> */
-</script>		<script>
-		( function ( body ) {
-			'use strict';
-			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
-		} )( document.body );
-		</script>
-		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><link href="https://fonts.googleapis.com/css?family=Roboto:400%7CNoto+Serif+KR:700%7CDosis:700" rel="stylesheet" property="stylesheet" type="text/css" media="all">
 
-	<script type="text/javascript">
-		var c = document.body.className;
-		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
-		document.body.className = c;
-	</script>
-			<script type="text/javascript">
-		if(typeof revslider_showDoubleJqueryError === "undefined") {
-			function revslider_showDoubleJqueryError(sliderID) {
-				var err = "<div class='rs_error_message_box'>";
-				err += "<div class='rs_error_message_oops'>Oops...</div>";
-				err += "<div class='rs_error_message_content'>";
-				err += "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
-				err += "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' ->  'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
-				err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
-				err += "</div>";
-			err += "</div>";
-				jQuery(sliderID).show().html(err);
-			}
-		}		</script>
-		<script type="text/javascript">
-			var wc_product_block_data = JSON.parse( decodeURIComponent( '%7B%22min_columns%22%3A1%2C%22max_columns%22%3A6%2C%22default_columns%22%3A3%2C%22min_rows%22%3A1%2C%22max_rows%22%3A6%2C%22default_rows%22%3A1%2C%22thumbnail_size%22%3A540%2C%22placeholderImgSrc%22%3A%22https%3A%5C%2F%5C%2Fecole.cmsmasters.net%5C%2Fonline-school%5C%2Fwp-content%5C%2Fuploads%5C%2Fsites%5C%2F6%5C%2Fwoocommerce-placeholder.png%22%2C%22min_height%22%3A500%2C%22default_height%22%3A500%2C%22isLargeCatalog%22%3Afalse%2C%22limitTags%22%3Afalse%2C%22hasTags%22%3Atrue%2C%22productCategories%22%3A%5B%7B%22term_id%22%3A15%2C%22name%22%3A%22Uncategorized%22%2C%22slug%22%3A%22uncategorized%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A15%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fecole.cmsmasters.net%5C%2Fonline-school%5C%2Fproduct-category%5C%2Funcategorized%5C%2F%22%7D%2C%7B%22term_id%22%3A59%2C%22name%22%3A%22Backpack%22%2C%22slug%22%3A%22backpack%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A59%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A4%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fecole.cmsmasters.net%5C%2Fonline-school%5C%2Fproduct-category%5C%2Fbackpack%5C%2F%22%7D%2C%7B%22term_id%22%3A119%2C%22name%22%3A%22School%20bag%22%2C%22slug%22%3A%22school-bag%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A119%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A2%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fecole.cmsmasters.net%5C%2Fonline-school%5C%2Fproduct-category%5C%2Fschool-bag%5C%2F%22%7D%5D%2C%22homeUrl%22%3A%22https%3A%5C%2F%5C%2Fecole.cmsmasters.net%5C%2Fonline-school%5C%2F%22%7D' ) );
-		</script>
-		<link rel='stylesheet' id='mailpoet_public-css'  href='https://ecole.cmsmasters.net/online-school/wp-content/plugins/mailpoet/assets/dist/css/public.75b7aa11.css?ver=5.2.6' type='text/css' media='all' />
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/the-events-calendar/common/src/resources/js/tribe-common.min.js?ver=4.9.16'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/the-events-calendar/common/src/resources/js/tooltip.min.js?ver=4.9.16'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/cmsmasters-mega-menu/js/jquery.megaMenu.js?ver=1.2.9'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"https:\/\/ecole.cmsmasters.net\/online-school\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.4'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var wc_add_to_cart_params = {"ajax_url":"\/online-school\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/online-school\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/ecole.cmsmasters.net\/online-school\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.7.0'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var woocommerce_params = {"ajax_url":"\/online-school\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/online-school\/?wc-ajax=%%endpoint%%"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.7.0'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var wc_cart_fragments_params = {"ajax_url":"\/online-school\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/online-school\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_77c74ba53b66e23797e007eacac3379e","fragment_name":"wc_fragments_77c74ba53b66e23797e007eacac3379e","request_timeout":"5000"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.7.0'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/cmsmasters-hover-slider.min.js?ver=1.0.0'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/easing.min.js?ver=1.0.0'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/easy-pie-chart.min.js?ver=1.0.0'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/mousewheel.min.js?ver=1.0.0'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/owlcarousel.min.js?ver=1.0.0'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/request-animation-frame.min.js?ver=1.0.0'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/scrollspy.js?ver=1.0.0'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/scroll-to.min.js?ver=1.0.0'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/stellar.min.js?ver=1.0.0'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/waypoints.min.js?ver=1.0.0'></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var cmsmasters_script = {"theme_url":"https:\/\/ecole.cmsmasters.net\/online-school\/wp-content\/themes\/ecole","site_url":"https:\/\/ecole.cmsmasters.net\/online-school\/","ajaxurl":"https:\/\/ecole.cmsmasters.net\/online-school\/wp-admin\/admin-ajax.php","nonce_ajax_like":"18cf6ab3e7","nonce_ajax_view":"621101c3f7","project_puzzle_proportion":"1","gmap_api_key":"AIzaSyBIyWpcN4BzUQduapNmX5kb2DruMvy2KMc","gmap_api_key_notice":"Please add your Google Maps API key","gmap_api_key_notice_link":"read more how","primary_color":"#3b575b","ilightbox_skin":"dark","ilightbox_path":"vertical","ilightbox_infinite":"0","ilightbox_aspect_ratio":"1","ilightbox_mobile_optimizer":"1","ilightbox_max_scale":"1","ilightbox_min_scale":"0.2","ilightbox_inner_toolbar":"0","ilightbox_smart_recognition":"0","ilightbox_fullscreen_one_slide":"0","ilightbox_fullscreen_viewport":"center","ilightbox_controls_toolbar":"1","ilightbox_controls_arrows":"0","ilightbox_controls_fullscreen":"1","ilightbox_controls_thumbnail":"1","ilightbox_controls_keyboard":"1","ilightbox_controls_mousewheel":"1","ilightbox_controls_swipe":"1","ilightbox_controls_slideshow":"0","ilightbox_close_text":"Close","ilightbox_enter_fullscreen_text":"Enter Fullscreen (Shift+Enter)","ilightbox_exit_fullscreen_text":"Exit Fullscreen (Shift+Enter)","ilightbox_slideshow_text":"Slideshow","ilightbox_next_text":"Next","ilightbox_previous_text":"Previous","ilightbox_load_image_error":"An error occurred when trying to load photo.","ilightbox_load_contents_error":"An error occurred when trying to load contents.","ilightbox_missing_plugin_error":"The content your are attempting to view requires the <a href='{pluginspage}' target='_blank'>{type} plugin<\\\/a>."};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/jquery.script.js?ver=1.0.0'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var cmsmasters_theme_script = {"primary_color":"#3b575b","secondary_color":"#EB5353"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/theme-framework/theme-style/js/jquery.theme-script.js?ver=1.0.0'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/jquery.tweet.min.js?ver=1.3.1'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/js/smooth-sticky.min.js?ver=1.0.2'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-includes/js/comment-reply.min.js?ver=5.2.6'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/cmsmasters-donations/cmsmasters-framework/theme-style/js/jquery.plugin-script.js?ver=1.0.0'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var cmsmasters_woo_script = {"currency_symbol":"$","thumbnail_image_width":"120","thumbnail_image_height":"120"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/woocommerce/cmsmasters-framework/theme-style/js/jquery.plugin-script.js?ver=1.0.0'></script>
 
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/tribe-events/cmsmasters-framework/theme-style/js/jquery.plugin-script.js?ver=1.0.0'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/themes/ecole/learnpress/cmsmasters-framework/theme-style/js/jquery.learnpress-script.js?ver=1.0.0'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-includes/js/wp-embed.min.js?ver=5.2.6'></script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/mailpoet/assets/dist/js/vendor.84dfeb1a.js?ver=3.35.3'></script>
+        </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-a2e59e9 elementor-column elementor-col-25 elementor-inner-column" data-id="a2e59e9" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-d2957fb elementor-widget elementor-widget-elementskit-funfact" data-id="d2957fb" data-element_type="widget" data-widget_type="elementskit-funfact.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >
+        <div class="elementskit-funfact text-left     ">
+                        <div class="elementskit-funfact-inner">
+                                <div class="funfact-icon">
+                                                                <i ></i>
+
+                                                            </div>
+                                <div class="funfact-content">
+                    <div class="number-percentage-wraper">
+                        <span class="number-percentage" data-value="87" data-animation-duration="3500">0</span>                                                <span class="super">%</span>
+                                            </div>
+                    <h3 class="funfact-title">Donec id elit non mi porta gravida at eget metus.</h3>
+                                    </div>
+            </div>
+        </div>
+
+
+        </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-156500c elementor-column elementor-col-25 elementor-inner-column" data-id="156500c" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-62ab594 elementor-widget elementor-widget-elementskit-funfact" data-id="62ab594" data-element_type="widget" data-widget_type="elementskit-funfact.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >
+        <div class="elementskit-funfact text-left     ">
+                        <div class="elementskit-funfact-inner">
+                                <div class="funfact-icon">
+                                                                <i ></i>
+
+                                                            </div>
+                                <div class="funfact-content">
+                    <div class="number-percentage-wraper">
+                        <span class="number-percentage" data-value="99" data-animation-duration="3500">0</span>M                                                <span class="super">$</span>
+                                            </div>
+                    <h3 class="funfact-title">Donec id elit non mi porta gravida at eget metus.</h3>
+                                    </div>
+            </div>
+        </div>
+
+
+        </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-2cfb4ab elementor-column elementor-col-25 elementor-inner-column" data-id="2cfb4ab" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-f379c77 elementor-widget elementor-widget-elementskit-funfact" data-id="f379c77" data-element_type="widget" data-widget_type="elementskit-funfact.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >
+        <div class="elementskit-funfact text-left     ">
+                        <div class="elementskit-funfact-inner">
+                                <div class="funfact-icon">
+                                                                <i ></i>
+
+                                                            </div>
+                                <div class="funfact-content">
+                    <div class="number-percentage-wraper">
+                        <span class="number-percentage" data-value="260" data-animation-duration="3500">0</span>                                                <span class="super">+</span>
+                                            </div>
+                    <h3 class="funfact-title">Donec id elit non mi porta gravida at eget metus.</h3>
+                                    </div>
+            </div>
+        </div>
+
+
+        </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-afeac63 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="afeac63" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wider">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-57c4dd7 elementor-column elementor-col-100 elementor-top-column" data-id="57c4dd7" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-291b529 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="291b529" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4e61ebc elementor-column elementor-col-50 elementor-inner-column" data-id="4e61ebc" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-0df9edf elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="0df9edf" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500,&quot;direction&quot;:&quot;ltr&quot;}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+				<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../../wp-content/uploads/sites/130/2020/04/midsection-of-men-and-women-sitting-in-a-circle-du-24MPYUZ.jpg" alt="midsection-of-men-and-women-sitting-in-a-circle-du-24MPYUZ" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../../wp-content/uploads/sites/130/2020/04/time-managment-9LAVZB3.jpg" alt="time-managment-9LAVZB3" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../../wp-content/uploads/sites/130/2020/04/woman-at-therapy-room-laying-on-couch-discussing-w-UG75Z2Y.jpg" alt="woman-at-therapy-room-laying-on-couch-discussing-w-UG75Z2Y" /></figure></div>			</div>
+												<div class="swiper-pagination"></div>
+													<div class="elementor-swiper-button elementor-swiper-button-prev">
+						<i class="eicon-chevron-left" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Previous</span>
+					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next">
+						<i class="eicon-chevron-right" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Next</span>
+					</div>
+									</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-83abacd elementor-column elementor-col-50 elementor-inner-column" data-id="83abacd" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-204b71d elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="204b71d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-11e8f9f elementor-column elementor-col-50 elementor-inner-column" data-id="11e8f9f" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-c96adeb elementor-column elementor-col-50 elementor-inner-column" data-id="c96adeb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-9c98f69 elementor-widget elementor-widget-heading" data-id="9c98f69" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Founder and Director</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-614e13f elementor-widget elementor-widget-premium-addon-dual-header" data-id="614e13f" data-element_type="widget" data-widget_type="premium-addon-dual-header.default">
+				<div class="elementor-widget-container">
+
+    <div class="premium-dual-header-container">
+                    <div class="premium-dual-header-first-container">
+                <h2 class="premium-dual-header-first-header "><span class="premium-dual-header-first-span">Jason Kalashnikov </span><span class="premium-dual-header-second-header ">.</span></h2>             </div>
+            </div>
+
+    		</div>
+				</div>
+				<div class="elementor-element elementor-element-a3fdba1 elementor-widget elementor-widget-heading" data-id="a3fdba1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Lorem ipsum dolor sit amet, consectetur adipiscing elit Etiam porta sem malesuada magna mollis euismod. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Sed posuere consectetur est at lobortis.</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c27622a elementor-widget elementor-widget-image" data-id="c27622a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="674" height="200" src="../../wp-content/uploads/sites/130/2020/04/Ttd.png" class="attachment-large size-large" alt="" srcset="https://demo.detheme.com/coachie-kit/wp-content/uploads/sites/130/2020/04/Ttd.png 674w, https://demo.detheme.com/coachie-kit/wp-content/uploads/sites/130/2020/04/Ttd-300x89.png 300w, https://demo.detheme.com/coachie-kit/wp-content/uploads/sites/130/2020/04/Ttd-600x178.png 600w" sizes="(max-width: 674px) 100vw, 674px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-3c3d8b44 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="3c3d8b44" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wider">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-714d919d elementor-column elementor-col-100 elementor-top-column" data-id="714d919d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-586b20d8 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="586b20d8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-7e99c139 elementor-column elementor-col-33 elementor-inner-column" data-id="7e99c139" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-3b7798a elementor-column elementor-col-33 elementor-inner-column" data-id="3b7798a" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-f57835c elementor-widget elementor-widget-heading" data-id="f57835c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Aenean Malesuada</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-cdfbd94 elementor-widget elementor-widget-premium-addon-dual-header" data-id="cdfbd94" data-element_type="widget" data-widget_type="premium-addon-dual-header.default">
+				<div class="elementor-widget-container">
+
+    <div class="premium-dual-header-container">
+                    <div class="premium-dual-header-first-container">
+                <h2 class="premium-dual-header-first-header "><span class="premium-dual-header-first-span">Life Coaching Certificate Course </span><span class="premium-dual-header-second-header ">.</span></h2>             </div>
+            </div>
+
+    		</div>
+				</div>
+				<div class="elementor-element elementor-element-1b299c37 elementor-widget elementor-widget-text-editor" data-id="1b299c37" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Aenean lacinia bibendum nulla sed consectetur. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-60557b80 elementor-column elementor-col-33 elementor-inner-column" data-id="60557b80" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-71b6f04a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="71b6f04a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-62ed5a95 elementor-column elementor-col-25 elementor-inner-column" data-id="62ed5a95" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-66eeef3e elementor-widget elementor-widget-elementskit-icon-box" data-id="66eeef3e" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left icon-top-align elementor-animation-  gradient-active  hover_from_bottom">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  ">
+                    <i aria-hidden="true" class="elementkit-infobox-icon icon icon-dot"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    The Law of Three Levels of Impact                </h3>
+                                                    <div class="box-footer disable_hover_button">
+                    <div class="btn-wraper">
+                                                            <a href="#" target="_blank" rel="nofollow" class="elementskit-btn elementor-animation-float">
+                                        <i aria-hidden="true" class="icon icon-arrow-right"></i>                                                                            </a>
+                                                        </div>
+                </div>
+                    </div>
+
+
+                </div>
+        </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-5cf4d074 elementor-column elementor-col-25 elementor-inner-column" data-id="5cf4d074" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-93aaebb elementor-widget elementor-widget-image" data-id="93aaebb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="199" height="192" src="../../wp-content/uploads/sites/130/2020/04/71.png" class="attachment-large size-large" alt="" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-1f10e9fc elementor-column elementor-col-25 elementor-inner-column" data-id="1f10e9fc" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-329f9d29 elementor-widget elementor-widget-elementskit-icon-box" data-id="329f9d29" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left icon-top-align elementor-animation-  gradient-active  hover_from_bottom">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  ">
+                    <i aria-hidden="true" class="elementkit-infobox-icon icon icon-dot"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    The Purpose of Life Coaching                </h3>
+                                                    <div class="box-footer disable_hover_button">
+                    <div class="btn-wraper">
+                                                            <a href="#" target="_blank" rel="nofollow" class="elementskit-btn elementor-animation-float">
+                                        <i aria-hidden="true" class="icon icon-arrow-right"></i>                                                                            </a>
+                                                        </div>
+                </div>
+                    </div>
+
+
+                </div>
+        </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-69d2fb1a elementor-column elementor-col-25 elementor-inner-column" data-id="69d2fb1a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-bbf4ceb elementor-widget elementor-widget-image" data-id="bbf4ceb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="238" height="203" src="../../wp-content/uploads/sites/130/2020/04/100.png" class="attachment-large size-large" alt="" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-7a6a3c50 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="7a6a3c50" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-narrow">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-a3ed7db elementor-column elementor-col-25 elementor-inner-column" data-id="a3ed7db" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-6d3d4da elementor-widget elementor-widget-image" data-id="6d3d4da" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="176" height="196" src="../../wp-content/uploads/sites/130/2020/04/44.png" class="attachment-large size-large" alt="" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-e9ed079 elementor-column elementor-col-25 elementor-inner-column" data-id="e9ed079" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-665d5e0b elementor-widget elementor-widget-elementskit-icon-box" data-id="665d5e0b" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left icon-top-align elementor-animation-  gradient-active  hover_from_bottom">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  ">
+                    <i aria-hidden="true" class="elementkit-infobox-icon icon icon-dot"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Past, Present &amp; Future Exercise                 </h3>
+                                                    <div class="box-footer disable_hover_button">
+                    <div class="btn-wraper">
+                                                            <a href="#" target="_blank" rel="nofollow" class="elementskit-btn elementor-animation-float">
+                                        <i aria-hidden="true" class="icon icon-arrow-right"></i>                                                                            </a>
+                                                        </div>
+                </div>
+                    </div>
+
+
+                </div>
+        </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-1f651f66 elementor-column elementor-col-25 elementor-inner-column" data-id="1f651f66" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1da6c1e elementor-widget elementor-widget-image" data-id="1da6c1e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="210" height="203" src="../../wp-content/uploads/sites/130/2020/04/102.png" class="attachment-large size-large" alt="" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-2d8e4abd elementor-column elementor-col-25 elementor-inner-column" data-id="2d8e4abd" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7b795e90 elementor-widget elementor-widget-elementskit-icon-box" data-id="7b795e90" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left icon-top-align elementor-animation-  gradient-active  hover_from_bottom">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  ">
+                    <i aria-hidden="true" class="elementkit-infobox-icon icon icon-dot"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    How do you perceive value?                 </h3>
+                                                    <div class="box-footer disable_hover_button">
+                    <div class="btn-wraper">
+                                                            <a href="#" target="_blank" rel="nofollow" class="elementskit-btn elementor-animation-float">
+                                        <i aria-hidden="true" class="icon icon-arrow-right"></i>                                                                            </a>
+                                                        </div>
+                </div>
+                    </div>
+
+
+                </div>
+        </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-ab84ce7 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="ab84ce7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wider">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-a25d8be elementor-column elementor-col-100 elementor-top-column" data-id="a25d8be" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-b7439d7 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section elementor-inner-section" data-id="b7439d7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-3fa50e5 elementor-column elementor-col-100 elementor-inner-column" data-id="3fa50e5" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-22eed4b elementor-widget elementor-widget-elementskit-video" data-id="22eed4b" data-element_type="widget" data-widget_type="elementskit-video.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >			<div class="video-content">
+                <a href="https://www.youtube.com/watch?v=1MTkZPys7mU?autoplay=yes&amp;loop=no&amp;controls=no&amp;mute=no&amp;start=0&amp;end=&amp;version=3" class="ekit-video-popup ekit-video-popup-btn ekit_icon_button ">
+																<i aria-hidden="true" class="icon icon-play-button"></i>										                </a>
+            </div>
+		</div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-451cd1ea elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="451cd1ea" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wider">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-39786577 elementor-column elementor-col-100 elementor-top-column" data-id="39786577" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-86141e4 elementor-widget elementor-widget-heading" data-id="86141e4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">TEstimonials</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-011cd33 elementor-widget elementor-widget-premium-addon-dual-header" data-id="011cd33" data-element_type="widget" data-widget_type="premium-addon-dual-header.default">
+				<div class="elementor-widget-container">
+
+    <div class="premium-dual-header-container">
+                    <div class="premium-dual-header-first-container">
+                <h2 class="premium-dual-header-first-header "><span class="premium-dual-header-first-span">What our Customer Say </span><span class="premium-dual-header-second-header ">.</span></h2>             </div>
+            </div>
+
+    		</div>
+				</div>
+				<div class="elementor-element elementor-element-771a2346 elementor-widget elementor-widget-elementskit-testimonial" data-id="771a2346" data-element_type="widget" data-widget_type="elementskit-testimonial.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" ><div  class="elementskit-testimonial-slider ekit_testimonial_style_6" data-slidestoshow='2' data-slidestoshowmobile= '1' data-slidestoscroll= '1' data-slidesToScroll_mobile= '1' data-speed= '5000' data-autoplay= 'yes' data-show_dot= 'yes' data-left_icon="" data-right_icon=""data-pause_on_hover= 'yes' >
+	    <div class="elementskit-single-testimonial-slider elementskit-testimonial-slider-block-style elementskit-testimonial-slider-block-style-three elementor-repeater-item-10611f4">
+                <div class="elementskit-watermark-icon elementskit-icon-content  commentor-badge ">
+			<i aria-hidden="true" class="icon icon-quote"></i>        </div>
+        		        <div class="elementskit-commentor-bio client_left">
+			<div class="elementkit-commentor-details">
+					<div class="elementskit-commentor-image">
+						<img src="../../wp-content/uploads/sites/130/2020/04/face1.jpg"  height="100" width="100" alt="Client Logo">
+					</div>
+			</div>
+		</div>
+							<div class="elementskit-commentor-content">
+								<ul class="elementskit-stars">
+                                        <li><a href="#"><i class="fas fa-star active"></i></a></li>
+
+                                        <li><a href="#"><i class="fas fa-star active"></i></a></li>
+
+                                        <li><a href="#"><i class="fas fa-star active"></i></a></li>
+
+                                        <li><a href="#"><i class="fas fa-star active"></i></a></li>
+
+                                        <li><a href="#"><i class="fas fa-star active"></i></a></li>
+
+                    				</ul>
+				                <p>Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.</p>
+            </div>
+
+				<div class="elementskit-profile-info">
+						<strong class="elementskit-author-name">Lex Johnson</strong>
+									<span class="elementskit-author-des">Supply Chain Manager @kedintunRaya</span>
+					</div>
+			</div>
+	    <div class="elementskit-single-testimonial-slider elementskit-testimonial-slider-block-style elementskit-testimonial-slider-block-style-three elementor-repeater-item-9bfa76e">
+                <div class="elementskit-watermark-icon elementskit-icon-content  commentor-badge ">
+			<i aria-hidden="true" class="icon icon-quote"></i>        </div>
+        		        <div class="elementskit-commentor-bio client_left">
+			<div class="elementkit-commentor-details">
+					<div class="elementskit-commentor-image">
+						<img src="../../wp-content/uploads/sites/130/2020/04/face3.jpg"  height="100" width="100" alt="Client Logo">
+					</div>
+			</div>
+		</div>
+							<div class="elementskit-commentor-content">
+								<ul class="elementskit-stars">
+                                        <li><a href="#"><i class="fas fa-star active"></i></a></li>
+
+                                        <li><a href="#"><i class="fas fa-star active"></i></a></li>
+
+                                        <li><a href="#"><i class="fas fa-star active"></i></a></li>
+
+                                        <li><a href="#"><i class="fas fa-star active"></i></a></li>
+
+                                        <li><a href="#"><i class="fas fa-star active"></i></a></li>
+
+                    				</ul>
+				                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+            </div>
+
+				<div class="elementskit-profile-info">
+						<strong class="elementskit-author-name">Sonya Lawrence</strong>
+									<span class="elementskit-author-des">Marketing Director @sapuAngin</span>
+					</div>
+			</div>
+	    <div class="elementskit-single-testimonial-slider elementskit-testimonial-slider-block-style elementskit-testimonial-slider-block-style-three elementor-repeater-item-32ab737">
+                <div class="elementskit-watermark-icon elementskit-icon-content  commentor-badge ">
+			<i aria-hidden="true" class="icon icon-quote"></i>        </div>
+        		        <div class="elementskit-commentor-bio client_left">
+			<div class="elementkit-commentor-details">
+					<div class="elementskit-commentor-image">
+						<img src="../../wp-content/uploads/sites/130/2020/04/face2.jpg"  height="100" width="100" alt="Client Logo">
+					</div>
+			</div>
+		</div>
+							<div class="elementskit-commentor-content">
+								<ul class="elementskit-stars">
+                                        <li><a href="#"><i class="fas fa-star active"></i></a></li>
+
+                                        <li><a href="#"><i class="fas fa-star active"></i></a></li>
+
+                                        <li><a href="#"><i class="fas fa-star active"></i></a></li>
+
+                                        <li><a href="#"><i class="fas fa-star active"></i></a></li>
+
+                                        <li><a href="#"><i class="fas fa-star active"></i></a></li>
+
+                    				</ul>
+				                <p>Donec id elit non mi porta gravida at eget metus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod. Etiam porta sem malesuada magna mollis euismod.</p>
+            </div>
+
+				<div class="elementskit-profile-info">
+						<strong class="elementskit-author-name">Felix Hopkins</strong>
+									<span class="elementskit-author-des">Supervising Janitor @TanahAbang</span>
+					</div>
+			</div>
+	    <div class="elementskit-single-testimonial-slider elementskit-testimonial-slider-block-style elementskit-testimonial-slider-block-style-three elementor-repeater-item-c5ee74b">
+                <div class="elementskit-watermark-icon elementskit-icon-content  commentor-badge ">
+			<i aria-hidden="true" class="icon icon-quote"></i>        </div>
+        		        <div class="elementskit-commentor-bio client_left">
+			<div class="elementkit-commentor-details">
+					<div class="elementskit-commentor-image">
+						<img src="../../wp-content/uploads/sites/130/2020/04/face4.jpg"  height="100" width="100" alt="Client Logo">
+					</div>
+			</div>
+		</div>
+							<div class="elementskit-commentor-content">
+								<ul class="elementskit-stars">
+                                        <li><a href="#"><i class="fas fa-star active"></i></a></li>
+
+                                        <li><a href="#"><i class="fas fa-star active"></i></a></li>
+
+                                        <li><a href="#"><i class="fas fa-star active"></i></a></li>
+
+                                        <li><a href="#"><i class="fas fa-star active"></i></a></li>
+
+                                        <li><a href="#"><i class="fas fa-star active"></i></a></li>
+
+                    				</ul>
+				                <p>Donec id elit non mi porta gravida at eget metus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui.Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus </p>
+            </div>
+
+				<div class="elementskit-profile-info">
+						<strong class="elementskit-author-name">Alicia Halisa</strong>
+									<span class="elementskit-author-des">Supervising Janitor @TanahAbang</span>
+					</div>
+			</div>
+	</div><!-- .testimonial-block-slider2 END --></div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-17a810e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="17a810e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wider">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-e57ea1f elementor-column elementor-col-100 elementor-top-column" data-id="e57ea1f" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-82ab69e elementor-widget elementor-widget-heading" data-id="82ab69e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">From Our Blog</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-fc60b8c elementor-widget elementor-widget-premium-addon-dual-header" data-id="fc60b8c" data-element_type="widget" data-widget_type="premium-addon-dual-header.default">
+				<div class="elementor-widget-container">
+
+    <div class="premium-dual-header-container">
+                    <div class="premium-dual-header-first-container">
+                <h2 class="premium-dual-header-first-header "><span class="premium-dual-header-first-span">Latest News </span><span class="premium-dual-header-second-header ">.</span></h2>             </div>
+            </div>
+
+    		</div>
+				</div>
+				<div class="elementor-element elementor-element-d6d4a93 elementor-widget elementor-widget-elementskit-blog-posts" data-id="d6d4a93" data-element_type="widget" data-widget_type="elementskit-blog-posts.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <div class="row">
+                    <div class="col-lg-4 col-md-6">
+
+                                    <div class="elementskit-post-image-card">
+                        <div class="elementskit-entry-header">
+                                                            <a href="https://demo.detheme.com/coachie-kit/2020/04/22/duplicated-nullam-efficitur-nisi-at-nisl-ultricies-pellentesque-lacinia-494-4/" class="elementskit-entry-thumb">
+                                    <img src="../../wp-content/uploads/sites/130/2020/04/men-and-women-sitting-in-a-circle-during-group-the-MXZLYC4-1.jpg" alt="Suspendisse faucibus nisi eros at maximus sem aliquet">
+                                </a><!-- .elementskit-entry-thumb END -->
+                                                                                                    <div class="elementskit-meta-lists elementskit-style-tag">
+                                        <div class="elementskit-single-meta triangle_left"><span class="elementskit-meta-wraper"><strong>22</strong>Apr</span></div>
+                                    </div>
+
+                                                    </div><!-- .elementskit-entry-header END -->
+
+                        <div class="elementskit-post-body ">
+
+                                                                                                                <div class="post-meta-list">
+                                                                        <span class="meta-author">
+                                                                    <span class="author-img">
+                                        <img alt='' src='https://secure.gravatar.com/avatar/15101b1395a79c6ab8185c3b26340ce8?s=96&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/15101b1395a79c6ab8185c3b26340ce8?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' />                                    </span>
+                                                                <a href="https://demo.detheme.com/coachie-kit/author/ardho/" class="author-name">Ardho Fortana</a>
+                            </span>
+                                                                                                                                                                                                                        <span class="post-cat">
+
+                                <i aria-hidden="true" class="icon icon-burger-menu"></i>
+                                <a href="https://demo.detheme.com/coachie-kit/category/psychology/" rel="category tag">Psychology</a>                            </span>
+                                                                                                                                                                                                <span class="post-comment">
+
+                                <i aria-hidden="true" class="icon icon-comments"></i>
+                                <a href="https://demo.detheme.com/coachie-kit/2020/04/22/duplicated-nullam-efficitur-nisi-at-nisl-ultricies-pellentesque-lacinia-494-4/#respond">0</a>
+                            </span>
+                                                            </div>
+
+
+                                                                                                <h2 class="entry-title">
+                    <a href="https://demo.detheme.com/coachie-kit/2020/04/22/duplicated-nullam-efficitur-nisi-at-nisl-ultricies-pellentesque-lacinia-494-4/">
+                            Suspendisse faucibus nisi eros at maximus sem aliquet                    </a>
+                </h2>
+                                                                                                                                                                                            <p>Nullam quis risus eget urna mollis ornare vel eu leo. Nulla vitae elit libero, a pharetra augue.</p>
+                                                                                                                                                        <div class="btn-wraper">
+
+                                                                            <a href="https://demo.detheme.com/coachie-kit/2020/04/22/duplicated-nullam-efficitur-nisi-at-nisl-ultricies-pellentesque-lacinia-494-4/" class="elementskit-btn " >
+                                                                                    Read more                                         </a>
+                                                                    </div>
+                                                    </div><!-- .elementskit-post-body END -->
+                    </div>
+
+            </div>
+                    <div class="col-lg-4 col-md-6">
+
+                                    <div class="elementskit-post-image-card">
+                        <div class="elementskit-entry-header">
+                                                            <a href="https://demo.detheme.com/coachie-kit/2020/04/22/duplicated-nullam-efficitur-nisi-at-nisl-ultricies-pellentesque-lacinia-494-5/" class="elementskit-entry-thumb">
+                                    <img src="../../wp-content/uploads/sites/130/2020/04/counsellor-putting-an-adhesive-note-with-the-word-GE5HWJN.jpg" alt="Lorem ipsum dolor sit amet consectetur adipiscing elit">
+                                </a><!-- .elementskit-entry-thumb END -->
+                                                                                                    <div class="elementskit-meta-lists elementskit-style-tag">
+                                        <div class="elementskit-single-meta triangle_left"><span class="elementskit-meta-wraper"><strong>22</strong>Apr</span></div>
+                                    </div>
+
+                                                    </div><!-- .elementskit-entry-header END -->
+
+                        <div class="elementskit-post-body ">
+
+                                                                                                                <div class="post-meta-list">
+                                                                        <span class="meta-author">
+                                                                    <span class="author-img">
+                                        <img alt='' src='https://secure.gravatar.com/avatar/15101b1395a79c6ab8185c3b26340ce8?s=96&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/15101b1395a79c6ab8185c3b26340ce8?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' />                                    </span>
+                                                                <a href="https://demo.detheme.com/coachie-kit/author/ardho/" class="author-name">Ardho Fortana</a>
+                            </span>
+                                                                                                                                                                                                                        <span class="post-cat">
+
+                                <i aria-hidden="true" class="icon icon-burger-menu"></i>
+                                <a href="https://demo.detheme.com/coachie-kit/category/psychology/" rel="category tag">Psychology</a>                            </span>
+                                                                                                                                                                                                <span class="post-comment">
+
+                                <i aria-hidden="true" class="icon icon-comments"></i>
+                                <a href="https://demo.detheme.com/coachie-kit/2020/04/22/duplicated-nullam-efficitur-nisi-at-nisl-ultricies-pellentesque-lacinia-494-5/#respond">0</a>
+                            </span>
+                                                            </div>
+
+
+                                                                                                <h2 class="entry-title">
+                    <a href="https://demo.detheme.com/coachie-kit/2020/04/22/duplicated-nullam-efficitur-nisi-at-nisl-ultricies-pellentesque-lacinia-494-5/">
+                            Lorem ipsum dolor sit amet consectetur adipiscing elit                    </a>
+                </h2>
+                                                                                                                                                                                            <p>Nullam quis risus eget urna mollis ornare vel eu leo. Nulla vitae elit libero, a pharetra augue.</p>
+                                                                                                                                                        <div class="btn-wraper">
+
+                                                                            <a href="https://demo.detheme.com/coachie-kit/2020/04/22/duplicated-nullam-efficitur-nisi-at-nisl-ultricies-pellentesque-lacinia-494-5/" class="elementskit-btn " >
+                                                                                    Read more                                         </a>
+                                                                    </div>
+                                                    </div><!-- .elementskit-post-body END -->
+                    </div>
+
+            </div>
+                    <div class="col-lg-4 col-md-6">
+
+                                    <div class="elementskit-post-image-card">
+                        <div class="elementskit-entry-header">
+                                                            <a href="https://demo.detheme.com/coachie-kit/2020/04/22/duplicated-nullam-efficitur-nisi-at-nisl-ultricies-pellentesque-lacinia-494-3/" class="elementskit-entry-thumb">
+                                    <img src="../../wp-content/uploads/sites/130/2020/04/midsection-of-men-and-women-sitting-in-a-circle-du-24MPYUZ-1.jpg" alt="Curabitur vel nunc a nunc gravida consectetur">
+                                </a><!-- .elementskit-entry-thumb END -->
+                                                                                                    <div class="elementskit-meta-lists elementskit-style-tag">
+                                        <div class="elementskit-single-meta triangle_left"><span class="elementskit-meta-wraper"><strong>22</strong>Apr</span></div>
+                                    </div>
+
+                                                    </div><!-- .elementskit-entry-header END -->
+
+                        <div class="elementskit-post-body ">
+
+                                                                                                                <div class="post-meta-list">
+                                                                        <span class="meta-author">
+                                                                    <span class="author-img">
+                                        <img alt='' src='https://secure.gravatar.com/avatar/15101b1395a79c6ab8185c3b26340ce8?s=96&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/15101b1395a79c6ab8185c3b26340ce8?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' />                                    </span>
+                                                                <a href="https://demo.detheme.com/coachie-kit/author/ardho/" class="author-name">Ardho Fortana</a>
+                            </span>
+                                                                                                                                                                                                                        <span class="post-cat">
+
+                                <i aria-hidden="true" class="icon icon-burger-menu"></i>
+                                <a href="https://demo.detheme.com/coachie-kit/category/psychology/" rel="category tag">Psychology</a>                            </span>
+                                                                                                                                                                                                <span class="post-comment">
+
+                                <i aria-hidden="true" class="icon icon-comments"></i>
+                                <a href="https://demo.detheme.com/coachie-kit/2020/04/22/duplicated-nullam-efficitur-nisi-at-nisl-ultricies-pellentesque-lacinia-494-3/#respond">0</a>
+                            </span>
+                                                            </div>
+
+
+                                                                                                <h2 class="entry-title">
+                    <a href="https://demo.detheme.com/coachie-kit/2020/04/22/duplicated-nullam-efficitur-nisi-at-nisl-ultricies-pellentesque-lacinia-494-3/">
+                            Curabitur vel nunc a nunc gravida consectetur                    </a>
+                </h2>
+                                                                                                                                                                                            <p>Nullam quis risus eget urna mollis ornare vel eu leo. Nulla vitae elit libero, a pharetra augue.</p>
+                                                                                                                                                        <div class="btn-wraper">
+
+                                                                            <a href="https://demo.detheme.com/coachie-kit/2020/04/22/duplicated-nullam-efficitur-nisi-at-nisl-ultricies-pellentesque-lacinia-494-3/" class="elementskit-btn " >
+                                                                                    Read more                                         </a>
+                                                                    </div>
+                                                    </div><!-- .elementskit-post-body END -->
+                    </div>
+
+            </div>
+                </div>
+       </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-a09cae3 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="a09cae3" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-wider">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-c29b760 elementor-column elementor-col-33 elementor-top-column" data-id="c29b760" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-edecf03 elementor-widget elementor-widget-image" data-id="edecf03" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="234" height="178" src="../../wp-content/uploads/sites/130/2020/04/38.png" class="attachment-large size-large" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-16e453a elementor-widget elementor-widget-premium-addon-dual-header" data-id="16e453a" data-element_type="widget" data-widget_type="premium-addon-dual-header.default">
+				<div class="elementor-widget-container">
+
+    <div class="premium-dual-header-container">
+                    <div class="premium-dual-header-first-container">
+                <h2 class="premium-dual-header-first-header "><span class="premium-dual-header-first-span">Live A Happier Life, Get Started Today​ </span><span class="premium-dual-header-second-header ">.</span></h2>             </div>
+            </div>
+
+    		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-c837c21 elementor-hidden-tablet elementor-hidden-phone elementor-column elementor-col-33 elementor-top-column" data-id="c837c21" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-f6d797f elementor-column elementor-col-33 elementor-top-column" data-id="f6d797f" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-0cbd110 elementor-widget elementor-widget-heading" data-id="0cbd110" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">Want to meet Yusuf Kaka personally? </div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-52cfdf7 elementor-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="52cfdf7" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-lg" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Free Consultation</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-13d6cc6 elementor-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="13d6cc6" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-lg" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">View Pricing</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		<div class="ekit-template-content-markup ekit-template-content-footer ekit-template-content-theme-support">
+<style>.elementor-175 .elementor-element.elementor-element-7ec210f > .elementor-background-overlay{opacity:0.8;mix-blend-mode:multiply;}.elementor-175 .elementor-element.elementor-element-7ec210f{padding:0% 5% 0% 5%;}.elementor-175 .elementor-element.elementor-element-86b7022 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-175 .elementor-element.elementor-element-36f17d9:not(.elementor-motion-effects-element-type-background), .elementor-175 .elementor-element.elementor-element-36f17d9 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#021C23;}.elementor-175 .elementor-element.elementor-element-36f17d9{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:96px 0px 0px 0px;}.elementor-175 .elementor-element.elementor-element-36f17d9 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-bc-flex-widget .elementor-175 .elementor-element.elementor-element-640c6fa.elementor-column .elementor-column-wrap{align-items:space-between;}.elementor-175 .elementor-element.elementor-element-640c6fa.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:space-between;align-items:space-between;}.elementor-175 .elementor-element.elementor-element-c97ddb5{text-align:left;}.elementor-175 .elementor-element.elementor-element-c97ddb5 .elementor-image img{width:123px;}.elementor-175 .elementor-element.elementor-element-28ec50f .elementor-icon-list-icon i{font-size:14px;}.elementor-175 .elementor-element.elementor-element-28ec50f .elementor-icon-list-icon svg{width:14px;}.elementor-175 .elementor-element.elementor-element-28ec50f .elementor-icon-list-text{color:#FFFFFF;}.elementor-175 .elementor-element.elementor-element-28ec50f .elementor-icon-list-item:hover .elementor-icon-list-text{color:#00B0DB;}.elementor-175 .elementor-element.elementor-element-28ec50f .elementor-icon-list-item{font-family:"Space Mono", Sans-serif;font-size:12px;letter-spacing:2px;}.elementor-175 .elementor-element.elementor-element-db5ef6a{text-align:left;}.elementor-175 .elementor-element.elementor-element-db5ef6a .elementor-heading-title{color:#00B0DB;font-family:"Space Mono", Sans-serif;font-size:12px;font-weight:500;text-transform:uppercase;letter-spacing:2px;}.elementor-175 .elementor-element.elementor-element-db5ef6a > .elementor-widget-container{margin:0px 0px 48px 0px;}.elementor-175 .elementor-element.elementor-element-0a2bb4d .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-bottom:calc(11px/2);}.elementor-175 .elementor-element.elementor-element-0a2bb4d .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-top:calc(11px/2);}.elementor-175 .elementor-element.elementor-element-0a2bb4d .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right:calc(11px/2);margin-left:calc(11px/2);}.elementor-175 .elementor-element.elementor-element-0a2bb4d .elementor-icon-list-items.elementor-inline-items{margin-right:calc(-11px/2);margin-left:calc(-11px/2);}body.rtl .elementor-175 .elementor-element.elementor-element-0a2bb4d .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{left:calc(-11px/2);}body:not(.rtl) .elementor-175 .elementor-element.elementor-element-0a2bb4d .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{right:calc(-11px/2);}.elementor-175 .elementor-element.elementor-element-0a2bb4d .elementor-icon-list-icon i{color:#FFFFFF;font-size:14px;}.elementor-175 .elementor-element.elementor-element-0a2bb4d .elementor-icon-list-icon svg{fill:#FFFFFF;width:14px;}.elementor-175 .elementor-element.elementor-element-0a2bb4d .elementor-icon-list-text{color:#FFFFFF;}.elementor-175 .elementor-element.elementor-element-850f5c6{text-align:left;}.elementor-175 .elementor-element.elementor-element-850f5c6 .elementor-heading-title{color:#00B0DB;font-family:"Space Mono", Sans-serif;font-size:12px;font-weight:500;text-transform:uppercase;letter-spacing:2px;}.elementor-175 .elementor-element.elementor-element-850f5c6 > .elementor-widget-container{margin:0px 0px 48px 0px;}.elementor-175 .elementor-element.elementor-element-0c666c6 .elementor-icon-list-icon i{color:#919191;font-size:14px;}.elementor-175 .elementor-element.elementor-element-0c666c6 .elementor-icon-list-icon svg{fill:#919191;width:14px;}.elementor-175 .elementor-element.elementor-element-0c666c6 .elementor-icon-list-text{color:#FFFFFF;}.elementor-175 .elementor-element.elementor-element-0c666c6 .elementor-icon-list-item:hover .elementor-icon-list-text{color:#00B0DB;}.elementor-175 .elementor-element.elementor-element-0c666c6 .elementor-icon-list-item{line-height:2em;}.elementor-175 .elementor-element.elementor-element-400de15{text-align:left;}.elementor-175 .elementor-element.elementor-element-400de15 .elementor-heading-title{color:#00B0DB;font-family:"Space Mono", Sans-serif;font-size:12px;font-weight:500;text-transform:uppercase;letter-spacing:2px;}.elementor-175 .elementor-element.elementor-element-400de15 > .elementor-widget-container{margin:0px 0px 48px 0px;}.elementor-175 .elementor-element.elementor-element-0140614 .elementor-icon-list-icon i{color:#919191;font-size:14px;}.elementor-175 .elementor-element.elementor-element-0140614 .elementor-icon-list-icon svg{fill:#919191;width:14px;}.elementor-175 .elementor-element.elementor-element-0140614 .elementor-icon-list-text{color:#FFFFFF;}.elementor-175 .elementor-element.elementor-element-0140614 .elementor-icon-list-item:hover .elementor-icon-list-text{color:#00B0DB;}.elementor-175 .elementor-element.elementor-element-0140614 .elementor-icon-list-item{line-height:2em;}.elementor-175 .elementor-element.elementor-element-fc9c0be{text-align:left;}.elementor-175 .elementor-element.elementor-element-fc9c0be .elementor-heading-title{color:#00B0DB;font-family:"Space Mono", Sans-serif;font-size:12px;font-weight:500;text-transform:uppercase;letter-spacing:2px;}.elementor-175 .elementor-element.elementor-element-fc9c0be > .elementor-widget-container{margin:0px 0px 48px 0px;}.elementor-175 .elementor-element.elementor-element-5e814b5 .elementor-icon-list-icon i{color:#919191;font-size:14px;}.elementor-175 .elementor-element.elementor-element-5e814b5 .elementor-icon-list-icon svg{fill:#919191;width:14px;}.elementor-175 .elementor-element.elementor-element-5e814b5 .elementor-icon-list-text{color:#FFFFFF;}.elementor-175 .elementor-element.elementor-element-5e814b5 .elementor-icon-list-item:hover .elementor-icon-list-text{color:#00B0DB;}.elementor-175 .elementor-element.elementor-element-5e814b5 .elementor-icon-list-item{line-height:2em;}.elementor-175 .elementor-element.elementor-element-a3f4a8b:not(.elementor-motion-effects-element-type-background), .elementor-175 .elementor-element.elementor-element-a3f4a8b > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#021C23;}.elementor-175 .elementor-element.elementor-element-a3f4a8b{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-175 .elementor-element.elementor-element-a3f4a8b > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-175 .elementor-element.elementor-element-44cd355 > .elementor-element-populated{padding:40px 10px 0px 10px;}.elementor-175 .elementor-element.elementor-element-89bf50d{--divider-border-style:solid;--divider-border-color:rgba(255, 255, 255, 0.1);--divider-border-width:1px;}.elementor-175 .elementor-element.elementor-element-89bf50d .elementor-divider-separator{width:100%;}.elementor-175 .elementor-element.elementor-element-89bf50d .elementor-divider{padding-top:15px;padding-bottom:15px;}.elementor-175 .elementor-element.elementor-element-89bf50d > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-175 .elementor-element.elementor-element-829a469:not(.elementor-motion-effects-element-type-background), .elementor-175 .elementor-element.elementor-element-829a469 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#021C23;}.elementor-175 .elementor-element.elementor-element-829a469{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-175 .elementor-element.elementor-element-829a469 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-175 .elementor-element.elementor-element-acd1f46{color:#777777;}.elementor-175 .elementor-element.elementor-element-e845afd .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-bottom:calc(32px/2);}.elementor-175 .elementor-element.elementor-element-e845afd .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-top:calc(32px/2);}.elementor-175 .elementor-element.elementor-element-e845afd .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right:calc(32px/2);margin-left:calc(32px/2);}.elementor-175 .elementor-element.elementor-element-e845afd .elementor-icon-list-items.elementor-inline-items{margin-right:calc(-32px/2);margin-left:calc(-32px/2);}body.rtl .elementor-175 .elementor-element.elementor-element-e845afd .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{left:calc(-32px/2);}body:not(.rtl) .elementor-175 .elementor-element.elementor-element-e845afd .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{right:calc(-32px/2);}.elementor-175 .elementor-element.elementor-element-e845afd .elementor-icon-list-icon i{font-size:14px;}.elementor-175 .elementor-element.elementor-element-e845afd .elementor-icon-list-icon svg{width:14px;}.elementor-175 .elementor-element.elementor-element-e845afd .elementor-icon-list-text{color:#777777;}.elementor-175 .elementor-element.elementor-element-e845afd .elementor-icon-list-item:hover .elementor-icon-list-text{color:#00B0DB;}@media(min-width:768px){.elementor-175 .elementor-element.elementor-element-640c6fa{width:19.643%;}.elementor-175 .elementor-element.elementor-element-b9e25c6{width:35.357%;}.elementor-175 .elementor-element.elementor-element-bcd102d{width:15%;}.elementor-175 .elementor-element.elementor-element-e66208d{width:14.983%;}.elementor-175 .elementor-element.elementor-element-0efca89{width:15%;}}@media(max-width:1024px) and (min-width:768px){.elementor-175 .elementor-element.elementor-element-640c6fa{width:33.33%;}.elementor-175 .elementor-element.elementor-element-b9e25c6{width:66.66%;}.elementor-175 .elementor-element.elementor-element-bcd102d{width:33.33%;}.elementor-175 .elementor-element.elementor-element-e66208d{width:33.33%;}.elementor-175 .elementor-element.elementor-element-0efca89{width:33.33%;}}@media(max-width:1024px){.elementor-175 .elementor-element.elementor-element-7ec210f{padding:0px 0px 0px 0px;}.elementor-175 .elementor-element.elementor-element-36f17d9{padding:48px 30px 0px 30px;}.elementor-175 .elementor-element.elementor-element-640c6fa > .elementor-element-populated{margin:0px 0px 0px 0px;}.elementor-175 .elementor-element.elementor-element-c97ddb5 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-175 .elementor-element.elementor-element-28ec50f > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-175 .elementor-element.elementor-element-b9e25c6 > .elementor-element-populated{margin:0px 0px 0px 0px;}.elementor-175 .elementor-element.elementor-element-0a2bb4d > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-175 .elementor-element.elementor-element-bcd102d > .elementor-element-populated{margin:64px 0px 0px 0px;}.elementor-175 .elementor-element.elementor-element-e66208d > .elementor-element-populated{margin:64px 0px 0px 0px;}.elementor-175 .elementor-element.elementor-element-0efca89 > .elementor-element-populated{margin:64px 0px 0px 0px;}.elementor-175 .elementor-element.elementor-element-a3f4a8b{padding:0px 30px 0px 30px;}.elementor-175 .elementor-element.elementor-element-829a469{padding:0px 30px 0px 30px;}}@media(max-width:767px){.elementor-175 .elementor-element.elementor-element-640c6fa > .elementor-element-populated{margin:0px 0px 48px 0px;}.elementor-175 .elementor-element.elementor-element-c97ddb5 > .elementor-widget-container{margin:0px 0px 24px 0px;}.elementor-175 .elementor-element.elementor-element-b9e25c6 > .elementor-element-populated{margin:0px 0px 48px 0px;}.elementor-175 .elementor-element.elementor-element-bcd102d > .elementor-element-populated{margin:0px 0px 048px 0px;}.elementor-175 .elementor-element.elementor-element-e66208d > .elementor-element-populated{margin:0px 0px 048px 0px;}.elementor-175 .elementor-element.elementor-element-0efca89 > .elementor-element-populated{margin:0px 0px 048px 0px;}.elementor-175 .elementor-element.elementor-element-acd1f46 .elementor-text-editor{text-align:left;}.elementor-175 .elementor-element.elementor-element-acd1f46 > .elementor-widget-container{margin:0px 0px 16px 0px;}.elementor-175 .elementor-element.elementor-element-e845afd .elementor-icon-list-item{font-size:14px;}}</style>		<div data-elementor-type="wp-post" data-elementor-id="175" class="elementor elementor-175" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-7ec210f elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="7ec210f" data-element_type="section">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-wider">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-86b7022 elementor-column elementor-col-100 elementor-top-column" data-id="86b7022" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-36f17d9 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="36f17d9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-640c6fa elementor-column elementor-col-20 elementor-inner-column" data-id="640c6fa" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-c97ddb5 elementor-widget elementor-widget-image" data-id="c97ddb5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="184" height="57" src="../../wp-content/uploads/sites/130/2020/04/light-1.png" class="attachment-large size-large" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-28ec50f elementor-icon-list--layout-inline elementor-widget elementor-widget-icon-list" data-id="28ec50f" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Fb.</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Tw.</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Li.</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Yt.</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-b9e25c6 elementor-column elementor-col-20 elementor-inner-column" data-id="b9e25c6" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-db5ef6a elementor-widget elementor-widget-heading" data-id="db5ef6a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">QUICK CONTACT</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0a2bb4d elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="0a2bb4d" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-building"></i>						</span>
+										<span class="elementor-icon-list-text">Coachie - Professional Life Coach</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-map-pin"></i>						</span>
+										<span class="elementor-icon-list-text">1428  Callison Laney Buoy Building 201/VRY Virginia, VA 22902</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone"></i>						</span>
+										<span class="elementor-icon-list-text">+62 9282739-44-539</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-mail-bulk"></i>						</span>
+										<span class="elementor-icon-list-text">contact@mywebsite.com</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-bcd102d elementor-column elementor-col-20 elementor-inner-column" data-id="bcd102d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-850f5c6 elementor-widget elementor-widget-heading" data-id="850f5c6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">USEFUL LINKS</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0c666c6 elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="0c666c6" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Career</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Angel Investor</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Terms of Service</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Legal Information</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Credits</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-e66208d elementor-column elementor-col-20 elementor-inner-column" data-id="e66208d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-400de15 elementor-widget elementor-widget-heading" data-id="400de15" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">THE COMPANY</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0140614 elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="0140614" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Career</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Angel Investor</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Terms of Service</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Legal Information</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Credits</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-0efca89 elementor-column elementor-col-20 elementor-inner-column" data-id="0efca89" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-fc9c0be elementor-widget elementor-widget-heading" data-id="fc9c0be" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">OUR SERVICES</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5e814b5 elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="5e814b5" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Career</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Angel Investor</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Terms of Service</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Legal Information</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Credits</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-a3f4a8b elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="a3f4a8b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-44cd355 elementor-column elementor-col-100 elementor-inner-column" data-id="44cd355" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-89bf50d elementor-widget elementor-widget-divider" data-id="89bf50d" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-829a469 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="829a469" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-1d75dc2 elementor-column elementor-col-50 elementor-inner-column" data-id="1d75dc2" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-acd1f46 elementor-widget elementor-widget-text-editor" data-id="acd1f46" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>© 2020 Detheme Incorporated. All rights reserved</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-a8e08c3 elementor-column elementor-col-50 elementor-inner-column" data-id="a8e08c3" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-e845afd elementor-icon-list--layout-inline elementor-align-right elementor-mobile-align-left elementor-widget elementor-widget-icon-list" data-id="e845afd" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Privacy Policy</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Term of Service</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="#">					<span class="elementor-icon-list-text">Legal info</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		</div>
+
+		<link rel='stylesheet' id='elementor-post-508-css'  href='https://demo.detheme.com/coachie-kit/wp-content/uploads/sites/130/elementor/css/post-508.css?ver=1587549585' type='text/css' media='all' />
+<link rel='stylesheet' id='premium-addons-css'  href='https://demo.detheme.com/coachie-kit/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=3.20.1' type='text/css' media='all' />
 <script type='text/javascript'>
 /* <![CDATA[ */
-var MailPoetForm = {"ajax_url":"https:\/\/ecole.cmsmasters.net\/online-school\/wp-admin\/admin-ajax.php","is_rtl":""};
+var ekit_site_url = {"siteurl":"https:\/\/demo.detheme.com\/coachie-kit"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://ecole.cmsmasters.net/online-school/wp-content/plugins/mailpoet/assets/dist/js/public.071bc811.js?ver=3.35.3'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementskit-lite/widgets/mail-chimp/assets/js/mail-chimp.js?ver=1.0'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/metform/public/assets/js/jquery.validate.min.js?ver=1.2.3'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/metform/public/assets/js/jquery-asRange.min.js?ver=1.2.3'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/metform/public/assets/js/select2.min.js?ver=1.2.3'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.js?ver=4.1.4'></script>
 <script type='text/javascript'>
-function initMailpoetTranslation() {
-  if (typeof MailPoet !== 'undefined') {
-    MailPoet.I18n.add('ajaxFailedErrorMessage', 'An error has happened while performing a request, please try again later.')
-  } else {
-    setTimeout(initMailpoetTranslation, 250);
-  }
-}
-setTimeout(initMailpoetTranslation, 250);
+/* <![CDATA[ */
+var mf_submission = {"default_required_message":"This field is required."};
+/* ]]> */
 </script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/metform/public/assets/js/submission.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rest_api = {"end_point":"https:\/\/demo.detheme.com\/coachie-kit\/wp-json\/metform\/v1\/forms\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/metform/public/assets/js/count-views.js?ver=1.2.3'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=1.5.4'></script>
+<script type='text/javascript'>
+        //console.log(window.elementskit);
+
+		var elementskit = {
+            resturl: 'https://demo.detheme.com/coachie-kit/wp-json/elementskit/v1/',
+        }
+
+        //console.log(window.elementskit);
+
+</script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementskit-lite/widgets/init/assets/js/nav-menu.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementskit-lite/widgets/init/assets/js/ui-slim.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-includes/js/wp-embed.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementskit-lite/widgets/init/assets/js/jquery.magnific-popup.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementskit-lite/widgets/init/assets/js/slick.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/jetsticky-for-elementor/assets/js/lib/ResizeSensor.min.js?ver=1.7.0'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/jetsticky-for-elementor/assets/js/lib/sticky-sidebar/sticky-sidebar.min.js?ver=3.3.1'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/jetsticky-for-elementor/assets/js/lib/jsticky/jquery.jsticky.js?ver=1.1.0'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.8'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.8'></script>
+<script type='text/javascript'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","downloadImage":"Download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.8","urls":{"assets":"https:\/\/demo.detheme.com\/coachie-kit\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":24,"title":"Homepage%20%E2%80%93%20Coachie","excerpt":"","featuredImage":"https:\/\/demo.detheme.com\/coachie-kit\/wp-content\/uploads\/sites\/130\/2020\/04\/Homepage-scaled.jpg"}};
+</script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mf_plugin = {"mf_dir":"https:\/\/demo.detheme.com\/coachie-kit\/wp-content\/plugins\/metform\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/metform/public/assets/js/inputs.js?ver=1.2.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JetStickySettings = {"elements_data":{"sections":[],"columns":[]}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/jetsticky-for-elementor/assets/js/jet-sticky-frontend.js?ver=1.0.1'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=1.5.4'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/metform/controls/assets/js/form-picker-editor.js?ver=1.2.3'></script>
+<script type='text/javascript' src='https://demo.detheme.com/coachie-kit/wp-content/plugins/elementskit-lite/modules/controls/assets/js/widgetarea-editor.js?ver=1.5.4'></script>
+
 </body>
 
-<!-- Mirrored from ecole.cmsmasters.net/online-school/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 05 May 2020 16:55:32 GMT -->
+<!-- Mirrored from demo.detheme.com/coachie-kit/template-kit/homepage/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 16 May 2020 03:58:17 GMT -->
 </html>
