@@ -252,15 +252,10 @@
                 </a>
               </li>
 
-              <li class="nav-item dropdown">
+              <li class="nav-item">
                 <a
-                  class="nav-link dropdown-toggle"
-                  href="/blog"
-                  id="menu-3"
-                  data-toggle="dropdown"
-                  aria-haspopup="true"
-                  aria-expanded="false"
-                >
+                  class="nav-link "
+                  href="/blogs">
                   Blog
                 </a>
 

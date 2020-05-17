@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 use App\User;
 use App\Profile;
 use App\Comment;
-use Auth;       
+use Auth;
 use Intervention\Image\Facades\Image;
 use App\Course;
 use App\Blog;
@@ -21,7 +21,7 @@ use DB;
 class AdminsController extends Controller
 {
     public function __construct(){
-        return $this->middleware('auth');
+        return $this->middleware('guest');
 }
 public function aboutkaka(){
   return view('admin_about');
@@ -82,7 +82,7 @@ Blog::create($input);
 return response()->json(['success'=>'done']);
             }
             else{
-                return response()->json(['error'=>$validator->errors()->all()]);    
+                return response()->json(['error'=>$validator->errors()->all()]);
             }
 
 
@@ -108,8 +108,8 @@ public function updateblog(Request $request){
 
 
  $blog_image = $input['ublog_image'] ?? '';
-                        if($input['ublog_image'] != ''){    
-                                $blog_image = $input['ublog_image'];                                
+                        if($input['ublog_image'] != ''){
+                                $blog_image = $input['ublog_image'];
                                 $blog_image = time().'.'.$request->ublog_image->extension();
   $request->ublog_image->move(public_path('images'), $blog_image);
   $result = DB::update(DB::raw("update blogs set title=:title,body=:body,blog_image=:blog_image,post_type=:post_type where id=:id"),array('title'=>$title,'body'=>$body,'id'=>$id,'blog_image'=>$blog_image,'post_type'=>$post_type));
@@ -117,10 +117,10 @@ public function updateblog(Request $request){
   if($result){
         return response()->json(['success'=>'done']);
 
-        
+
       }
       else{
-        return response()->json(['error'=>$validator->errors()->all()]);   
+        return response()->json(['error'=>$validator->errors()->all()]);
       }
 
                         }
@@ -129,10 +129,10 @@ public function updateblog(Request $request){
 
                         if($result2){
                               return response()->json(['success'=>'done']);
-              
+
                             }
                             else{
-                              return response()->json(['error'=>$validator->errors()->all()]);   
+                              return response()->json(['error'=>$validator->errors()->all()]);
                             }
 }
 
@@ -151,16 +151,16 @@ public function deleteblog(Request $request){
 
     }
     else{
-      return response()->json(['error'=>$validator->errors()->all()]);   
+      return response()->json(['error'=>$validator->errors()->all()]);
     }
-   
-  
+
+
 }
 
 public function posts()
 {
   // $popularpost = App\Blog::popular()->get();
-  // $user->follow($popularpost); 
+  // $user->follow($popularpost);
 
     $posts = Blog::get();
     return view('blog', compact('posts'));
@@ -174,7 +174,7 @@ public function ajaxRequest(Request $request){
 
 
 
-// Start about Controller 
+// Start about Controller
 
 
 
