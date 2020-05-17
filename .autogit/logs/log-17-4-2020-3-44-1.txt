@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 17 2020 03:44:01 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* app/Http/Controllers/AdminsController.php
+* database/factories/UserFactory.php
+* resources/views/blog.blade.php
+
+
+Created files:
+* .autogit/logs/log-17-4-2020-3-28-14.txt
+
+
+Deleted files:
+
+
+Renamed files:
