@@ -173,9 +173,7 @@ public function ajaxRequest(Request $request){
   return response()->json(['success'=>$response]);
 }
 
-public function post_events(){
-    return view('create_events');
-}
+
 
 // Start about Controller
 

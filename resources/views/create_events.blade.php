@@ -164,7 +164,7 @@
 
                   <!-- Title -->
                   <h4 class="card-header-title" id="exampleModalCenterTitle">
-                    Add a new Blog Post
+                    Add a new Event Post
                   </h4>
 
                 </div>
@@ -179,8 +179,15 @@
               </div> <!-- / .row -->
             </div>
 
+            {{-- $table->string('title');
+            $table->string('description');
+            $table->string('images');
+            $table->string('video_link');
+            $table->string('date');
+            $table->text('address'); --}}
+
             <div class="card-body">
-<form action="/createblog" method="POST" enctype="multipart/form-data">
+<form action="/create_events" method="POST" enctype="multipart/form-data">
        @csrf
 <div class="input-group input-group-merge mb-3">
   <input type="text" name="title" id="title" class="form-control form-control-prepended" placeholder="Title">
@@ -190,36 +197,24 @@
     </div>
   </div>
 </div>
-<textarea class="form-control" name="body" id="title" data-toggle="autosize" rows="5" placeholder=" type post body here..."></textarea>
+<textarea class="form-control" name="description" id="title" data-toggle="autosize" rows="5" placeholder=" type post body here..."></textarea>
 <br>
 <input type="hidden" name="slug" id="slug" value="1" >
 <input type="hidden" name="user_id" id="user_id" value="{{auth()->user()->id}}">
-<select class="form-control" name="post_type" id="post_type" data-toggle="select" data-options='{"minimum-results-for-search": -1}'>
-  <option value="Wealth">
-  Wealth
-  </option>
-  <option value="Lifestyle">
-Lifestyle
-  </option>
-  <option value="Travel">
-    Travel
-  </option>
-  <option value="Food">
-Food
-  </option>
-  <option value="Photography">
-Photography
-  </option>
-</select>
+
 <br>
 
-<input type="file" name="blog_image" id="blog_image" class="form-control">
+<input type="file" name="images" id="blog_image" class="form-control"> <br>
+<input type="url" placeholder="Video_url (optional)" name="video_link" id="video_link" class="form-control"> <br>
+<input type="date"  name="date" id="date" class="form-control"> <br>
+<input type="text" placeholder="Address" name="address" id="address" class="form-control"> <br>
+
 <br>
 <div class="alert alert-danger print-error-msg" style="display:none">
         <ul></ul>
     </div>
 <br>
-<button align="center" class="uploadcourse btn btn-success">UPLOAD NOW!!</button>
+<button align="center" class="uploadcours btn btn-success">UPLOAD NOW!!</button>
 <input type="hidden" id="blog__id" name="blog_id" value="0">
 </form>
             </div>
@@ -1638,7 +1633,7 @@ $("body").on("click",".update-blog",function(e){
     {
     	if($.isEmptyObject(response.responseJSON.error)){
 
-    		alert('BlogPost Deleted Successfully.');
+    		alert(' Success 🎉.');
     	}else{
     		printErrorMsg(response.responseJSON.error);
     	}
