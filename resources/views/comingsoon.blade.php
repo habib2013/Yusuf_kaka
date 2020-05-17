@@ -57,7 +57,7 @@
 
             <!-- Button -->
             <a href="index-2.html" class="btn btn-lg btn-primary">
-              Return  dashboard
+              Return  to Index
             </a>
 
           </div>

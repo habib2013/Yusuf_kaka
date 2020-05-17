@@ -13,4 +13,8 @@ class DummyPagesController extends Controller
     public function contactme(){
         return view ('contactme');
     }
+
+    public function comingsoon(){
+        return view('comingsoon');
+    }
 }

@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 17 2020 15:06:09 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* resources/views/comingsoon.blade.php
+
+
+Created files:
+* .autogit/logs/log-17-4-2020-15-4-23.txt
+
+
+Deleted files:
+
+
+Renamed files:
