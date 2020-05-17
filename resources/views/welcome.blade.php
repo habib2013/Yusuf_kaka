@@ -284,7 +284,11 @@
                 Kaka  World
               </h1>
               <p class="lead mb-0">
-                I’m an entrepreneur 💹, personal development trainer dev👨🏽‍💻, <br> a life changing success coach
+                I’m an entrepreneur 💹,
+
+                <span class="text-warning">
+                    <span class="js-text-animation"></span>
+                  </span>
             </div>
           </div>
         </div>
@@ -788,7 +792,7 @@
     <script src="myassets/libs/moment/min/moment.min.js"></script>
     <script src="myassets/libs/lightpick/lightpick.js"></script>
     <script src="js/mycustom.js"></script>
-
+    <script src="myassets/libs/typed.js/lib/typed.min.js"></script>
 
 
     <!-- clipboard -->
@@ -797,3 +801,22 @@
 
     <!-- Theme JS -->
     <script src="myassets/js/theme.min.js"></script>
+
+    <script>
+        $(document).on('ready', function () {
+          // initialization of header
+
+          // initialization of text animation (typing)
+          var typed = new Typed(".js-text-animation", {
+            strings: [ "is a soccer recruiting platform" ," is a social platform."],
+            typeSpeed: 70,
+            loop: true,
+            backSpeed: 40,
+            backDelay: 2000
+          });
+
+        });
+
+
+      </script>
+
