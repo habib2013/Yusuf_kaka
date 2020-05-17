@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 17 2020 03:21:15 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* resources/views/blog.blade.php
+
+
+Created files:
+* .autogit/logs/log-17-4-2020-3-19-29.txt
+
+
+Deleted files:
+
+
+Renamed files:

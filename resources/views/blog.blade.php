@@ -408,38 +408,7 @@
         </div>
 
         <!-- featured post -->
-        <div class="row">
-          <div class="col-lg-12 col-md-12 col-12 mb-8 d-none d-md-block">
-            <div class="card text-white border-0">
-              <img
-                src="myassets//images/featured-post-1.jpg"
-                class="card-img"
-                alt="..."
-              />
-              <div
-                class="card-img-overlay text-white d-lg-flex flex-column justify-content-end py-md-6 px-md-8 p-2 "
-              >
-                <a
-                  href="#"
-                  class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold "
-                  >Business Coaching</a
-                >
-                <h2 class="mb-3">
-                  <a href="#" class=" text-white"
-                    >You're One Decision Away From a Totally Different Life.</a
-                  >
-                </h2>
-
-                <div class="font-14">
-                  <span class="mr-2">September 13, 2020</span>
-                  <span
-                    >Posted by <a href="#" class="text-white">Coach</a></span
-                  >
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+    
 
         <div class="row">
           <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
