@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 17 2020 01:51:52 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* public/myassets/fonts/Flaticon.woff
+
+
+Created files:
+* .autogit/logs/log-17-4-2020-1-50-6.txt
+* public/myassets/fonts/Flaticon.eot
+* public/myassets/fonts/Flaticon.otf
+* public/myassets/fonts/Flaticon.svg
+* public/myassets/fonts/Flaticon.ttf
+* public/myassets/fonts/Flaticon.woff2
+
+
+Deleted files:
+
+
+Renamed files:
