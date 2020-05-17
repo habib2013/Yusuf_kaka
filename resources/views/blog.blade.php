@@ -432,13 +432,13 @@
                 >
                 <a href="#">
                   <h3 class="mb-3">
-                    Strategic Thinking to Mindset is Everything
+                    {{$post->title}}
                   </h3>
                 </a>
                 <div class="mb-3">
                   <div class="font-14">
-                    <span class="mr-2">September 12, 2020</span>
-                    <span>Posted by <a href="#" class="">Coach</a></span>
+                    <span class="mr-2">{{date('M j, Y',strtotime($post->created_at))}}</span>
+                  <span>Posted by <a href="#" class="">{{$post->user->}}</a></span>
                   </div>
                 </div>
               </div>
