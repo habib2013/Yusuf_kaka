@@ -408,7 +408,7 @@
         </div>
 
         <!-- featured post -->
-    
+
 
         <div class="row">
           <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
