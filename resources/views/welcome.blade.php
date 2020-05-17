@@ -9,9 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Theme CSS -->
     <link rel="stylesheet" href="myassets/css/theme.min.css">
+    <link rel="stylesheet" href="myassets/css/style.css">
   </head>
 
-  <body>
+  <body style="font-family: 'Cera Pro New'">
     <!-- header -->
     <!-- header -->
     <div class="header fixed-top">
@@ -19,7 +20,7 @@
       <div class="container-lg">
         <nav class="navbar navbar-expand-lg navbar-default">
           <a class="navbar-brand" href="index-2.html"
-            ><img src="myassets/images/logo.svg" alt=""
+            ><img src="myassets/images/yk_logo.png" style="height:40px" alt=""
           /></a>
           <button
             class="navbar-toggler collapsed"
@@ -53,11 +54,7 @@
                 </a>
               </li>
 
-              <li class="nav-item dropdown">
-                <a class="nav-link" href="index-2.html">
-                  Homepage
-                </a>
-              </li>
+            
               <li class="nav-item dropdown ">
                 <a
                   class="nav-link dropdown-toggle"
@@ -354,13 +351,10 @@
           <div class="offset-lg-2 col-lg-8 col-md-12 col-12">
             <div class=" py-12 py-lg-15 text-light text-center mr-5" >
               <h1 class="font-weight-bold text-white mb-3 display-4 pl-4">
-                Program List
+                Kaka  World
               </h1>
               <p class="lead mb-0">
-                Change your life with a 100% personalized program. Join the boss
-                movement. Start your journey today. Get the result you want or
-                it's free. Custom training program. Get access to 24/7 support.
-              </p>
+                I’m an entrepreneur 💹, personal development trainer dev👨🏽‍💻, <br> a life changing success coach
             </div>
           </div>
         </div>
@@ -373,11 +367,10 @@
         <div class="row">
           <div class="offset-xl-3 col-xl-6 col-md-12 col-12">
             <div class="mb-8 text-center">
-              <h2 class="mb-3">A Boy Before Coach</h2>
+              <h2 class="mb-3">A Boy Before Coach 🎡</h2>
               <p class="lead">
-                Before Coach became a media sensation for empowering people and
-                sharing 'Inspiration' across the globe, he had his share of
-                obstacles to overcome.
+                I am a regular guy devoted to helping you make the world a better place by putting love and giving at the centre of growing your business.
+
               </p>
             </div>
           </div>
@@ -387,14 +380,14 @@
             <div class="row">
               <div class="col-md-4 mb-2 mb-lg-2 ">
                 <img
-                  src="myassets/images/profile-img-1.png"
+                  src="myassets/images/mylook.png"
                   alt=""
                   class="img-fluid rounded h-100 w-100"
                 />
               </div>
               <div class="col-md-8  mb-2 mb-lg-2">
                 <img
-                  src="myassets/images/profile-img-2.png"
+                  src="myassets/images/office.png"
                   alt=""
                   class="img-fluid rounded h-100 w-100"
                 />
@@ -403,11 +396,8 @@
           </div>
           <div class="col-xl-5 col-lg-12 col-md-12 col-12 mt-3 mt-xl-0">
             <p class="mb-6">
-              From having a learning disability, which led to being alone and
-              bullied in school, to being sexually abused as a child, to being
-              injured and broke on his sister’s couch, The Coach story is the
-              perfect example of how anybody can overcome the obstacles in their
-              life and achieve greatness.
+                I’ve always known I was meant to help other people. And always known ILorem ipsum dolor sit amet .. More texts coming.
+
             </p>
             <div class="row">
               <div class="col-lg-6 col-md-6 col-12  mb-2 mb-lg-2">
@@ -419,7 +409,7 @@
               </div>
               <div class="col-lg-6 col-md-6 col-12 mb-2 mb-lg-2">
                 <img
-                  src="myassets/images/profile-img-4.png"
+                  src="myassets/images/mentor.png"
                   alt=""
                   class="img-fluid h-100 rounded w-100"
                 />
@@ -492,7 +482,7 @@
               </h2>
               <p class="lead">
                 Ready for more? Listen to the latest podcast episode, see when
-                Lewis is headed to your neck of the woods, stock up on business
+                Kaka is headed to your neck of the woods, stock up on business
                 courses, books, gear, and more.
               </p>
             </div>
@@ -916,7 +906,7 @@
     <script src="myassets/libs/leaflet/dist/leaflet.js"></script>
     <script src="myassets/libs/moment/min/moment.min.js"></script>
     <script src="myassets/libs/lightpick/lightpick.js"></script>
-
+    <script src="js/mycustom.js"></script>
 
 
 
