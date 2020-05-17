@@ -1,0 +1,22 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 17 2020 15:34:13 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* app/Http/Controllers/DummyPagesController.php
+* resources/views/comingsoon.blade.php
+* resources/views/welcome.blade.php
+* routes/web.php
+
+
+Created files:
+* .autogit/logs/log-17-4-2020-15-7-54.txt
+* public/images/1589725479.jpeg
+* public/images/1589725828.jpeg
+* resources/views/events.blade.php
+
+
+Deleted files:
+
+
+Renamed files:
