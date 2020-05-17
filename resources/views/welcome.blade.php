@@ -792,7 +792,7 @@
     <script src="myassets/libs/moment/min/moment.min.js"></script>
     <script src="myassets/libs/lightpick/lightpick.js"></script>
     <script src="js/mycustom.js"></script>
-    <script src="myassets/libs/typed.js/lib/typed.min.js"></script>
+    <script src="myassets/typed.js/lib/typed.min.js"></script>
 
 
     <!-- clipboard -->
@@ -817,6 +817,6 @@
 
         });
 
-
+         personal development trainer dev👨🏽‍💻, <br> a life changing success coach
       </script>
 
