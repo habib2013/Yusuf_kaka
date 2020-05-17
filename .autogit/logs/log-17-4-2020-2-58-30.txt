@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 17 2020 02:58:30 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* config/laravelpwa.php
+* resources/views/welcome.blade.php
+
+
+Created files:
+* .autogit/logs/log-17-4-2020-2-56-43.txt
+
+
+Deleted files:
+
+
+Renamed files:
