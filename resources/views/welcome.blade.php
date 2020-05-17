@@ -67,7 +67,7 @@
                   aria-expanded="false"
                   data-display="static"
                 >
-                  Pages
+                  About
                 </a>
                 <ul
                   class="dropdown-menu  dropdown-menu-right dropdown-menu-xl-left  dropdown-menu-arrow "
@@ -82,34 +82,17 @@
                         <div
                           class="mr-3 icon-shape icon-lg rounded-circle bg-light"
                         >
-                          <i class="flaticon-layers font-24"></i>
+                          <i class="flaticon-user-3  font-24"></i>
                         </div>
                         <div class="">
-                          <h4 class="mb-0 h5">Program</h4>
+                          <h4 class="mb-0 h5">About Yusuf Kaka</h4>
                           <p class="text-muted mb-0 font-12">
-                            All Coaching program & details for your life.
+                           Get to know more about me.
                           </p>
                         </div>
                       </div>
                     </a>
-                    <ul class="dropdown-menu dropdown-menu-lg-right">
-                      <li>
-                        <a
-                          class="dropdown-item"
-                          href="pages/program-list.html"
-                        >
-                          List</a
-                        >
-                      </li>
-                      <li>
-                        <a
-                          class="dropdown-item"
-                          href="pages/program-single.html"
-                        >
-                          Single</a
-                        >
-                      </li>
-                    </ul>
+
                   </li>
                   <li class="dropdown-submenu ">
                     <a
@@ -120,31 +103,17 @@
                         <div
                           class="mr-3 icon-shape icon-lg rounded-circle bg-light"
                         >
-                          <i class="flaticon-calendar-5 font-24"></i>
+                          <i class="flaticon-bag font-24"></i>
                         </div>
                         <div class="">
-                          <h4 class="mb-0 h5">Events</h4>
+                          <h4 class="mb-0 h5">Hire Yusuf kaka</h4>
                           <p class="text-muted mb-0 font-12">
-                            Keynote Speakers next event to attend.
+                         Let us collaborate on a life changing project
                           </p>
                         </div>
                       </div>
                     </a>
-                    <ul class="dropdown-menu dropdown-menu-lg-right">
-                      <li>
-                        <a class="dropdown-item" href="pages/events.html">
-                          List</a
-                        >
-                      </li>
-                      <li>
-                        <a
-                          class="dropdown-item"
-                          href="pages/event-single.html"
-                        >
-                          Single</a
-                        >
-                      </li>
-                    </ul>
+
                   </li>
                   <li class="dropdown-submenu ">
                     <a
