@@ -42,22 +42,22 @@
 
             <!-- Preheading -->
             <h6 class="text-uppercase text-muted mb-4">
-              404 error
+              coming soon
             </h6>
 
             <!-- Heading -->
             <h1 class="display-4 mb-3">
-              There’s no page here 😭
+             This page will be available soon 😭
             </h1>
 
             <!-- Subheading -->
             <p class="text-muted mb-4">
-              Looks like you ended up here by accident?
+              Check back Later
             </p>
 
             <!-- Button -->
             <a href="index-2.html" class="btn btn-lg btn-primary">
-              Return to your dashboard
+              Return  dashboard
             </a>
 
           </div>
