@@ -82,7 +82,7 @@
                         <div
                           class="mr-3 icon-shape icon-lg rounded-circle bg-light"
                         >
-                          <i class="fa-layer-group "></i>
+                          <i class="flaticon-layers font-24"></i>
                         </div>
                         <div class="">
                           <h4 class="mb-0 h5">Program</h4>
