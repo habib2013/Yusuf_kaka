@@ -255,7 +255,7 @@
               <li class="nav-item dropdown">
                 <a
                   class="nav-link dropdown-toggle"
-                  href="#"
+                  href="/blog"
                   id="menu-3"
                   data-toggle="dropdown"
                   aria-haspopup="true"
