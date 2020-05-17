@@ -6,8 +6,8 @@ return [
         'name' => env('APP_NAME', 'Kaka_World'),
         'short_name' => 'PWA',
         'start_url' => '/',
-        'background_color' => '#000000',
-        'theme_color' => '#000000',
+        'background_color' => '#1e1835',
+        'theme_color' => '#1e1835',
         'display' => 'standalone',
         'orientation'=> 'any',
         'icons' => [

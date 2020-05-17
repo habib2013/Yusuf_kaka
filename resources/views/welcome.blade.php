@@ -6,6 +6,7 @@
     <title>Coach - Index</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
+    @laravelPWA
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Theme CSS -->
     <link rel="stylesheet" href="myassets/css/theme.min.css">
