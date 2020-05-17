@@ -230,7 +230,7 @@
                 aria-labelledby="menu-3"
               >
                 <li>
-                  <a class="dropdown-item" href="pages/blog.html">
+                  <a class="dropdown-item" href="/contactme">
                    Customer Support
                   </a>
                 </li>
@@ -332,7 +332,7 @@
             <div class="row">
               <div class="col-lg-6 col-md-6 col-12  mb-2 mb-lg-2">
                 <img
-                  src="myassets/images/profile-img-3.png"
+                  src="myassets/images/kaka_friend.jpg"
                   alt=""
                   class="img-fluid h-100 rounded w-100"
                 />
@@ -572,7 +572,7 @@
           <div class="col-md-3 col-12">
             <div class="">
               <img
-                src="myassets/images/gallery-img-1.jpg"
+                src="myassets/images/smallme.png"
                 alt=""
                 class="img-fluid border-right border-white h-lg-100"
               />
@@ -581,14 +581,14 @@
           <div class="col-md-3 col-12">
             <div class="">
               <img
-                src="myassets/images/gallery-img-2.jpg"
+                src="myassets/images/dubai.jpg"
                 alt=""
                 class="img-fluid border-bottom border-white h-lg-100"
               />
             </div>
             <div class="">
               <img
-                src="myassets/images/gallery-img-3.jpg"
+                src="myassets/images/my_friend.jpg"
                 alt=""
                 class="img-fluid border-bottom border-white h-lg-100 "
               />
@@ -597,14 +597,14 @@
           <div class="col-md-3 col-12">
             <div class="">
               <img
-                src="myassets/images/gallery-img-4.jpg"
+                src="myassets/images/kaka_db.jpg"
                 alt=""
                 class="img-fluid border-bottom border-white h-lg-100 border-left"
               />
             </div>
             <div class="">
               <img
-                src="myassets/images/gallery-img-5.jpg"
+                src="myassets/images/big_friend.jpg"
                 alt=""
                 class="img-fluid border-bottom border-white h-lg-100 border-left"
               />
@@ -613,7 +613,7 @@
           <div class="col-md-3 col-12">
             <div class="">
               <img
-                src="myassets/images/gallery-img-6.jpg"
+                src="myassets/images/redubai.jpg"
                 alt=""
                 class="img-fluid border-left border-white h-lg-100"
               />
@@ -791,7 +791,7 @@
                     <div class="mb-4">
                         <h4 class="mb-4 text-white ">Follow Me</h4>
                         <ul class="list-unstyled list-group">
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Instagram</a></li>
+                            <li class="list-group-item"><a href="#" class="flaticon-instagram">Instagram</a></li>
                             <li class="list-group-item"><a href="#" class="list-group-item-link"> Facebook</a></li>
                             <li class="list-group-item"><a href="#" class="list-group-item-link"> LinkedIn</a></li>
                             <li class="list-group-item"><a href="#" class="list-group-item-link">YouTube</a></li>

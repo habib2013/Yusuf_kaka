@@ -31,6 +31,7 @@ Route::get('auth/google/callback', 'Auth\GoogleController@handleGoogleCallback')
 
 Route::get('/adminhome','AdminsController@homepage')->name('adminhome')->middleware('is_admin');
 Route::get('/about','DummyPagesController@about_kaka');
+Route::get('/contactme','DummyPagesController@contactme');
 Route::get('/blogs', 'AdminsController@posts')->name('posts');
 Route::post('ajaxRequest', 'AdminsController@ajaxRequest')->name('ajaxRequest');
 
