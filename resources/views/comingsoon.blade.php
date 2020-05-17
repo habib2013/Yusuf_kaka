@@ -28,7 +28,7 @@
     <style>body { display: none; }</style>
 
 
-    <title>Dashkit</title>
+    <title>Yusuf Kaka</title>
   </head>
   <body class="d-flex align-items-center bg-auth border-top border-top-2 border-primary">
 

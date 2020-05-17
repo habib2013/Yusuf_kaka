@@ -453,7 +453,7 @@
           </div>
           <div class="col-lg-6 col-md-4 mb-5 d-md-none d-lg-block">
             <div class="img-overlay">
-              <a href="/courses">
+              <a href="/comingsoon">
                 <img
                   class="rounded img-fluid"
                   src="myassets/images/course-img-3.png"

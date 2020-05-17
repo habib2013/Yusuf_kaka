@@ -42,9 +42,15 @@ Route::get('/aboutkaka', 'AdminsController@aboutkaka');
 Route::get('notification', 'HomeController@notification');
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/blogpost', 'AdminsController@blog')->name('blog');
+Route::get('/post_events', 'AdminsController@post_events')->name('post_events');
+
+
+
 Route::post('/createblog', 'AdminsController@createblog')->name('createblog');
 Route::post('/updateblog', 'AdminsController@updateblog')->name('updateblog');
 Route::post('/deleteblog', 'AdminsController@deleteblog')->name('deleteblog');
+
+Route::post('/create_events', 'AdminsController@create_events')->name('create_events');
 
 Route::get('/auth/redirect/{provider}', 'SocialController@redirect');
 Route::get('/callback/{provider}', 'SocialController@callback');

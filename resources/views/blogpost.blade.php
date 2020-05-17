@@ -1,7 +1,7 @@
 
 <!doctype html>
 <html lang="en">
-  
+
 <!-- Mirrored from dashkit.goodthemes.co/profile-files.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Oct 2019 13:14:17 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
@@ -20,7 +20,7 @@
     <link href='../api.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.css' rel='stylesheet' />
 
     <!-- Theme CSS -->
-      
+
     <link rel="stylesheet" href="assets/css/theme.min.css" id="stylesheetLight">
 
     <link rel="stylesheet" href="assets/css/theme-dark.min.css" id="stylesheetDark">
@@ -30,7 +30,7 @@
 
 
     <style>body { display: none; }</style>
-    
+
 
     <title>Kaka_admin</title>
   </head>
@@ -43,7 +43,7 @@
       <div class="modal-dialog modal-dialog-vertical" role="document">
         <form class="modal-content" id="demoForm">
           <div class="modal-body">
-        
+
             <!-- Close -->
             <a class="close" data-dismiss="modal" aria-label="Close">
               <span aria-hidden="true">&times;</span>
@@ -126,7 +126,7 @@
             </h4>
 
             <p class="small text-muted mb-3">
-              Usually dictated by the color scheme, but can be overriden.  
+              Usually dictated by the color scheme, but can be overriden.
             </p>
 
             <div class="btn-group-toggle d-flex" data-toggle="buttons">
@@ -140,10 +140,10 @@
                 <input type="radio" name="navColor" id="navColorVibrant" value="vibrant"> Vibrant
               </label>
             </div>
-      
+
           </div>
           <div class="modal-footer border-0">
-        
+
             <button type="submit" class="btn btn-block btn-primary mt-auto">
               Preview
             </button>
@@ -165,8 +165,8 @@
                   <!-- Title -->
                   <h4 class="card-header-title" id="exampleModalCenterTitle">
                     Add a new Blog Post
-                  </h4> 
-              
+                  </h4>
+
                 </div>
                 <div class="col-auto">
 
@@ -174,11 +174,11 @@
                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                   </button>
-              
+
                 </div>
               </div> <!-- / .row -->
             </div>
-         
+
             <div class="card-body">
 <form action="/createblog" method="POST" enctype="multipart/form-data">
        @csrf
@@ -242,8 +242,8 @@ Photography
                   <!-- Title -->
                   <h4 class="card-header-title" id="exampleModalCenterTitle">
                    Update Blog Post
-                  </h4> 
-              
+                  </h4>
+
                 </div>
                 <div class="col-auto">
 
@@ -251,11 +251,11 @@ Photography
                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                   </button>
-              
+
                 </div>
               </div> <!-- / .row -->
             </div>
-         
+
             <div class="card-body">
 <form action="/updateblog" method="POST" enctype="multipart/form-data">
        @csrf
@@ -306,12 +306,12 @@ Photography
     </div>
 
     <!-- Modal: Kanban task -->
-  
+
 
     <!-- NAVIGATION
     ================================================== -->
-    
-      
+
+
         <nav class="navbar navbar-vertical fixed-left navbar-expand-md " id="sidebar">
           <div class="container-fluid">
 
@@ -322,7 +322,7 @@ Photography
 
             <!-- Brand -->
             <a class="navbar-brand" href="index-2.html">
-              <img src="images/logos/yk white.png" class="navbar-brand-img 
+              <img src="images/logos/yk white.png" class="navbar-brand-img
               mx-auto" alt="...">
             </a>
 
@@ -331,7 +331,7 @@ Photography
 
               <!-- Dropdown -->
               <div class="dropdown">
-        
+
                 <!-- Toggle -->
                 <a href="#" id="sidebarIcon" class="dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   <div class="avatar avatar-sm avatar-online">
@@ -341,11 +341,11 @@ Photography
 
                 <!-- Menu -->
                 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="sidebarIcon">
-             
+
                 <a href="/settings/{{auth()->user()->username}}" class="dropdown-item">Settings</a>
                   <hr class="dropdown-divider">
                   <a class="dropdown-item" href="{{ route('logout') }}" onclick="event.preventDefault();
-                                                     document.getElementById('logout-form').submit();"> 
+                                                     document.getElementById('logout-form').submit();">
                    Logout</a>
                    <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                                         @csrf
@@ -370,14 +370,14 @@ Photography
                   </div>
                 </div>
               </form>
-      
+
               <!-- Navigation -->
               <ul class="navbar-nav">
                 <li class="nav-item">
                   <a class="nav-link" href="/adminhome" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="sidebarDashboards">
                     <i class="fe fe-home"></i> Dashboards
                   </a>
-                
+
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#sidebarPages" data-toggle="collapse" role="button" aria-expanded="true" aria-controls="sidebarPages">
@@ -385,7 +385,7 @@ Photography
                   </a>
                   <div class="collapse show" id="sidebarPages">
                     <ul class="nav nav-sm flex-column">
-                     
+
                     <li>
                       <a class="dropdown-item " href="/blogpost">
                         Blogs
@@ -408,36 +408,36 @@ Photography
                     </li>
                 </ul>
               </li>
-           
+
               </ul>
 
               <!-- Divider -->
               <hr class="navbar-divider my-3">
 
               <!-- Heading -->
-            
+
               <!-- Navigation -->
-          
-      
+
+
               <!-- Push content down -->
               <div class="mt-auto"></div>
-      
-              
+
+
               <!-- Customize -->
               <a href="#modalDemo" class="btn btn-block btn-primary mb-4" data-toggle="modal">
                 <i class="fe fe-sliders mr-2"></i> Customize
               </a>
-              
-      
-              
+
+
+
               <!-- User (md) -->
               <div class="navbar-user d-none d-md-flex" id="sidebarUser">
-        
+
                 <!-- Icon -->
-            
+
                 <!-- Dropup -->
                 <div class="dropup">
-          
+
                   <!-- Toggle -->
                   <a href="#" id="sidebarIconCopy" class="dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     <div class="avatar avatar-sm avatar-online">
@@ -450,7 +450,7 @@ Photography
                   <a href="/settings/{{auth()->user()->username}}" class="dropdown-item">Settings</a>
                     <hr class="dropdown-divider">
                     <a class="dropdown-item" href="{{ route('logout') }}" onclick="event.preventDefault();
-                                                     document.getElementById('logout-form').submit();"> 
+                                                     document.getElementById('logout-form').submit();">
                    Logout</a>
                    <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                                         @csrf
@@ -460,17 +460,17 @@ Photography
                 </div>
 
                 <!-- Icon -->
-         
+
 
               </div>
-              
+
 
             </div> <!-- / .navbar-collapse -->
 
           </div>
         </nav>
-      
-      
+
+
         <nav class="navbar navbar-vertical navbar-vertical-sm fixed-left navbar-expand-md " id="sidebarSmall">
           <div class="container-fluid">
 
@@ -481,7 +481,7 @@ Photography
 
             <!-- Brand -->
             <a class="navbar-brand" href="index-2.html">
-              <img src="images/logos/yk white.png" class="navbar-brand-img 
+              <img src="images/logos/yk white.png" class="navbar-brand-img
               mx-auto" alt="...">
             </a>
 
@@ -490,7 +490,7 @@ Photography
 
               <!-- Dropdown -->
               <div class="dropdown">
-        
+
                 <!-- Toggle -->
                 <a href="#" id="sidebarSmallIcon" class="dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   <div class="avatar avatar-sm avatar-online">
@@ -503,7 +503,7 @@ Photography
                 <a href="/settings/{{auth()->user()->username}}" class="dropdown-item">Settings</a>
                   <hr class="dropdown-divider">
                   <a class="dropdown-item" href="{{ route('logout') }}" onclick="event.preventDefault();
-                                                     document.getElementById('logout-form').submit();"> 
+                                                     document.getElementById('logout-form').submit();">
                    Logout</a>
                    <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                                         @csrf
@@ -531,15 +531,15 @@ Photography
 
               <!-- Divider -->
               <hr class="navbar-divider d-none d-md-block mt-0 mb-3">
-      
+
               <!-- Navigation -->
               <ul class="navbar-nav">
                 <li class="nav-item dropright">
                   <a class="nav-link dropdown-toggle " id="/adminhome" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" title="Dashboards">
                     <i class="fe fe-home"></i> <span class="d-md-none">Dashboards</span>
                   </a>
-           
-           
+
+
                 </li>
                 <li class="nav-item dropright">
                   <a class="nav-link dropdown-toggle active" id="sidebarSmallPages" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
@@ -549,7 +549,7 @@ Photography
                     <li class="dropdown-header d-none d-md-block">
                       <h6 class="text-uppercase mb-0">Pages</h6>
                     </li>
-                
+
                     <li>
                       <a class="dropdown-item " href="/blogpost">
                         Blogs
@@ -572,10 +572,10 @@ Photography
                     </li>
                 </ul>
               </li>
-           
+
                   </ul>
                 </li>
-        
+
                 <li class="nav-item d-md-none">
                   <a class="nav-link" href="#sidebarModalActivity" data-toggle="modal">
                    <span class="fe fe-bell"></span> Notifications
@@ -604,20 +604,20 @@ Photography
                   </a>
                 </li>
               </ul>
-      
+
               <!-- Push content down -->
               <div class="mt-auto"></div>
-      
-              
+
+
               <!-- Customize -->
               <div class="mb-4" data-toggle="tooltip" data-placement="right" data-template='<div class="tooltip d-none d-md-block" role="tooltip"><div class="arrow"></div><div class="tooltip-inner"></div></div>' title="Customize">
                 <a href="#modalDemo" class="btn btn-block btn-primary" data-toggle="modal">
                   <i class="fe fe-sliders"></i> <span class="d-md-none ml-2">Customize</span>
                 </a>
               </div>
-              
-      
-              
+
+
+
               <!-- User (md) -->
               <div class="navbar-user d-none d-md-flex flex-column" id="sidebarSmallUser">
 
@@ -627,7 +627,7 @@ Photography
                     <i class="fe fe-search"></i>
                   </span>
                 </a>
-        
+
                 <!-- Icon -->
                 <a href="#sidebarModalActivity" class="navbar-user-link mb-3" data-toggle="modal">
                   <span class="icon">
@@ -637,7 +637,7 @@ Photography
 
                 <!-- Dropup -->
                 <div class="dropright">
-          
+
                   <!-- Toggle -->
                   <a href="#" id="sidebarSmallIconCopy" class="dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     <div class="avatar avatar-sm avatar-online">
@@ -650,7 +650,7 @@ Photography
                   <a href="/settings/{{auth()->user()->username}}" class="dropdown-item">Settings</a>
                     <hr class="dropdown-divider">
                     <a class="dropdown-item" href="{{ route('logout') }}" onclick="event.preventDefault();
-                                                     document.getElementById('logout-form').submit();"> 
+                                                     document.getElementById('logout-form').submit();">
                    Logout</a>
                    <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                                         @csrf
@@ -660,15 +660,15 @@ Photography
                 </div>
 
               </div>
-              
+
 
             </div> <!-- / .navbar-collapse -->
 
           </div>
         </nav>
-      
-    
-    
+
+
+
       <nav class="navbar navbar-expand-lg " id="topnav">
         <div class="container">
 
@@ -683,24 +683,24 @@ Photography
           </a>
 
           <!-- Form -->
-      
+
 
           <!-- User -->
           <div class="navbar-user">
-      
+
             <!-- Dropdown -->
             <div class="dropdown mr-4 d-none d-lg-flex">
-        
+
               <!-- Toggle -->
-            
+
 
               <!-- Menu -->
-      
+
             </div>
 
             <!-- Dropdown -->
             <div class="dropdown">
-        
+
               <!-- Toggle -->
               <a href="#" class="avatar avatar-sm avatar-online dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 <img src="images/Rectangle 73.png" alt="..." class="avatar-img rounded-circle">
@@ -708,11 +708,11 @@ Photography
 
               <!-- Menu -->
               <div class="dropdown-menu dropdown-menu-right">
-             
+
               <a href="/settings/{{auth()->user()->username}}" class="dropdown-item">Settings</a>
                 <hr class="dropdown-divider">
                 <a class="dropdown-item" href="{{ route('logout') }}" onclick="event.preventDefault();
-                                                     document.getElementById('logout-form').submit();"> 
+                                                     document.getElementById('logout-form').submit();">
                    Logout</a>
                    <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                                         @csrf
@@ -737,15 +737,15 @@ Photography
                 <a class="nav-link dropdown-toggle " href="/adminhome" id="topnavDashboards" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Dashboards
                 </a>
-            
+
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle active" href="#" id="topnavPages" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Pages
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="topnavPages">
-              
-             
+
+
                 <li>
                       <a class="dropdown-item " href="/blogpost">
                         Blogs
@@ -768,10 +768,10 @@ Photography
                     </li>
                 </ul>
               </li>
-           
+
                 </ul>
               </li>
-         
+
               <li class="nav-item">
                 <a class="nav-link" href="#modalDemo" data-toggle="modal">
                   Customize
@@ -783,13 +783,13 @@ Photography
 
         </div> <!-- / .container -->
       </nav>
-    
+
 
     <!-- MAIN CONTENT
     ================================================== -->
     <div class="main-content">
 
-      
+
         <nav class="navbar navbar-expand-md navbar-light d-none d-md-flex" id="topbar">
           <div class="container-fluid">
 
@@ -814,7 +814,7 @@ Photography
                       <a href="team-overview.html" class="list-group-item px-0">
                         <div class="row align-items-center">
                           <div class="col-auto">
-                    
+
                             <!-- Avatar -->
                             <div class="avatar">
                               <img src="assets/img/avatars/teams/team-logo-1.jpg" alt="..." class="avatar-img rounded">
@@ -832,14 +832,14 @@ Photography
                             <p class="small text-muted mb-0">
                               <span class="fe fe-clock"></span> <time datetime="2018-05-24">Updated 2hr ago</time>
                             </p>
-                    
+
                           </div>
                         </div> <!-- / .row -->
                       </a>
                       <a href="team-overview.html" class="list-group-item px-0">
                         <div class="row align-items-center">
                           <div class="col-auto">
-                    
+
                             <!-- Avatar -->
                             <div class="avatar">
                               <img src="assets/img/avatars/teams/team-logo-2.jpg" alt="..." class="avatar-img rounded">
@@ -857,7 +857,7 @@ Photography
                             <p class="small text-muted mb-0">
                               <span class="fe fe-clock"></span> <time datetime="2018-05-24">Updated 2hr ago</time>
                             </p>
-                    
+
                           </div>
                         </div> <!-- / .row -->
                       </a>
@@ -865,7 +865,7 @@ Photography
 
                         <div class="row align-items-center">
                           <div class="col-auto">
-                    
+
                             <!-- Avatar -->
                             <div class="avatar avatar-4by3">
                               <img src="assets/img/avatars/projects/project-1.jpg" alt="..." class="avatar-img rounded">
@@ -883,7 +883,7 @@ Photography
                             <p class="small text-muted mb-0">
                               <span class="fe fe-clock"></span> <time datetime="2018-05-24">Updated 4hr ago</time>
                             </p>
-                    
+
                           </div>
                         </div> <!-- / .row -->
 
@@ -892,7 +892,7 @@ Photography
 
                         <div class="row align-items-center">
                           <div class="col-auto">
-                    
+
                             <!-- Avatar -->
                             <div class="avatar avatar-4by3">
                               <img src="assets/img/avatars/projects/project-2.jpg" alt="..." class="avatar-img rounded">
@@ -910,7 +910,7 @@ Photography
                             <p class="small text-muted mb-0">
                               <span class="fe fe-clock"></span> <time datetime="2018-05-24">Updated 4hr ago</time>
                             </p>
-                    
+
                           </div>
                         </div> <!-- / .row -->
 
@@ -919,7 +919,7 @@ Photography
 
                         <div class="row align-items-center">
                           <div class="col-auto">
-                    
+
                             <!-- Avatar -->
                             <div class="avatar avatar-4by3">
                               <img src="assets/img/avatars/projects/project-3.jpg" alt="..." class="avatar-img rounded">
@@ -937,16 +937,16 @@ Photography
                             <p class="small text-muted mb-0">
                               <span class="fe fe-clock"></span> <time datetime="2018-05-24">Updated 4hr ago</time>
                             </p>
-                    
+
                           </div>
                         </div> <!-- / .row -->
-              
+
                       </a>
                       <a href="profile-posts.html" class="list-group-item px-0">
-              
+
                         <div class="row align-items-center">
                           <div class="col-auto">
-                    
+
                             <!-- Avatar -->
                             <div class="avatar">
                               <img src="images/Rectangle 73.png" alt="..." class="avatar-img rounded-circle">
@@ -954,7 +954,7 @@ Photography
 
                           </div>
                           <div class="col ml-n2">
-                    
+
                             <!-- Title -->
                             <h4 class="text-body mb-1 name">
                 {{auth()->user()->username}}
@@ -973,7 +973,7 @@ Photography
 
                         <div class="row align-items-center">
                           <div class="col-auto">
-                    
+
                             <!-- Avatar -->
                             <div class="avatar">
                               <img src="assets/img/avatars/profiles/avatar-2.jpg" alt="..." class="avatar-img rounded-circle">
@@ -981,7 +981,7 @@ Photography
 
                           </div>
                           <div class="col ml-n2">
-                    
+
                             <!-- Title -->
                             <h4 class="text-body mb-1 name">
                               Ab Hadley
@@ -994,10 +994,10 @@ Photography
 
                           </div>
                         </div> <!-- / .row -->
-              
+
                       </a>
                     </div>
-          
+
                   </div>
                 </div> <!-- / .dropdown-menu -->
 
@@ -1006,19 +1006,19 @@ Photography
 
             <!-- User -->
             <div class="navbar-user">
-      
+
               <!-- Dropdown -->
               <div class="dropdown mr-4 d-none d-md-flex">
-        
+
                 <!-- Toggle -->
-          
+
 
                 <!-- Menu -->
                 <div class="dropdown-menu dropdown-menu-right dropdown-menu-card">
                   <div class="card-header">
                     <div class="row align-items-center">
                       <div class="col">
-                
+
                         <!-- Title -->
                         <h5 class="card-header-title">
                           Notifications
@@ -1026,7 +1026,7 @@ Photography
 
                       </div>
                       <div class="col-auto">
-                
+
                         <!-- Link -->
                         <a href="#!" class="small">
                           View all
@@ -1040,10 +1040,10 @@ Photography
                     <!-- List group -->
                     <div class="list-group list-group-flush my-n3">
                       <a class="list-group-item px-0" href="#!">
-              
+
                         <div class="row">
                           <div class="col-auto">
-                    
+
                             <!-- Avatar -->
                             <div class="avatar avatar-sm">
                               <img src="images/Rectangle 73.png" alt="..." class="avatar-img rounded-circle">
@@ -1051,7 +1051,7 @@ Photography
 
                           </div>
                           <div class="col ml-n2">
-                    
+
                             <!-- Content -->
                             <div class="small text-muted">
                               <strong class="text-body">Dianna Smiley</strong> shared your post with <strong class="text-body">Ab Hadley</strong>, <strong class="text-body">Adolfo Hess</strong>, and <strong class="text-body">3 others</strong>.
@@ -1063,7 +1063,7 @@ Photography
                             <small class="text-muted">
                               2m
                             </small>
-                    
+
                           </div>
                         </div> <!-- / .row -->
 
@@ -1072,7 +1072,7 @@ Photography
 
                         <div class="row">
                           <div class="col-auto">
-                    
+
                             <!-- Avatar -->
                             <div class="avatar avatar-sm">
                               <img src="assets/img/avatars/profiles/avatar-2.jpg" alt="..." class="avatar-img rounded-circle">
@@ -1080,7 +1080,7 @@ Photography
 
                           </div>
                           <div class="col ml-n2">
-                    
+
                             <!-- Content -->
                             <div class="small text-muted">
                               <strong class="text-body">Ab Hadley</strong> reacted to your post with a 😍
@@ -1092,7 +1092,7 @@ Photography
                             <small class="text-muted">
                               2m
                             </small>
-                    
+
                           </div>
                         </div> <!-- / .row -->
 
@@ -1101,7 +1101,7 @@ Photography
 
                         <div class="row">
                           <div class="col-auto">
-                    
+
                             <!-- Avatar -->
                             <div class="avatar avatar-sm">
                               <img src="assets/img/avatars/profiles/avatar-3.jpg" alt="..." class="avatar-img rounded-circle">
@@ -1109,7 +1109,7 @@ Photography
 
                           </div>
                           <div class="col ml-n2">
-                    
+
                             <!-- Content -->
                             <div class="small text-muted">
                               <strong class="text-body">Adolfo Hess</strong> commented <blockquote class="text-body">“I don’t think this really makes sense to do without approval from Johnathan since he’s the one...” </blockquote>
@@ -1121,7 +1121,7 @@ Photography
                             <small class="text-muted">
                               2m
                             </small>
-                    
+
                           </div>
                         </div> <!-- / .row -->
 
@@ -1130,7 +1130,7 @@ Photography
 
                         <div class="row">
                           <div class="col-auto">
-                    
+
                             <!-- Avatar -->
                             <div class="avatar avatar-sm">
                               <img src="assets/img/avatars/profiles/avatar-4.jpg" alt="..." class="avatar-img rounded-circle">
@@ -1138,7 +1138,7 @@ Photography
 
                           </div>
                           <div class="col ml-n2">
-                    
+
                             <!-- Content -->
                             <div class="small text-muted">
                               <strong class="text-body">Daniela Dewitt</strong> subscribed to you.
@@ -1150,7 +1150,7 @@ Photography
                             <small class="text-muted">
                               2m
                             </small>
-                    
+
                           </div>
                         </div> <!-- / .row -->
 
@@ -1159,7 +1159,7 @@ Photography
 
                         <div class="row">
                           <div class="col-auto">
-                    
+
                             <!-- Avatar -->
                             <div class="avatar avatar-sm">
                               <img src="assets/img/avatars/profiles/avatar-5.jpg" alt="..." class="avatar-img rounded-circle">
@@ -1167,7 +1167,7 @@ Photography
 
                           </div>
                           <div class="col ml-n2">
-                    
+
                             <!-- Content -->
                             <div class="small text-muted">
                               <strong class="text-body">Miyah Myles</strong> shared your post with <strong class="text-body">Ryu Duke</strong>, <strong class="text-body">Glen Rouse</strong>, and <strong class="text-body">3 others</strong>.
@@ -1179,7 +1179,7 @@ Photography
                             <small class="text-muted">
                               2m
                             </small>
-                    
+
                           </div>
                         </div> <!-- / .row -->
 
@@ -1188,7 +1188,7 @@ Photography
 
                         <div class="row">
                           <div class="col-auto">
-                    
+
                             <!-- Avatar -->
                             <div class="avatar avatar-sm">
                               <img src="assets/img/avatars/profiles/avatar-6.jpg" alt="..." class="avatar-img rounded-circle">
@@ -1196,7 +1196,7 @@ Photography
 
                           </div>
                           <div class="col ml-n2">
-                    
+
                             <!-- Content -->
                             <div class="small text-muted">
                               <strong class="text-body">Ryu Duke</strong> reacted to your post with a 😍
@@ -1208,7 +1208,7 @@ Photography
                             <small class="text-muted">
                               2m
                             </small>
-                    
+
                           </div>
                         </div> <!-- / .row -->
 
@@ -1217,7 +1217,7 @@ Photography
 
                         <div class="row">
                           <div class="col-auto">
-                    
+
                             <!-- Avatar -->
                             <div class="avatar avatar-sm">
                               <img src="assets/img/avatars/profiles/avatar-7.jpg" alt="..." class="avatar-img rounded-circle">
@@ -1225,7 +1225,7 @@ Photography
 
                           </div>
                           <div class="col ml-n2">
-                    
+
                             <!-- Content -->
                             <div class="small text-muted">
                               <strong class="text-body">Glen Rouse</strong> commented <blockquote class="text-body">“I don’t think this really makes sense to do without approval from Johnathan since he’s the one...” </blockquote>
@@ -1237,7 +1237,7 @@ Photography
                             <small class="text-muted">
                               2m
                             </small>
-                    
+
                           </div>
                         </div> <!-- / .row -->
 
@@ -1246,7 +1246,7 @@ Photography
 
                         <div class="row">
                           <div class="col-auto">
-                    
+
                             <!-- Avatar -->
                             <div class="avatar avatar-sm">
                               <img src="assets/img/avatars/profiles/avatar-8.jpg" alt="..." class="avatar-img rounded-circle">
@@ -1254,7 +1254,7 @@ Photography
 
                           </div>
                           <div class="col ml-n2">
-                    
+
                             <!-- Content -->
                             <div class="small text-muted">
                               <strong class="text-body">Grace Gross</strong> subscribed to you.
@@ -1266,13 +1266,13 @@ Photography
                             <small class="text-muted">
                               2m
                             </small>
-                    
+
                           </div>
                         </div> <!-- / .row -->
 
                       </a>
                     </div>
-            
+
                   </div>
                 </div> <!-- / .dropdown-menu -->
 
@@ -1280,7 +1280,7 @@ Photography
 
               <!-- Dropdown -->
               <div class="dropdown">
-        
+
                 <!-- Toggle -->
                 <a href="#" class="avatar avatar-sm avatar-online dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   <img src="images/Rectangle 73.png" alt="..." class="avatar-img rounded-circle">
@@ -1291,7 +1291,7 @@ Photography
                 <a href="/settings/{{auth()->user()->username}}" class="dropdown-item">Settings</a>
                   <hr class="dropdown-divider">
                   <a class="dropdown-item" href="{{ route('logout') }}" onclick="event.preventDefault();
-                                                     document.getElementById('logout-form').submit();"> 
+                                                     document.getElementById('logout-form').submit();">
                    Logout</a>
                    <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                                         @csrf
@@ -1301,24 +1301,24 @@ Photography
               </div>
 
             </div>
-  
+
           </div>
         </nav>
-      
+
 
       <!-- HEADER -->
       <div class="header">
 
         <!-- Image -->
         <img src="assets/img/covers/cover_kaka.png" class="header-img-top" alt="...">
-        
+
         <div class="container-fluid">
 
           <!-- Body -->
           <div class="header-body mt-n5 mt-md-n6">
             <div class="row align-items-end">
               <div class="col-auto">
-                
+
                 <!-- Avatar -->
                 <div class="avatar avatar-xxl header-avatar-top">
                   <img src="images/Rectangle 73.png" alt="..." class="avatar-img rounded-circle border border-4 border-body">
@@ -1326,12 +1326,12 @@ Photography
 
               </div>
               <div class="col mb-3 ml-n3 ml-md-n2">
-                
+
                 <!-- Pretitle -->
                 <h6 class="header-pretitle">
                   Admin
                 </h6>
-            
+
                 <!-- Title -->
                 <h1 class="header-title">
                 {{auth()->user()->username}}
@@ -1339,42 +1339,42 @@ Photography
 
               </div>
               <div class="col-12 col-md-auto mt-2 mt-md-0 mb-md-3">
-                
+
                 <!-- Button -->
-         
+
               </div>
             </div> <!-- / .row -->
             <div class="row align-items-center">
               <div class="col">
-                
+
                 <!-- Nav -->
                 <ul class="nav nav-tabs nav-overflow header-tabs">
-                  <li class="nav-item">
-                    <a href="/blogpost" class="nav-link active">
-                      Blog
-                    </a>
-                  </li>
-                  <li class="nav-item">
-                    <a href="/aboutkaka" class="nav-link">
-                      About Kaka
-                    </a>
-                  </li>
-                  <li class="nav-item">
-                    <a href="/courses" class="nav-link">
-                      Courses
-                    </a>
-                  </li>
-                  <li class="nav-item">
-                    <a href="/landingpage" class="nav-link ">
-                      Landing page
-                    </a>
-                  </li>
-                  <li class="nav-item">
-                    <a href="/unlockit" class="nav-link">
-                      Unlock IT
-                    </a>
-                  </li>
-                </ul>
+                    <li class="nav-item">
+                      <a href="/blogpost" class="nav-link ">
+                        Blog
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="/aboutkaka" class="nav-link active">
+                        About Kaka
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="/comingsoon" class="nav-link">
+                        Courses
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="/post_events" class="nav-link ">
+                        Events
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="/comingsoon" class="nav-link">
+                        UnlockIT
+                      </a>
+                    </li>
+                  </ul>
 
               </div>
             </div>
@@ -1387,13 +1387,13 @@ Photography
       <div class="container-fluid">
         <div class="row">
           <div class="col-12">
-            
+
             <!-- Files -->
             <div class="card" data-toggle="lists" data-options='{"valueNames": ["name"]}'>
               <div class="card-header">
                 <div class="row align-items-center">
                   <div class="col">
-                    
+
                     <!-- Title -->
                     <h4 class="card-header-title">
                       Blog Post
@@ -1401,7 +1401,7 @@ Photography
 
                   </div>
                   <div class="col-auto">
-                    
+
                     <!-- Dropdown -->
                     <div class="dropdown">
 
@@ -1421,10 +1421,10 @@ Photography
                       </div>
 
                     </div>
-    
+
                   </div>
                   <div class="col-auto">
-                    
+
                     <!-- Button -->
                     <a href="#modalMembers" class="btn btn-lg btn-rounded-circle btn-white lift" data-toggle="modal">
                   +
@@ -1436,9 +1436,9 @@ Photography
               <div class="card-header">
                 <div class="row">
                   <div class="col-12">
-                    
+
                     <!-- Form -->
-              
+
                   </div>
                 </div> <!-- / .row -->
               </div>
@@ -1449,10 +1449,10 @@ Photography
                 <!-- List -->
                 <ul class="list-group list-group-lg list-group-flush list my-n4">
                   <li class="list-group-item px-0">
-                    
+
                     <div class="row align-items-center">
                       <div class="col-auto">
-                        
+
                         <!-- Avatar -->
                         <a href="#!" class="avatar avatar-lg">
                           <img src="images/{{$blade_blog->blog_image}}" alt="..." class="avatar-img rounded">
@@ -1467,21 +1467,21 @@ Photography
                         </h4>
 
                         <!-- Text -->
-                   
+
 
                         <!-- Time -->
                         <p class="card-text small text-muted">
                           Uploaded by {{$blade_blog->user->username}} on <time datetime="2018-01-03">{{date('M j, Y',strtotime($blade_blog->created_at))}}</time>
                         </p>
-                        
+
                       </div>
                       <div class="col-auto">
-                        
+
                         <!-- Button -->
-               
+
                       </div>
                       <div class="col-auto">
-                        
+
                         <!-- Dropdown -->
                         <div class="dropdown">
                           <a href="#" class="dropdown-ellipses dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -1490,16 +1490,16 @@ Photography
                           <div class="dropdown-menu dropdown-menu-right">
                           <a href="#UpdatemodalMembers" class="dropdown-item" data-toggle="modal">
                           <button class="btn btn-success open-modal"  value="{{$blade_blog->id}}"> <i class="fe fe-eye"></i>
-                            </button>   
+                            </button>
                 </a>
                 <a href="#!" class="dropdown-item">
                             <form action="/deleteblog" method="post" enctype="multipart/form-data">
                             @csrf
                             <input type="hidden" name="delete_id" value="{{$blade_blog->id}}" >
                             <button class="btn btn-danger delete-blog" type="submit"  > <i class="fe fe-trash"></i>
-                            </button> 
+                            </button>
                             </form>
-                          
+
                             </a>
 
                           </div>
@@ -1509,7 +1509,7 @@ Photography
                     </div> <!-- / .row -->
 
                   </li>
-              
+
                 </ul>
 
               </div>
@@ -1568,8 +1568,8 @@ jQuery('body').on('click', '.open-modal', function () {
     $(this).parents("form").ajaxForm(options);
   });
 
-  var options = { 
-    complete: function(response) 
+  var options = {
+    complete: function(response)
     {
     	if($.isEmptyObject(response.responseJSON.error)){
       //  toastr.success("BlogPost Uploaded Successfully.");
@@ -1578,7 +1578,7 @@ jQuery('body').on('click', '.open-modal', function () {
         jQuery('#blog_image').val("");
         jQuery('#post_type').val("");
         $('.uploadcourse').html('Post sent✌🏼✌🏼');
-        jQuery('#modalMembers').modal('hide')  
+        jQuery('#modalMembers').modal('hide')
     		alert('BlogPost Uploaded Successfully.');
     	}else{
     		printErrorMsg(response.responseJSON.error);
@@ -1605,11 +1605,11 @@ $("body").on("click",".update-blog",function(e){
   });
 
 
-  var updaters = { 
-    complete: function(response) 
+  var updaters = {
+    complete: function(response)
     {
     	if($.isEmptyObject(response.responseJSON.error)){
-    
+
     		alert('Blog Updated Successfully.');
     	}else{
     		printErrorMsg(response.responseJSON.error);
@@ -1633,11 +1633,11 @@ $("body").on("click",".update-blog",function(e){
     $(this).parents("form").ajaxForm(options);
   });
 
-  var options = { 
-    complete: function(response) 
+  var options = {
+    complete: function(response)
     {
     	if($.isEmptyObject(response.responseJSON.error)){
-     
+
     		alert('BlogPost Deleted Successfully.');
     	}else{
     		printErrorMsg(response.responseJSON.error);

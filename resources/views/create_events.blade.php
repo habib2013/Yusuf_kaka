@@ -164,7 +164,7 @@
 
                   <!-- Title -->
                   <h4 class="card-header-title" id="exampleModalCenterTitle">
-                   ABOUT KAKA
+                    Add a new Blog Post
                   </h4>
 
                 </div>
@@ -180,13 +180,8 @@
             </div>
 
             <div class="card-body">
-<form action="/createaboutkaka" method="POST" enctype="multipart/form-data">
+<form action="/createblog" method="POST" enctype="multipart/form-data">
        @csrf
-
-       <div data-toggle="quill" data-options='{"placeholder": "Quill WYSIWYG"}'></div>
-
-
-<br>
 <div class="input-group input-group-merge mb-3">
   <input type="text" name="title" id="title" class="form-control form-control-prepended" placeholder="Title">
   <div class="input-group-prepend">
@@ -195,21 +190,37 @@
     </div>
   </div>
 </div>
+<textarea class="form-control" name="body" id="title" data-toggle="autosize" rows="5" placeholder=" type post body here..."></textarea>
 <br>
 <input type="hidden" name="slug" id="slug" value="1" >
 <input type="hidden" name="user_id" id="user_id" value="{{auth()->user()->id}}">
-<textarea class="form-control" name="body" id="body" data-toggle="autosize" rows="5" placeholder="  About kaka section 1 here...🖊🖊"></textarea>
+<select class="form-control" name="post_type" id="post_type" data-toggle="select" data-options='{"minimum-results-for-search": -1}'>
+  <option value="Wealth">
+  Wealth
+  </option>
+  <option value="Lifestyle">
+Lifestyle
+  </option>
+  <option value="Travel">
+    Travel
+  </option>
+  <option value="Food">
+Food
+  </option>
+  <option value="Photography">
+Photography
+  </option>
+</select>
+<br>
 
-<br>
-<textarea class="form-control" name="body" id="body" data-toggle="autosize" rows="5" placeholder="  About kaka section 2 here...🖊🖊"></textarea>
-<br>
+<input type="file" name="blog_image" id="blog_image" class="form-control">
 <br>
 <div class="alert alert-danger print-error-msg" style="display:none">
         <ul></ul>
     </div>
 <br>
 <button align="center" class="uploadcourse btn btn-success">UPLOAD NOW!!</button>
-<input type="hidden" id="blog_id" name="blog_id" value="0">
+<input type="hidden" id="blog__id" name="blog_id" value="0">
 </form>
             </div>
           </div>
@@ -395,11 +406,6 @@ Photography
                         Courses
                       </a>
                     </li>
-                    <li>
-                      <a class="dropdown-item " href="/unlockIT">
-                        Unclock IT
-                      </a>
-                    </li>
                 </ul>
               </li>
 
@@ -562,11 +568,6 @@ Photography
                     <li>
                       <a class="dropdown-item " href="/courses">
                         Courses
-                      </a>
-                    </li>
-                    <li>
-                      <a class="dropdown-item " href="/unlockIT">
-                        UnlockIT
                       </a>
                     </li>
                 </ul>
@@ -763,11 +764,6 @@ Photography
                     <li>
                       <a class="dropdown-item " href="/courses">
                         Courses
-                      </a>
-                    </li>
-                    <li>
-                      <a class="dropdown-item " href="/unlockIT">
-                        UnlockIT
                       </a>
                     </li>
                 </ul>
@@ -1353,32 +1349,32 @@ Photography
 
                 <!-- Nav -->
                 <ul class="nav nav-tabs nav-overflow header-tabs">
-                  <li class="nav-item">
-                    <a href="/blogpost" class="nav-link ">
-                      Blog
-                    </a>
-                  </li>
-                  <li class="nav-item">
-                    <a href="/aboutkaka" class="nav-link active">
-                      About Kaka
-                    </a>
-                  </li>
-                  <li class="nav-item">
-                    <a href="/comingsoon" class="nav-link">
-                      Courses
-                    </a>
-                  </li>
-                  <li class="nav-item">
-                    <a href="/post_events" class="nav-link ">
-                      Events
-                    </a>
-                  </li>
-                  <li class="nav-item">
-                    <a href="/comingsoon" class="nav-link">
-                      UnlockIT
-                    </a>
-                  </li>
-                </ul>
+                    <li class="nav-item">
+                      <a href="/blogpost" class="nav-link ">
+                        Blog
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="/aboutkaka" class="nav-link ">
+                        About Kaka
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="/comingsoon" class="nav-link">
+                        Courses
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="/post_events" class="nav-link active">
+                        Events
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="/comingsoon" class="nav-link">
+                        UnlockIT
+                      </a>
+                    </li>
+                  </ul>
 
               </div>
             </div>
@@ -1400,7 +1396,7 @@ Photography
 
                     <!-- Title -->
                     <h4 class="card-header-title">
-                    About Kaka
+                      Blog Post
                     </h4>
 
                   </div>
@@ -1447,6 +1443,7 @@ Photography
                 </div> <!-- / .row -->
               </div>
 
+
               <div class="card-body">
 
                 <!-- List -->
@@ -1466,7 +1463,7 @@ Photography
 
                         <!-- Title -->
                         <h4 class="card-title mb-1 name">
-                          <a href="#!">Title</a>
+                          <a href="#!"></a>
                         </h4>
 
                         <!-- Text -->
@@ -1474,7 +1471,7 @@ Photography
 
                         <!-- Time -->
                         <p class="card-text small text-muted">
-                          Uploaded by  on NameHere <time datetime="2018-01-03">timehere</time>
+                          Uploaded by } on <time datetime="2018-01-03"></time>
                         </p>
 
                       </div>
@@ -1492,13 +1489,13 @@ Photography
                           </a>
                           <div class="dropdown-menu dropdown-menu-right">
                           <a href="#UpdatemodalMembers" class="dropdown-item" data-toggle="modal">
-                          <button class="btn btn-success open-modal"  value="iid"> <i class="fe fe-eye"></i>
+                          <button class="btn btn-success open-modal"  value="myid"> <i class="fe fe-eye"></i>
                             </button>
                 </a>
                 <a href="#!" class="dropdown-item">
                             <form action="/deleteblog" method="post" enctype="multipart/form-data">
                             @csrf
-                            <input type="hidden" name="delete_id" value="iid" >
+                            <input type="hidden" name="delete_id" value="myid" >
                             <button class="btn btn-danger delete-blog" type="submit"  > <i class="fe fe-trash"></i>
                             </button>
                             </form>
