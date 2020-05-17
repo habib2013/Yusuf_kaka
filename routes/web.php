@@ -33,6 +33,7 @@ Route::get('/adminhome','AdminsController@homepage')->name('adminhome')->middlew
 Route::get('/about','DummyPagesController@about_kaka');
 Route::get('/contactme','DummyPagesController@contactme');
 Route::get('/comingsoon','DummyPagesController@comingsoon');
+Route::get('/events','DummyPagesController@events');
 
 Route::get('/blogs', 'AdminsController@posts')->name('posts');
 Route::post('ajaxRequest', 'AdminsController@ajaxRequest')->name('ajaxRequest');

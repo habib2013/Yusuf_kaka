@@ -119,8 +119,8 @@
                   </li>
                   <li class="dropdown-submenu ">
                     <a
-                      class="dropdown-item dropdown-list-group-item dropdown-toggle"
-                      href="#"
+                      class="dropdown-item "
+                      href="/comingsoon"
                     >
                       <div class="d-flex align-items-center">
                         <div
@@ -141,7 +141,7 @@
                   <li class="dropdown-submenu ">
                     <a
                       class="dropdown-item dropdown-list-group-item dropdown-toggle"
-                      href="#"
+                      href="/comingsoon"
                     >
                       <div class="d-flex align-items-center">
                         <div
@@ -181,7 +181,7 @@
               <li class="nav-item dropdown">
                 <a
                   class="nav-link dropdown-toggle"
-                  href="#"
+                  href="/events"
                   id="menu-3"
                   data-toggle="dropdown"
                   aria-haspopup="true"
@@ -195,14 +195,14 @@
                 aria-labelledby="menu-3"
               >
                 <li>
-                  <a class="dropdown-item" href="pages/blog.html">
+                  <a class="dropdown-item" href="/events">
                     Leadership Events
                   </a>
                 </li>
                 <li>
                   <a
                     class="dropdown-item"
-                    href="pages/blog-category.html"
+                    href="/comingsoon"
                   >
                    Live Interview
                   </a>
@@ -428,7 +428,7 @@
               </a>
               <div class="caption">
                 <a
-                  href="pages/podcast.html"
+                  href="/comingsoon"
                   class="btn btn-outline-white btn-lg"
                   >Podcast</a
                 >
@@ -445,7 +445,7 @@
                 />
               </a>
               <div class="caption">
-                <a href="pages/events.html" class="btn btn-outline-white btn-lg"
+                <a href="/events" class="btn btn-outline-white btn-lg"
                   >Events</a
                 >
               </div>
@@ -453,7 +453,7 @@
           </div>
           <div class="col-lg-6 col-md-4 mb-5 d-md-none d-lg-block">
             <div class="img-overlay">
-              <a href="#">
+              <a href="/courses">
                 <img
                   class="rounded img-fluid"
                   src="myassets/images/course-img-3.png"
@@ -487,12 +487,13 @@
           </div>
         </div>
         <div class="row">
+            @foreach($allblogs as $home_blog)
           <div class="col-lg-4 col-md-6 col-12">
             <div class="card border-0">
               <a href="pages/program-single.html">
                 <img
                   class="rounded img-fluid"
-                  src="myassets/images/thumb-img-1.jpg"
+                  src="images/{{$home_blog->blog_image}}"
                   alt=""
                 />
               </a>
@@ -500,11 +501,10 @@
             <div class="card border-0">
               <div class="card-body mt-n13 bg-white mr-6 rounded-right p-4">
                 <a href="pages/program-single.html">
-                  <h4 class="mb-3">Life Coaching</h4>
+                  <h4 class="mb-3">{{$home_blog->post_type}}</h4>
                 </a>
                 <p>
-                  Lorem ipsum dolor sit amet, conse cte turdisse in ornare
-                  lectussit amet lacinia nisi.
+                    {{ substr(strip_tags($home_blog->body), 0, 200) }}  {{ strlen(strip_tags($home_blog->body)) > 50 ? "..." : "" }}
                 </p>
                 <a href="pages/program-single.html" class="btn-primary-link"
                   >Read more</a
@@ -512,56 +512,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 col-12">
-            <div class="card border-0">
-              <a href="pages/program-single.html"
-                ><img
-                  class="rounded img-fluid"
-                  src="myassets/images/thumb-img-2.jpg"
-                  alt=""
-                />
-              </a>
-            </div>
-            <div class="card border-0">
-              <div class="card-body mt-n13 bg-white mr-6 rounded-right p-4">
-                <a href="pages/program-single.html">
-                  <h4 class="mb-3">Relationship</h4>
-                </a>
-                <p>
-                  Maecenas eu est purus. Morbi luctus turpis justo, sit amet
-                  mollis arcu ultricies et.
-                </p>
-                <a href="pages/program-single.html" class="btn-primary-link "
-                  >Read more</a
-                >
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 d-lg-block d-md-none col-12">
-            <div class="card border-0">
-              <a href="pages/program-single.html"
-                ><img
-                  class="rounded img-fluid"
-                  src="myassets/images/thumb-img-3.jpg"
-                  alt=""
-                />
-              </a>
-            </div>
-            <div class="card border-0">
-              <div class="card-body mt-n13 bg-white mr-6 rounded-right p-4">
-                <a href="pages/program-single.html">
-                  <h4 class="mb-3">Leadership</h4>
-                </a>
-                <p>
-                  Pellentesque at rhoncus metus, in condimentum felis. Donec
-                  congue augue placera.
-                </p>
-                <a href="pages/program-single.html" class="btn-primary-link"
-                  >Read more</a
-                >
-              </div>
-            </div>
-          </div>
+@endforeach
         </div>
       </div>
     </div>

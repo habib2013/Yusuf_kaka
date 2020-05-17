@@ -17,4 +17,7 @@ class DummyPagesController extends Controller
     public function comingsoon(){
         return view('comingsoon');
     }
+    public function events(){
+        return view('events');
+    }
 }

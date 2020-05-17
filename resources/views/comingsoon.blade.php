@@ -47,7 +47,7 @@
 
             <!-- Heading -->
             <h1 class="display-4 mb-3">
-             This page will be available soon 😭
+             This page will be available soon 🧨
             </h1>
 
             <!-- Subheading -->
@@ -56,8 +56,8 @@
             </p>
 
             <!-- Button -->
-            <a href="index-2.html" class="btn btn-lg btn-primary">
-              Return  to Index
+            <a href="/" class="btn btn-lg btn-primary">
+              Return  to Homepage
             </a>
 
           </div>
