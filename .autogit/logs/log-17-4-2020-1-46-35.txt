@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 17 2020 01:46:35 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* resources/views/welcome.blade.php
+
+
+Created files:
+* .autogit/logs/log-17-4-2020-1-44-52.txt
+* public/myassets/fonts/Flaticon.woff
+
+
+Deleted files:
+
+
+Renamed files:
