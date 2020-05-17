@@ -21,7 +21,7 @@ use DB;
 class AdminsController extends Controller
 {
     public function __construct(){
-        return $this->middleware('guest');
+        return $this->middleware('auth');
 }
 public function aboutkaka(){
   return view('admin_about');

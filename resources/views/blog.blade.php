@@ -429,7 +429,7 @@
                 <a
                   href="#"
                   class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold "
-                  >Business Coaching</a
+              >{{$post->post_type}}</a
                 >
                 <a href="#">
                   <h3 class="mb-3">

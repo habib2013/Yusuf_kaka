@@ -76,8 +76,8 @@
                 >
                   <li class="dropdown-submenu ">
                     <a
-                      class="dropdown-item dropdown-list-group-item dropdown-toggle"
-                      href="#"
+                      class="dropdown-item "
+                      href="/about"
                     >
                       <div class="d-flex align-items-center">
                         <div
@@ -86,6 +86,7 @@
                           <i class="flaticon-user-3  font-24"></i>
                         </div>
                         <div class="">
+
                           <h4 class="mb-0 h5">About Yusuf Kaka</h4>
                           <p class="text-muted mb-0 font-12">
                            Get to know more about me.
