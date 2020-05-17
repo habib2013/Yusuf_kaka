@@ -36,6 +36,6 @@ $factory->define(Blog::class, function (Faker $faker) {
         'title'     => $faker->sentence(5),
         'blog_image' => $faker->image('public/images',640,480, null, false),
         'user_id' => 1,
-        'slug' => $faker->randomFloat(2, 0, 10000)
+        'slug' => $faker->randomDigit
     ];
 });

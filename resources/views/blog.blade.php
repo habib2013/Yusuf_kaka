@@ -9,6 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Theme CSS -->
     <link rel="stylesheet" href="myassets//css/theme.min.css">
+
   </head>
 
   <body>
@@ -19,8 +20,8 @@
       <div class="container-lg">
         <nav class="navbar navbar-expand-lg navbar-default">
           <a class="navbar-brand" href="../index-2.html"
-            ><img src="myassets//images/logo.svg" alt=""
-          /></a>
+            ><img src="myassets/images/yk_logo.png" style="height:50px" alt=""
+            /></a>
           <button
             class="navbar-toggler collapsed"
             type="button"
@@ -412,7 +413,7 @@
 
         <div class="row">
 
-            @foreach
+            @foreach($posts as $post)
           <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
             <div class="mb-8">
               <!-- post classic block -->
@@ -438,7 +439,7 @@
                 <div class="mb-3">
                   <div class="font-14">
                     <span class="mr-2">{{date('M j, Y',strtotime($post->created_at))}}</span>
-                  <span>Posted by <a href="#" class="">{{$post->user->}}</a></span>
+                  <span>Posted by <a href="#" class="">{{$post->user->username}}</a></span>
                   </div>
                 </div>
               </div>
@@ -446,25 +447,10 @@
             <!-- post classic block -->
           </div>
 @endforeach
+
+{{ $posts->links() }}
           <!-- pagination -->
-          <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 mt-8">
-            <nav aria-label="Page navigation example">
-              <ul class="pagination">
-                <li class="page-item mr-2 active">
-                  <a class="page-link rounded" href="#">1</a>
-                </li>
-                <li class="page-item mr-2">
-                  <a class="page-link rounded" href="#">2</a>
-                </li>
-                <li class="page-item mr-2">
-                  <a class="page-link rounded" href="#">3</a>
-                </li>
-                <li class="page-item">
-                  <a class="page-link rounded" href="#">4</a>
-                </li>
-              </ul>
-            </nav>
-          </div>
+
         </div>
       </div>
     </div>
@@ -594,6 +580,7 @@
     <script src="myassets//libs/leaflet/dist/leaflet.js"></script>
     <script src="myassets//libs/moment/min/moment.min.js"></script>
     <script src="myassets//libs/lightpick/lightpick.js"></script>
+    <script src="js/mycustom.js"></script>
 
 
 

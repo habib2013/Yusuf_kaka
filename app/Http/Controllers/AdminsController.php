@@ -163,6 +163,7 @@ public function posts()
   // $user->follow($popularpost);
 
     $posts = Blog::get();
+    $posts = Blog::paginate(6);
     return view('blog', compact('posts'));
 }
 
