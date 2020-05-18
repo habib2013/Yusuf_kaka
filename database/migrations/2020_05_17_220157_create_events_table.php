@@ -20,6 +20,7 @@ class CreateEventsTable extends Migration
             $table->string('event_image');
             $table->string('video_link');
             $table->string('date');
+            $table->string('slug');
             $table->text('address');
             $table->timestamps();
         });
