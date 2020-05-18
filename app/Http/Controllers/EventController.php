@@ -41,8 +41,18 @@ public function create_events(Request $request){
         ]);
 
         $input = $request->all();
-               
 
+        if($validator->passes()){
+            $input = $request->all();
+$input['slug'] = time().rand(10,1000);
+$input['blog_image'] = time().'.'.$request->blog_image->extension();
+$request->blog_image->move(public_path('images'),$input['blog_image']);
+
+return response()->json(['success'=>'done']);
+        }
+        else {
+
+        }
 
     }
 }
