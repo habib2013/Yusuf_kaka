@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Mon May 18 2020 15:35:58 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* app/Http/Controllers/AdminsController.php
+* app/Http/Controllers/DummyPagesController.php
+* routes/web.php
+
+
+Created files:
+* .autogit/logs/log-18-4-2020-15-34-12.txt
+
+
+Deleted files:
+
+
+Renamed files:
