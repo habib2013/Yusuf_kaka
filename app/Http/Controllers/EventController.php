@@ -50,6 +50,11 @@ $request->event_image->move(public_path('images'),$input['event_image']);
 
 try {
     Event::create($input);
+  } catch (\Exception $e) {
+    dd($e);
+  }
+
+
 return response()->json(['success'=>'done']);
         }
         else {

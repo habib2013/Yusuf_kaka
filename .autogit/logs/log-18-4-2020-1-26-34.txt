@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Mon May 18 2020 01:26:34 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* app/Http/Controllers/EventController.php
+
+
+Created files:
+* .autogit/logs/log-18-4-2020-1-24-48.txt
+* public/images/1589761544.jpeg
+
+
+Deleted files:
+
+
+Renamed files:
