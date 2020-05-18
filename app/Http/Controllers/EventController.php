@@ -48,10 +48,11 @@ $input['slug'] = time().rand(10,1000);
 // $input['event_image'] = time().'.'.$request->event_image->extension();
 // $request->event_image->move(public_path('images'),$input['event_image']);
 
-$imagepath = request('coverimage')->store('events','public');
+$imagepath = request('event_image')->store('events','public');
  $image = Image::make(public_path("storage/{$imagepath}"))->resize(200,250);
+ $imageArray = ['event_image'=>$imagepath];
 
-Event::create($input);
+Event::create(array_merge($input,$imageArray ?? []));
 return response()->json(['success'=>'done']);
         }
         else {
