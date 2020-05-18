@@ -3,6 +3,8 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Blog;
+use App\Event;
 
 class DummyPagesController extends Controller
 {
@@ -18,6 +20,8 @@ class DummyPagesController extends Controller
         return view('comingsoon');
     }
     public function events(){
-        return view('events');
+        $allevents = new Event();
+        $events = $allevents->all();
+        return view('events',compact('events'));
     }
 }

@@ -16,7 +16,7 @@ use Illuminate\Http\Request;
 
 Route::get('/', function () {
          $show_blog = new Blog();
-        $allblogs = $show_blog::all();
+        $allblogs = $show_blog::all()->take(3);
     return view('welcome',compact('allblogs'));
 });
 
@@ -52,6 +52,7 @@ Route::post('/deleteblog', 'AdminsController@deleteblog')->name('deleteblog');
 
 // Route::post('/create_events', 'AdminsController@create_events')->name('create_events');
 
+Route::get('/showsingle/{slug}','AdminsController@showsingle');
 Route::get('/auth/redirect/{provider}', 'SocialController@redirect');
 Route::get('/callback/{provider}', 'SocialController@callback');
 

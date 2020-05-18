@@ -6,7 +6,7 @@
     <title>Coach - Index</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
-    @laravelPWA
+
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Theme CSS -->
     <link rel="stylesheet" href="myassets/css/theme.min.css">
@@ -283,7 +283,7 @@
               <h1 class="font-weight-bold text-white mb-3 display-4 pl-4" style="font-family: 'Cera Pro'">
               Welcome To Kaka  World
               </h1>
-           
+
             </div>
           </div>
         </div>
@@ -505,7 +505,7 @@
                 <p>
                     {{ substr(strip_tags($home_blog->body), 0, 200) }}  {{ strlen(strip_tags($home_blog->body)) > 50 ? "..." : "" }}
                 </p>
-                <a href="pages/program-single.html" class="btn-primary-link"
+            <a href="/showsingle/{{$home_blog->slug}}" class="btn-primary-link"
                   >Read more</a
                 >
               </div>

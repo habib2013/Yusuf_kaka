@@ -525,7 +525,7 @@
     <script src="myassets/libs/leaflet/dist/leaflet.js"></script>
     <script src="myassets/libs/moment/min/moment.min.js"></script>
     <script src="myassets/libs/lightpick/lightpick.js"></script>
-
+    <script src="js/mycustom.js"></script>
 
 
 

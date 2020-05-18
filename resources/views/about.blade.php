@@ -19,23 +19,9 @@
       <!-- navigation start -->
       <div class="container-lg">
         <nav class="navbar navbar-expand-lg navbar-default">
-          <a class="navbar-brand" href="../index-2.html"
-            ><img src="myassets/images/yk_logo.png" style="height:50px" alt=""
+            <a class="navbar-brand" href="/"
+              ><img src="myassets/images/yk_logo.png" style="height:50px" alt=""
             /></a>
-          <button
-            class="navbar-toggler collapsed"
-            type="button"
-            data-toggle="collapse"
-            data-target="#navbar-default"
-            aria-controls="navbar-default"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-          >
-            <span class="icon-bar top-bar mt-0"></span>
-            <span class="icon-bar middle-bar"></span>
-            <span class="icon-bar bottom-bar"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbar-default">
             <button
               class="navbar-toggler collapsed"
               type="button"
@@ -45,301 +31,238 @@
               aria-expanded="false"
               aria-label="Toggle navigation"
             >
-              <i class="fas fa-times"></i>
+              <span class="icon-bar top-bar mt-0"></span>
+              <span class="icon-bar middle-bar"></span>
+              <span class="icon-bar bottom-bar"></span>
             </button>
-            <ul class="navbar-nav ml-auto mr-lg-3 ">
-              <li class="nav-item dropdown disabled">
-                <a class="nav-link d-lg-none" href="#!">
-                  Menu
-                </a>
-              </li>
+            <div class="collapse navbar-collapse" id="navbar-default">
+              <button
+                class="navbar-toggler collapsed"
+                type="button"
+                data-toggle="collapse"
+                data-target="#navbar-default"
+                aria-controls="navbar-default"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+              >
+                <i class="fas fa-times"></i>
+              </button>
+              <ul class="navbar-nav ml-auto mr-lg-3 ">
+                <li class="nav-item dropdown disabled">
+                  <a class="nav-link d-lg-none" href="#!">
+                    Menu
+                  </a>
+                </li>
 
-              <li class="nav-item dropdown">
-                <a class="nav-link" href="../index-2.html">
-                  Homepage
-                </a>
-              </li>
-              <li class="nav-item dropdown ">
-                <a
-                  class="nav-link dropdown-toggle"
-                  href="#"
-                  id="menu-2"
-                  data-toggle="dropdown"
-                  aria-haspopup="true"
-                  aria-expanded="false"
-                  data-display="static"
-                >
-                  Pages
-                </a>
-                <ul
-                  class="dropdown-menu  dropdown-menu-right dropdown-menu-xl-left  dropdown-menu-arrow "
-                  aria-labelledby="menu-2"
-                >
-                  <li class="dropdown-submenu ">
-                    <a
-                      class="dropdown-item dropdown-list-group-item dropdown-toggle"
-                      href="#"
-                    >
-                      <div class="d-flex align-items-center">
-                        <div
-                          class="mr-3 icon-shape icon-lg rounded-circle bg-light"
-                        >
-                          <i class="flaticon-layers font-24"></i>
-                        </div>
-                        <div class="">
-                          <h4 class="mb-0 h5">Program</h4>
-                          <p class="text-muted mb-0 font-12">
-                            All Coaching program & details for your life.
-                          </p>
-                        </div>
-                      </div>
-                    </a>
-                    <ul class="dropdown-menu dropdown-menu-lg-right">
-                      <li>
-                        <a
-                          class="dropdown-item"
-                          href="program-list.html"
-                        >
-                          List</a
-                        >
-                      </li>
-                      <li>
-                        <a
-                          class="dropdown-item"
-                          href="program-single.html"
-                        >
-                          Single</a
-                        >
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="dropdown-submenu ">
-                    <a
-                      class="dropdown-item dropdown-list-group-item dropdown-toggle"
-                      href="#"
-                    >
-                      <div class="d-flex align-items-center">
-                        <div
-                          class="mr-3 icon-shape icon-lg rounded-circle bg-light"
-                        >
-                          <i class="flaticon-calendar-5 font-24"></i>
-                        </div>
-                        <div class="">
-                          <h4 class="mb-0 h5">Events</h4>
-                          <p class="text-muted mb-0 font-12">
-                            Keynote Speakers next event to attend.
-                          </p>
-                        </div>
-                      </div>
-                    </a>
-                    <ul class="dropdown-menu dropdown-menu-lg-right">
-                      <li>
-                        <a class="dropdown-item" href="events.html">
-                          List</a
-                        >
-                      </li>
-                      <li>
-                        <a
-                          class="dropdown-item"
-                          href="event-single.html"
-                        >
-                          Single</a
-                        >
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="dropdown-submenu ">
-                    <a
-                      class="dropdown-item dropdown-list-group-item dropdown-toggle"
-                      href="#"
-                    >
-                      <div class="d-flex align-items-center">
-                        <div
-                          class="mr-3 icon-shape icon-lg rounded-circle bg-light"
-                        >
-                          <i class="flaticon-microphone font-24"></i>
-                        </div>
-                        <div class="">
-                          <h4 class="mb-0 h5">Podcast</h4>
-                          <p class="text-muted mb-0 font-12">
-                            Everything you need to listen in podcast.
-                          </p>
-                        </div>
-                      </div>
-                    </a>
-                    <ul class="dropdown-menu dropdown-menu-lg-right">
-                      <li>
-                        <a
-                          class="dropdown-item"
-                          href="podcast.html"
-                        >
-                          List</a
-                        >
-                      </li>
-                      <li>
-                        <a
-                          class="dropdown-item"
-                          href="podcast-single.html"
-                        >
-                          Single</a
-                        >
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="dropdown-submenu ">
-                    <a
-                      class="dropdown-item dropdown-list-group-item dropdown-toggle"
-                      href="#"
-                    >
-                      <div class="d-flex align-items-center">
-                        <div
-                          class="mr-3 icon-shape icon-lg rounded-circle bg-light"
-                        >
-                          <i class="flaticon-user-3 font-24"></i>
-                        </div>
-                        <div class="">
-                          <h4 class="mb-0 h5">Account</h4>
-                          <p class="text-muted mb-0 font-12">
-                            A general layout of a common login screen.
-                          </p>
-                        </div>
-                      </div>
-                    </a>
-                    <ul class="dropdown-menu dropdown-menu-lg-right">
-                      <li>
-                        <a class="dropdown-item" href="signin.html">
-                          Signin</a
-                        >
-                      </li>
-                      <li>
-                        <a class="dropdown-item" href="signup.html">
-                          Signup</a
-                        >
-                      </li>
 
-                      <li>
-                        <a
-                          class="dropdown-item"
-                          href="password-reset.html"
-                        >
-                          Password Reset</a
-                        >
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="dropdown-submenu">
-                    <a
-                      class="dropdown-item dropdown-list-group-item dropdown-toggle"
-                      href="#"
-                    >
-                      <div class="d-flex align-items-center">
-                        <div
-                          class="mr-3 icon-shape icon-lg rounded-circle bg-light"
-                        >
-                          <i class="flaticon-settings-5 font-24"></i>
+                <li class="nav-item dropdown ">
+                  <a
+                    class="nav-link dropdown-toggle"
+                    href="#"
+                    id="menu-2"
+                    data-toggle="dropdown"
+                    aria-haspopup="true"
+                    aria-expanded="false"
+                    data-display="static"
+                  >
+                    About
+                  </a>
+                  <ul
+                    class="dropdown-menu  dropdown-menu-right dropdown-menu-xl-left  dropdown-menu-arrow "
+                    aria-labelledby="menu-2"
+                  >
+                    <li class="dropdown-submenu ">
+                      <a
+                        class="dropdown-item "
+                        href="/about"
+                      >
+                        <div class="d-flex align-items-center">
+                          <div
+                            class="mr-3 icon-shape icon-lg rounded-circle bg-light"
+                          >
+                            <i class="flaticon-user-3  font-24"></i>
+                          </div>
+                          <div class="">
+
+                            <h4 class="mb-0 h5">About Yusuf Kaka</h4>
+                            <p class="text-muted mb-0 font-12">
+                             Get to know more about me.
+                            </p>
+                          </div>
                         </div>
-                        <div class="">
-                          <h4 class="mb-0 h5">Utilities</h4>
-                          <p class="text-muted mb-0 font-12">
-                            Some pages require in web like error etc..
-                          </p>
+                      </a>
+
+                    </li>
+                    <li class="dropdown-submenu ">
+                      <a
+                        class="dropdown-item dropdown-list-group-item dropdown-toggle"
+                        href="#"
+                      >
+                        <div class="d-flex align-items-center">
+                          <div
+                            class="mr-3 icon-shape icon-lg rounded-circle bg-light"
+                          >
+                            <i class="flaticon-briefcase font-24"></i>
+                          </div>
+                          <div class="">
+                            <h4 class="mb-0 h5">Hire Yusuf kaka</h4>
+                            <p class="text-muted mb-0 font-12">
+                           Let us collaborate on a life changing project
+                            </p>
+                          </div>
                         </div>
-                      </div>
-                    </a>
-                    <ul class="dropdown-menu dropdown-menu-lg-right">
-                      <li>
-                        <a
-                          class="dropdown-item"
-                          href="about-me.html"
-                        >
-                          About me</a
-                        >
-                      </li>
-                      <li>
-                        <a
-                          class="dropdown-item"
-                          href="contact.html"
-                        >
-                          Contact</a
-                        >
-                      </li>
-                      <li>
-                        <a
-                          class="dropdown-item"
-                          href="error-page.html"
-                        >
-                          Error</a
-                        >
-                      </li>
-                    </ul>
-                  </li>
-                </ul>
-              </li>
-              <li class="nav-item dropdown">
-                <a
-                  class="nav-link dropdown-toggle"
-                  href="#"
-                  id="menu-3"
-                  data-toggle="dropdown"
-                  aria-haspopup="true"
-                  aria-expanded="false"
-                >
-                  Blog
-                </a>
-                <ul
+                      </a>
+
+                    </li>
+                    <li class="dropdown-submenu ">
+                      <a
+                        class="dropdown-item "
+                        href="/comingsoon"
+                      >
+                        <div class="d-flex align-items-center">
+                          <div
+                            class="mr-3 icon-shape icon-lg rounded-circle bg-light"
+                          >
+                            <i class="flaticon-house font-24"></i>
+                          </div>
+                          <div class="">
+                            <h4 class="mb-0 h5">Foundation</h4>
+                            <p class="text-muted mb-0 font-12">
+                             Coming soon...
+                            </p>
+                          </div>
+                        </div>
+                      </a>
+
+                    </li>
+                    <li class="dropdown-submenu ">
+                      <a
+                        class="dropdown-item dropdown-list-group-item dropdown-toggle"
+                        href="/comingsoon"
+                      >
+                        <div class="d-flex align-items-center">
+                          <div
+                            class="mr-3 icon-shape icon-lg rounded-circle bg-light"
+                          >
+                            <i class="flaticon-microphone font-24"></i>
+                          </div>
+                          <div class="">
+                            <h4 class="mb-0 h5">YK Quotes</h4>
+                            <p class="text-muted mb-0 font-12">
+                             Life changing quotes by the author
+                            </p>
+                          </div>
+                        </div>
+                      </a>
+
+                    </li>
+
+                  </ul>
+                </li>
+
+                <li class="nav-item dropdown">
+                  <a
+                    class="nav-link dropdown-toggle"
+                    href="#"
+                    id="menu-3"
+                    data-toggle="dropdown"
+                    aria-haspopup="true"
+                    aria-expanded="false"
+                  >
+                    Coaching
+                  </a>
+
+                </li>
+
+
+                <li class="nav-item dropdown">
+                  <a
+                    class="nav-link dropdown-toggle"
+                    href="/events"
+                    id="menu-3"
+                    data-toggle="dropdown"
+                    aria-haspopup="true"
+                    aria-expanded="false"
+                  >
+                    Events
+                  </a>
+
+                  <ul
                   class="dropdown-menu dropdown-menu-arrow dropdown-menu-right dropdown-menu-xl-left "
                   aria-labelledby="menu-3"
                 >
                   <li>
-                    <a class="dropdown-item" href="blog.html">
-                      Blog
+                    <a class="dropdown-item" href="/events">
+                      Leadership Events
                     </a>
                   </li>
                   <li>
                     <a
                       class="dropdown-item"
-                      href="blog-author.html"
+                      href="/comingsoon"
                     >
-                      Blog Author
+                     Live Interview
                     </a>
                   </li>
-                  <li>
-                    <a
-                      class="dropdown-item"
-                      href="blog-category.html"
-                    >
-                      Blog Category
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      class="dropdown-item"
-                      href="blog-classic.html"
-                    >
-                      Blog Classic
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      class="dropdown-item"
-                      href="blog-single.html"
-                    >
-                      Blog Single
-                    </a>
-                  </li>
+
                 </ul>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="../docs/index.html"> Docs</a>
-              </li>
-            </ul>
-            <div class="header-btn ">
-              <a href="signup.html" class="btn btn-primary btn-sm"
-                >Sign up</a
-              >
+
+                </li>
+
+
+                <li class="nav-item dropdown">
+                  <a
+                    class="nav-link dropdown-toggle"
+                    href="#"
+                    id="menu-3"
+                    data-toggle="dropdown"
+                    aria-haspopup="true"
+                    aria-expanded="false"
+                  >
+                    Contact
+                  </a>
+
+                  <ul
+                  class="dropdown-menu dropdown-menu-arrow dropdown-menu-right dropdown-menu-xl-left "
+                  aria-labelledby="menu-3"
+                >
+                  <li>
+                    <a class="dropdown-item" href="/contactme">
+                     Customer Support
+                    </a>
+                  </li>
+
+
+                </ul>
+
+                </li>
+
+                <li class="nav-item dropdown">
+                  <a
+                    class="nav-link dropdown-toggle"
+                    href="#"
+                    id="menu-3"
+                    data-toggle="dropdown"
+                    aria-haspopup="true"
+                    aria-expanded="false"
+                  >
+                    Hire To Speak
+                  </a>
+                </li>
+
+                <li class="nav-item">
+                  <a
+                    class="nav-link "
+                    href="/blogs">
+                    Blog
+                  </a>
+
+                </li>
+
+              </ul>
+
             </div>
-          </div>
-        </nav>
+          </nav>
       </div>
       <!-- navigation close -->
     </div>
@@ -356,7 +279,7 @@
               <a
                 class="popup-youtube icon-shape rounded-circle btn-play icon-xl
                                        text-decoration-none mb-3"
-                href="https://www.youtube.com/watch?v=JRzWRZahOVU"
+                href="https://www.youtube.com/xthvt5vlMJc"
               >
                 <i class="fas fa-play"></i>
               </a>
@@ -376,32 +299,14 @@
       <div class="container">
         <div class="row">
           <div class="offset-lg-2 col-lg-8 col-md-12 col-12">
-            <h2 class="mb-4">About The Coach</h2>
+            <h2 class="mb-4">About Yusuf Kaka</h2>
             <p>
-              My name is Coach and I want to get real with you for a minute.
+                I’m an entrepreneur, personal development trainer,a life changing success coach and regular guy devoted to helping you make the world a better place by putting love and giving at the centre of growing your business.
+                I’ve always known I was meant to help other people. And always known I was meant a lot of evidence to support this belief.
+                But growing up, I was an average student
+                I was deathly  afraid of public speaking
             </p>
-            <p>
-              I’ve always dreamed big, wanted to make something of my life, and
-              deeply cared about people.
-            </p>
-            <p>
-              However, as a kid I suffered emotionally in a major way. I always
-              felt like the dumbest person in class.
-            </p>
-            <p>
-              I was tall, skinny, goofy looking, constantly made fun of and
-              never felt I had any real friends until later in high school.
-            </p>
-            <p>
-              Reading was a major challenge for me. I couldn’t comprehend and
-              read out loud what I saw in books. I was in the bottom of my class
-              academically, insecure, and looking for ways to fit in.
-            </p>
-            <p>
-              There were many moments I didn’t understand why I was born; I was
-              bullied, picked last in sports, and experienced constant tension
-              at home.
-            </p>
+
           </div>
         </div>
       </div>
@@ -448,34 +353,7 @@
       </div>
     </div>
     <!-- coach descriptions -->
-    <div class="py-lg-12 py-8 ">
-      <div class="container">
-        <div class="row">
-          <div class="offset-lg-2 col-lg-8 col-md-12 col-12">
-            <p>
-              My parents got divorced, my brother did jail time for 4 years, I
-              was sexually abused by a man when I was 5, and remember many times
-              saying to school teachers, principals and my parents that I wish I
-              were dead.
-            </p>
-            <p>
-              Our mind and emotions play tricks on us when we feel we have no
-              purpose or vision, community or contribution in life. And when I
-              started seeking information and inspiration on how to create a
-              better life for myself, that’s when everything started to change
-              for the better.
-            </p>
-            <p>
-              I put all of this negative and lonely energy into my dream of
-              being a professional athlete, and one day, an Olympian. I went on
-              to play Arena Football for one season, but a career ending injury
-              shattered my identity. I didn’t know who I was without sports.
-            </p>
-            <p>You are love. The Coach</p>
-          </div>
-        </div>
-      </div>
-    </div>
+
     <!-- podcast -->
     <div class="pt-0 pb-lg-14 pb-8">
       <div class="container">
@@ -546,37 +424,38 @@
             <div class="row">
                 <div class="col-lg-2 col-md-4 col-6">
                     <div class="mb-4">
-                        <h4 class="mb-4 text-white">About</h4>
+                        <h4 class="mb-4 text-white">Our Campanies</h4>
                         <ul class="list-unstyled list-group">
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Meet Coach</a></li>
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Press</a></li>
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Social Feed</a></li>
-                            <li class="list-group-item"><a href="#" class="list-group-item-link"> Help</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">Kaka Capital</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">Kaka Foundation</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">Kaka Advertising</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link"> Kaka On Demand </a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">Kaka University</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">Kaka Show</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="mb-4">
+                        <h4 class="mb-4 text-white ">About Yusuf kaka</h4>
+                        <ul class="list-unstyled list-group ">
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">About</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">Hire Kaka</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">Advertise</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">Careers</a></li>
+
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="mb-4">
+                        <h4 class="mb-4 text-white ">Support</h4>
+                        <ul class="list-unstyled list-group ">
                             <li class="list-group-item"><a href="#" class="list-group-item-link">Contact Us</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-2 col-md-4 col-6">
-                    <div class="mb-4">
-                        <h4 class="mb-4 text-white ">Blog</h4>
-                        <ul class="list-unstyled list-group ">
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Business Coaching</a></li>
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Relationship</a></li>
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Leadership</a></li>
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Life Coaching</a></li>
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Time Management</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-2 col-md-4 col-6">
-                    <div class="mb-4">
-                        <h4 class="mb-4 text-white ">Resources</h4>
-                        <ul class="list-unstyled list-group ">
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Online Courses</a></li>
-                            <li class="list-group-item"><a href="#" class="list-group-item-link"> Books Meditation</a></li>
-                            <li class="list-group-item"><a href="#" class="list-group-item-link"> Podcast</a></li>
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Albums</a></li>
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Download App</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">Shipping Policy</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link"> Privacy Policy</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">Refund Policy</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">Term Of Use</a></li>
                         </ul>
                     </div>
                 </div>
@@ -584,7 +463,7 @@
                     <div class="mb-4">
                         <h4 class="mb-4 text-white ">Follow Me</h4>
                         <ul class="list-unstyled list-group">
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Instagram</a></li>
+                            <li class="list-group-item"><a href="#" class="flaticon-instagram">Instagram</a></li>
                             <li class="list-group-item"><a href="#" class="list-group-item-link"> Facebook</a></li>
                             <li class="list-group-item"><a href="#" class="list-group-item-link"> LinkedIn</a></li>
                             <li class="list-group-item"><a href="#" class="list-group-item-link">YouTube</a></li>
@@ -609,7 +488,7 @@
                 <div class="col-md-12">
                     <div class="mt-8">
                         <ul class="list-inline">
-                            <li class="list-inline-item">© 2020 Coach, Inc.</li>
+                            <li class="list-inline-item">© 2020 Yusuf Kaka.</li>
                             <li class="list-inline-item"><a href="#" class="text-reset"> Privacy Policy </a></li>
                             <li class="list-inline-item"><a href="#" class="text-reset"> Terms</a></li>
                         </ul>
@@ -618,7 +497,6 @@
             </div>
         </div>
     </div>
-
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <!-- Libs JS -->

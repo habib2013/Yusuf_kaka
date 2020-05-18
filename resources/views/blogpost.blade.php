@@ -1638,7 +1638,7 @@ $("body").on("click",".update-blog",function(e){
     {
     	if($.isEmptyObject(response.responseJSON.error)){
 
-    		alert('BlogPost Deleted Successfully.');
+    		alert('Success 🎉.');
     	}else{
     		printErrorMsg(response.responseJSON.error);
     	}
