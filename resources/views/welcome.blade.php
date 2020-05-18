@@ -281,14 +281,9 @@
           <div class="offset-lg-2 col-lg-8 col-md-12 col-12">
             <div class=" py-12 py-lg-15 text-light text-center mr-5" >
               <h1 class="font-weight-bold text-white mb-3 display-4 pl-4" style="font-family: 'Cera Pro'">
-                Kaka  World
+              Welcome To Kaka  World
               </h1>
-              <p class="lead mb-0">
-                I’m an entrepreneur , <br>  personal development trainer dev, <br> a life changing success coach
-
-                <span class="text-warning">
-                    <span class="js-text-animation"></span>
-                  </span>
+           
             </div>
           </div>
         </div>
