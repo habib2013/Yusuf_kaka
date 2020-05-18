@@ -47,7 +47,7 @@ public function create_events(Request $request){
 $input['slug'] = time().rand(10,1000);
 $input['event_image'] = time().'.'.$request->event_image->extension();
 $request->event_image->move(public_path('images'),$input['event_image']);
-Event::create($input);
+Blog::create($input);
 return response()->json(['success'=>'done']);
         }
         else {
