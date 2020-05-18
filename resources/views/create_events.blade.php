@@ -204,7 +204,7 @@
 
 <br>
 
-<input type="file" name="images" id="blog_image" class="form-control"> <br>
+<input type="file" name="event_image" id="event_image" class="form-control"> <br>
 <input type="url" placeholder="Video_url (optional)" name="video_link" id="video_link" class="form-control"> <br>
 <input type="date"  name="date" id="date" class="form-control"> <br>
 <input type="text" placeholder="Address" name="address" id="address" class="form-control"> <br>

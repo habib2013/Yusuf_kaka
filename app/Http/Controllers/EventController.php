@@ -34,7 +34,7 @@ public function create_events(Request $request){
         $validator = Validator::make($request->all(),[
             'title' => 'required',
             'description' => 'required',
-            'images' => 'required|image|mimes:jpeg,png,jpg,gif,svg|max:2048',
+            'event_image' => 'required|image|mimes:jpeg,png,jpg,gif,svg|max:2048',
             'video_link' => 'required|url',
             'date' =>'required',
             'address' => 'required'
@@ -45,9 +45,9 @@ public function create_events(Request $request){
         if($validator->passes()){
             $input = $request->all();
 $input['slug'] = time().rand(10,1000);
-$input['blog_image'] = time().'.'.$request->blog_image->extension();
-$request->blog_image->move(public_path('images'),$input['blog_image']);
-
+$input['event_image'] = time().'.'.$request->event_image->extension();
+$request->event_image->move(public_path('images'),$input['event_image']);
+Event::create($input);
 return response()->json(['success'=>'done']);
         }
         else {
