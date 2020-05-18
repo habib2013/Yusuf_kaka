@@ -157,15 +157,7 @@ public function deleteblog(Request $request){
 
 }
 
-public function posts()
-{
-  // $popularpost = App\Blog::popular()->get();
-  // $user->follow($popularpost);
 
-    $posts = Blog::get();
-    $posts = Blog::paginate(6);
-    return view('blog', compact('posts'));
-}
 
 public function ajaxRequest(Request $request){
   $post = Blog::find($request->id);
@@ -173,10 +165,7 @@ public function ajaxRequest(Request $request){
   return response()->json(['success'=>$response]);
 }
 
-public function showsingle($slug){
-    $blog = Blog::where('slug','=',$slug)->firstorFail();
-    return view('blog_single',compact('blog'));
-}
+
 
 // Start about Controller
 
