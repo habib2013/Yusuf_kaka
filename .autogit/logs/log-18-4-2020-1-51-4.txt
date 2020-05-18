@@ -1,0 +1,23 @@
+-------------------- Auto-Git Log --------------------
+		Mon May 18 2020 01:51:04 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* app/Event.php
+* app/Http/Controllers/Auth/RegisterController.php
+* app/Http/Controllers/EventController.php
+* app/User.php
+* database/migrations/2020_05_17_220157_create_events_table.php
+* resources/views/create_events.blade.php
+
+
+Created files:
+* .autogit/logs/log-18-4-2020-1-31-49.txt
+* public/images/1589761946.jpeg
+* public/images/1589762131.jpeg
+
+
+Deleted files:
+
+
+Renamed files:
