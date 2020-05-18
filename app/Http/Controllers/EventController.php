@@ -56,7 +56,7 @@ Event::create(array_merge($input,$imageArray ?? []));
 return response()->json(['success'=>'done']);
         }
         else {
-
+            return response()->json(['error'=>$validator->errors()->all()]);
         }
 
     }
