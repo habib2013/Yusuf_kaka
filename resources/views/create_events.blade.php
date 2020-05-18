@@ -214,7 +214,7 @@
         <ul></ul>
     </div>
 <br>
-<button align="center" class="uploadcours btn btn-success">UPLOAD NOW!!</button>
+<button align="center" class="uploadcourse btn btn-success">UPLOAD NOW!!</button>
 <input type="hidden" id="blog__id" name="blog_id" value="0">
 </form>
             </div>
@@ -1440,7 +1440,7 @@ Photography
 
 
               <div class="card-body">
-
+@foreach($events as $event)
                 <!-- List -->
                 <ul class="list-group list-group-lg list-group-flush list my-n4">
                   <li class="list-group-item px-0">
@@ -1450,7 +1450,7 @@ Photography
 
                         <!-- Avatar -->
                         <a href="#!" class="avatar avatar-lg">
-                          <img src="images/" alt="..." class="avatar-img rounded">
+                        <img src="images/{{$event->event_image}}" alt="..." class="avatar-img rounded">
                         </a>
 
                       </div>
@@ -1458,7 +1458,7 @@ Photography
 
                         <!-- Title -->
                         <h4 class="card-title mb-1 name">
-                          <a href="#!"></a>
+                          <a href="#!">{{$event->title}}</a>
                         </h4>
 
                         <!-- Text -->
@@ -1466,7 +1466,7 @@ Photography
 
                         <!-- Time -->
                         <p class="card-text small text-muted">
-                          Uploaded by } on <time datetime="2018-01-03"></time>
+                          Uploaded by  {{$event->user->username}} on <time datetime="2018-01-03">{{date('M j, Y',strtotime($event->created_at))}}</time>
                         </p>
 
                       </div>
@@ -1484,13 +1484,13 @@ Photography
                           </a>
                           <div class="dropdown-menu dropdown-menu-right">
                           <a href="#UpdatemodalMembers" class="dropdown-item" data-toggle="modal">
-                          <button class="btn btn-success open-modal"  value="myid"> <i class="fe fe-eye"></i>
+                          <button class="btn btn-success open-modal"  value="{{$event->id}}"> <i class="fe fe-eye"></i>
                             </button>
                 </a>
                 <a href="#!" class="dropdown-item">
                             <form action="/deleteblog" method="post" enctype="multipart/form-data">
                             @csrf
-                            <input type="hidden" name="delete_id" value="myid" >
+                            <input type="hidden" name="delete_id" value="{{$event->id}}" >
                             <button class="btn btn-danger delete-blog" type="submit"  > <i class="fe fe-trash"></i>
                             </button>
                             </form>
@@ -1508,7 +1508,7 @@ Photography
                 </ul>
 
               </div>
-
+@endforeach
 
             </div>
 

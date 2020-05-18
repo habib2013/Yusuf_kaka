@@ -8,4 +8,7 @@ class Event extends Model
 {
 
     protected $fillable =['title','description','event_image','video_link','date','address','user_id','slug'];
+    public function user(){
+        return $this->belongsTo(User::class);
+     }     
 }

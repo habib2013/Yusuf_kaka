@@ -52,6 +52,9 @@ class User extends Authenticatable
     public function profile(){
         return $this->hasOne(Profile::class);
     }
+    public function event(){
+        return $this->hasOne(Event::class);
+    }
     public function blog(){
         return $this->hasMany(Blog::class)->orderBy('created_at','DESC');
     }

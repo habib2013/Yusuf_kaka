@@ -25,7 +25,9 @@ class EventController extends Controller
 }
 
     public function post_events(){
-        return view('create_events');
+        $allevents = new Event();
+        $events = $allevents::all();
+        return view('create_events',compact('events'));
     }
 
 
