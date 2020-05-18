@@ -46,6 +46,7 @@ public function create_events(Request $request){
             $input['images'] = time().'.'.$request->images->extension();
             $request->images->move(public_path('images'),$input['images']);
 
+            
             Event::create($input);
 
             //session()->set('success','Post created successfully.');
