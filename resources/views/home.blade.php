@@ -492,7 +492,7 @@
               <a href="pages/program-single.html">
                 <img
                   class="rounded img-fluid"
-                  src="images/{{$home_blog->blog_image}}"
+                  src="myassets/images/{{$home_blog->blog_image}}"
                   alt=""
                 />
               </a>
@@ -505,7 +505,7 @@
                 <p>
                     {{ substr(strip_tags($home_blog->body), 0, 200) }}  {{ strlen(strip_tags($home_blog->body)) > 50 ? "..." : "" }}
                 </p>
-                <a href="pages/program-single.html" class="btn-primary-link"
+            <a href="/showsingle/{{$home_blog->slug}}" class="btn-primary-link"
                   >Read more</a
                 >
               </div>
@@ -703,37 +703,38 @@
             <div class="row">
                 <div class="col-lg-2 col-md-4 col-6">
                     <div class="mb-4">
-                        <h4 class="mb-4 text-white">About</h4>
+                        <h4 class="mb-4 text-white">Our Campanies</h4>
                         <ul class="list-unstyled list-group">
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Meet Coach</a></li>
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Press</a></li>
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Social Feed</a></li>
-                            <li class="list-group-item"><a href="#" class="list-group-item-link"> Help</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">Kaka Capital</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">Kaka Foundation</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">Kaka Advertising</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link"> Kaka On Demand </a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">Kaka University</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">Kaka Show</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="mb-4">
+                        <h4 class="mb-4 text-white ">About Yusuf kaka</h4>
+                        <ul class="list-unstyled list-group ">
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">About</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">Hire Kaka</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">Advertise</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">Careers</a></li>
+
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="mb-4">
+                        <h4 class="mb-4 text-white ">Support</h4>
+                        <ul class="list-unstyled list-group ">
                             <li class="list-group-item"><a href="#" class="list-group-item-link">Contact Us</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-2 col-md-4 col-6">
-                    <div class="mb-4">
-                        <h4 class="mb-4 text-white ">Blog</h4>
-                        <ul class="list-unstyled list-group ">
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Business Coaching</a></li>
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Relationship</a></li>
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Leadership</a></li>
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Life Coaching</a></li>
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Time Management</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-2 col-md-4 col-6">
-                    <div class="mb-4">
-                        <h4 class="mb-4 text-white ">Resources</h4>
-                        <ul class="list-unstyled list-group ">
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Online Courses</a></li>
-                            <li class="list-group-item"><a href="#" class="list-group-item-link"> Books Meditation</a></li>
-                            <li class="list-group-item"><a href="#" class="list-group-item-link"> Podcast</a></li>
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Albums</a></li>
-                            <li class="list-group-item"><a href="#" class="list-group-item-link">Download App</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">Shipping Policy</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link"> Privacy Policy</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">Refund Policy</a></li>
+                            <li class="list-group-item"><a href="#" class="list-group-item-link">Term Of Use</a></li>
                         </ul>
                     </div>
                 </div>
@@ -766,7 +767,7 @@
                 <div class="col-md-12">
                     <div class="mt-8">
                         <ul class="list-inline">
-                            <li class="list-inline-item">© 2020 Coach, Inc.</li>
+                            <li class="list-inline-item">© 2020 Yusuf Kaka.</li>
                             <li class="list-inline-item"><a href="#" class="text-reset"> Privacy Policy </a></li>
                             <li class="list-inline-item"><a href="#" class="text-reset"> Terms</a></li>
                         </ul>
