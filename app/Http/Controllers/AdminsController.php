@@ -106,6 +106,10 @@ public function updateblog(Request $request){
      $post_type = $input['upost_type'];
   $id = $input['blog_id'];
 
+  $imagepath = request('coverimage')->store('profiles','public');
+  $image = Image::make(public_path("storage/{$imagepath}"))->resize(200,250);
+ $image->save();
+
 
  $blog_image = $input['ublog_image'] ?? '';
                         if($input['ublog_image'] != ''){
