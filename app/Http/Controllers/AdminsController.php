@@ -74,8 +74,8 @@ public function createblog(Request $request){
             if($validator->passes()){
 $input = $request->all();
 $input['slug'] = time().rand(10,1000);
-$input['blog_image'] = time().'.'.$request->blog_image->extension();
-$request->blog_image->move(public_path('/myassets/images'),$input['blog_image']);
+// $input['blog_image'] = time().'.'.$request->blog_image->extension();
+// $request->blog_image->move(public_path('/myassets/images'),$input['blog_image']);
 Blog::create($input);
 
 //session()->set('success','Post created successfully.');
@@ -106,16 +106,12 @@ public function updateblog(Request $request){
      $post_type = $input['upost_type'];
   $id = $input['blog_id'];
 
-  $imagepath = request('coverimage')->store('profiles','public');
-  $image = Image::make(public_path("storage/{$imagepath}"))->resize(200,250);
- $image->save();
-
 
  $blog_image = $input['ublog_image'] ?? '';
                         if($input['ublog_image'] != ''){
                                 $blog_image = $input['ublog_image'];
                                 $blog_image = time().'.'.$request->ublog_image->extension();
-  $request->ublog_image->move(public_path('/myassets/images'), $blog_image);
+  $request->ublog_image->move(public_path('images'), $blog_image);
   $result = DB::update(DB::raw("update blogs set title=:title,body=:body,blog_image=:blog_image,post_type=:post_type where id=:id"),array('title'=>$title,'body'=>$body,'id'=>$id,'blog_image'=>$blog_image,'post_type'=>$post_type));
 
   if($result){
