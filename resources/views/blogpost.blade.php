@@ -1455,7 +1455,7 @@ Photography
 
                         <!-- Avatar -->
                         <a href="#!" class="avatar avatar-lg">
-                          <img src="images/{{$blade_blog->blog_image}}" alt="..." class="avatar-img rounded">
+                          <img src="/storage/{{$blade_blog->blog_image}}" alt="..." class="avatar-img rounded">
                         </a>
 
                       </div>

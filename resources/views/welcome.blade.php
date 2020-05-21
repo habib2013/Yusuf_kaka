@@ -273,7 +273,7 @@
     <!-- hero section -->
     <div
       class="bg-shape"
-      style=" background:linear-gradient(180deg, rgba(30, 24, 53, 0.4) 0%, rgba(30, 24, 53, 0.4) 90.16%), url(myassets/images/home-slide.png); background-size: cover; background-repeat: no-repeat; background-position-x: center;
+      style=" background:linear-gradient(180deg, rgba(30, 24, 53, 0.4) 0%, rgba(30, 24, 53, 0.4) 90.16%), url(myassets/images/home-slider.png); background-size: cover; background-repeat: no-repeat; background-position-x: center;
      "
     >
       <div class="container-fluid">
@@ -492,7 +492,7 @@
               <a href="pages/program-single.html">
                 <img
                   class="rounded img-fluid"
-                  src="myassets/images/{{$home_blog->blog_image}}"
+                  src="/storage/{{$home_blog->blog_image}}"
                   alt=""
                 />
               </a>

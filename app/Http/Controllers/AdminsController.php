@@ -18,6 +18,7 @@ use Validator;
 use App\AjaxImage;
 
 use DB;
+
 class AdminsController extends Controller
 {
     public function __construct(){
@@ -76,6 +77,12 @@ $input = $request->all();
 $input['slug'] = time().rand(10,1000);
 // $input['blog_image'] = time().'.'.$request->blog_image->extension();
 // $request->blog_image->move(public_path('/myassets/images'),$input['blog_image']);
+
+$imagepath = request('blog_image')->store('blogs','public');
+$image = Image::make(public_path("storage/{$imagepath}"))->resize(550,400);
+$image->save();
+
+$input['blog_image'] = $imagepath;
 Blog::create($input);
 
 //session()->set('success','Post created successfully.');
