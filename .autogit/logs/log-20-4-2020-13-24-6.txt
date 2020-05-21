@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+		Wed May 20 2020 13:24:06 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* app/Http/Controllers/AdminsController.php
+* resources/views/blog.blade.php
+* resources/views/blog_single.blade.php
+* resources/views/home.blade.php
+* resources/views/welcome.blade.php
+
+
+Created files:
+* .autogit/logs/log-20-4-2020-12-26-28.txt
+* public/myassets/images/1589976787.png
+
+
+Deleted files:
+
+
+Renamed files:
