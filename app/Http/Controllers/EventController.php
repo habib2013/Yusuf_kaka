@@ -47,8 +47,16 @@ public function create_events(Request $request){
         if($validator->passes()){
             $input = $request->all();
 $input['slug'] = time().rand(10,1000);
-$input['event_image'] = time().'.'.$request->event_image->extension();
-$request->event_image->move(public_path('images'),$input['event_image']);
+// $input['event_image'] = time().'.'.$request->event_image->extension();
+// $request->event_image->move(public_path('images'),$input['event_image']);
+
+
+$imagepath = request('event_image')->store('events','public');
+$image = Image::make(public_path("storage/{$imagepath}"))->resize(550,400);
+$image->save();
+
+$input['event_image'] = $imagepath;
+
 
 try {
     Event::create($input);
