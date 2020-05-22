@@ -330,7 +330,7 @@
               <div class="mb-4">
                 <a href="/showsingle/{{$post->slug}}"
                   ><img
-                    src="/storage/{{$post->blog_image}}"
+                    src="/storage/blogs/{{$post->blog_image}}"
                     alt="/showsingle/{{$post->slug}}"
                     class="img-fluid rounded"
                 /></a>

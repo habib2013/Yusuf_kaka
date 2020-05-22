@@ -1450,7 +1450,7 @@ Photography
 
                         <!-- Avatar -->
                         <a href="#!" class="avatar avatar-lg">
-                        <img src="images/{{$event->event_image}}" alt="..." class="avatar-img rounded">
+                        <img src="/storage/events/{{$event->event_image}}" alt="..." class="avatar-img rounded">
                         </a>
 
                       </div>

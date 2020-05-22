@@ -492,7 +492,7 @@
               <a href="pages/program-single.html">
                 <img
                   class="rounded img-fluid"
-                  src="/storage/{{$home_blog->blog_image}}"
+                  src="/storage/blogs/{{$home_blog->blog_image}}"
                   alt=""
                 />
               </a>

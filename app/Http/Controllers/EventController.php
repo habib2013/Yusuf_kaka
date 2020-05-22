@@ -51,11 +51,18 @@ $input['slug'] = time().rand(10,1000);
 // $request->event_image->move(public_path('images'),$input['event_image']);
 
 
-$imagepath = request('event_image')->store('events','public');
-$image = Image::make(public_path("storage/{$imagepath}"))->resize(550,400);
-$image->save();
+// $imagepath = request('event_image')->store('events','public');
+// $image = Image::make(public_path("storage/{$imagepath}"))->resize(550,400);
+// $image->save();
 
-$input['event_image'] = $imagepath;
+// $input['event_image'] = $imagepath;
+
+$filenameWithExt = $request->file('event_image')->getClientOriginalName();
+$filename = pathInfo($filenameWithExt,PATHINFO_FILENAME);
+$extension = $request->file('event_image')->getClientOriginalExtension();
+$filenameToStore = $filename.'_'.time().'.'.$extension;
+$path = $request->file('event_image')->storeAs('public/events',$filenameToStore);
+$input['event_image'] = $filenameToStore;
 
 
 try {

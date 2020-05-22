@@ -78,11 +78,18 @@ $input['slug'] = time().rand(10,1000);
 // $input['blog_image'] = time().'.'.$request->blog_image->extension();
 // $request->blog_image->move(public_path('/myassets/images'),$input['blog_image']);
 
-$imagepath = request('blog_image')->store('blogs','public');
-$image = Image::make(public_path("storage/{$imagepath}"))->resize(550,400);
-$image->save();
+// $imagepath = request('blog_image')->store('blogs','public');
+// $image = Image::make(public_path("storage/{$imagepath}"))->resize(550,400);
+// $image->save();
 
-$input['blog_image'] = $imagepath;
+// $input['blog_image'] = $imagepath;
+
+$filenameWithExt = $request->file('blog_image')->getClientOriginalName();
+$filename = pathInfo($filenameWithExt,PATHINFO_FILENAME);
+$extension = $request->file('blog_image')->getClientOriginalExtension();
+$filenameToStore = $filename.'_'.time().'.'.$extension;
+$path = $request->file('blog_image')->storeAs('public/blogs',$filenameToStore);
+$input['blog_image'] = $filenameToStore;
 Blog::create($input);
 
 //session()->set('success','Post created successfully.');
