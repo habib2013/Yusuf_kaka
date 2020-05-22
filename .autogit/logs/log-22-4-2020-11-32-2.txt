@@ -1,0 +1,22 @@
+-------------------- Auto-Git Log --------------------
+		Fri May 22 2020 11:32:02 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* app/Http/Controllers/AdminsController.php
+* app/Http/Controllers/EventController.php
+* resources/views/blog.blade.php
+* resources/views/blogpost.blade.php
+* resources/views/create_events.blade.php
+* resources/views/home.blade.php
+* resources/views/welcome.blade.php
+
+
+Created files:
+* .autogit/logs/log-22-4-2020-0-23-47.txt
+
+
+Deleted files:
+
+
+Renamed files:
