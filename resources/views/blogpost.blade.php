@@ -1350,12 +1350,12 @@ Photography
                 <!-- Nav -->
                 <ul class="nav nav-tabs nav-overflow header-tabs">
                     <li class="nav-item">
-                      <a href="/blogpost" class="nav-link ">
+                      <a href="/blogpost" class="nav-link active">
                         Blog
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a href="/aboutkaka" class="nav-link active">
+                      <a href="/aboutkaka" class="nav-link">
                         About Kaka
                       </a>
                     </li>

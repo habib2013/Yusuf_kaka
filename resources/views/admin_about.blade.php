@@ -1457,9 +1457,7 @@ Photography
                       <div class="col-auto">
 
                         <!-- Avatar -->
-                        <a href="#!" class="avatar avatar-lg">
-                          <img src="images/" alt="..." class="avatar-img rounded">
-                        </a>
+                    
 
                       </div>
                       <div class="col ml-n2">
