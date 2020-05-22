@@ -123,9 +123,18 @@ public function updateblog(Request $request){
 
  $blog_image = $input['ublog_image'] ?? '';
                         if($input['ublog_image'] != ''){
-                                $blog_image = $input['ublog_image'];
-                                $blog_image = time().'.'.$request->ublog_image->extension();
-  $request->ublog_image->move(public_path('images'), $blog_image);
+//                                 $blog_image = $input['ublog_image'];
+//                                 $blog_image = time().'.'.$request->ublog_image->extension();
+//   $request->ublog_image->move(public_path('images'), $blog_image);
+
+$filenameWithExt = $request->file('ublog_image')->getClientOriginalName();
+$filename = pathInfo($filenameWithExt,PATHINFO_FILENAME);
+$extension = $request->file('ublog_image')->getClientOriginalExtension();
+$filenameToStore = $filename.'_'.time().'.'.$extension;
+$path = $request->file('ublog_image')->storeAs('public/blogs',$filenameToStore);
+$blog_image = $filenameToStore;
+
+
   $result = DB::update(DB::raw("update blogs set title=:title,body=:body,blog_image=:blog_image,post_type=:post_type where id=:id"),array('title'=>$title,'body'=>$body,'id'=>$id,'blog_image'=>$blog_image,'post_type'=>$post_type));
 
   if($result){

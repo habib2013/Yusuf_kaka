@@ -304,7 +304,7 @@
               <a href="event-single.html"
                 ><img
                   class="rounded img-fluid"
-            src="/storage/{{$event->event_image}}"
+            src="/storage/events/{{$event->event_image}}"
                   alt=""
                 />
               </a>

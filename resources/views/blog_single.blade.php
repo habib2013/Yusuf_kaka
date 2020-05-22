@@ -312,7 +312,7 @@
             <h3 class="mb-3">{{$blog->title}}</h3>
 
               <img
-                src="/storage/{{$blog->blog_image}}"
+                src="/storage/blogs/{{$blog->blog_image}}"
                 alt=""
                 class="img-fluid rounded mb-2 mt-3 w-100"
               />
