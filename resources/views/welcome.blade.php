@@ -13,6 +13,21 @@
     <link rel="stylesheet" href="myassets/css/style.css">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
+<style>
+.all-leg {  
+    background:linear-gradient(180deg, rgba(30, 24, 53, 0.4) 0%, rgba(30, 24, 53, 0.4) 90.16%),url(myassets/images/home-slider.png); 
+    background-size: cover;
+     background-repeat: no-repeat; 
+     background-position-x: center;     
+}
+.spadin {
+    font-family:'Cera Pro';
+    text-stroke:2px gold ;
+    text-shadow: 2px 3px 3px #161414;
+}
+
+</style>
+
   </head>
 
   <body style="font-family: 'Cera Pro New'">
@@ -272,16 +287,13 @@
 
     <!-- hero section -->
     <div
-      class="bg-shape"
-      style=" background:linear-gradient(180deg, rgba(30, 24, 53, 0.4) 0%, rgba(30, 24, 53, 0.4) 90.16%), url(myassets/images/home-slider.png); background-size: cover; background-repeat: no-repeat; background-position-x: center;
-     "
-    >
+      class="bg-shape all-leg">
       <div class="container-fluid">
         <div class="row">
-          <div class="offset-lg-2 col-lg-8 col-md-12 col-12">
-            <div class=" py-12 py-lg-15 text-light text-center mr-5" style="border: 1px solid gold" >
-              <h1 class="font-weight-bold text-white mb-3 display-4 pl-4" style="font-family: 'Cera Pro';">
-                Unlock Your Full Potential in Life & Business
+          <div class="  col-lg-8 col-md-12 col-12">
+            <div class=" py-12 py-lg-15 text-light text-center mr-5" >
+              <h1 class="font-weight-bold text-white mb-3 display-4 spadin" align="center">
+                Unlock Your Full <br> <span style="font-size:48px" class="elegs">Potential  in Life  & Business</span> 
               </h1>
 
             </div>

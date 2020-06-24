@@ -141,7 +141,7 @@
         <div class="col-12 col-md-7 col-lg-6 col-xl-8 d-none d-lg-block">
           
           <!-- Image -->
-          <div class="bg-cover vh-100 mt-n1 mr-n3" style="background-image: url(images/rename_bg.png);"></div>
+          <div class="bg-cover vh-100 mt-n1 mr-n3" style="background-image: url(images/home-slider-edited.png);"></div>
 
         </div>
       </div> <!-- / .row -->
