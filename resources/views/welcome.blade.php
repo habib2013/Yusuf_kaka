@@ -279,8 +279,8 @@
       <div class="container-fluid">
         <div class="row">
           <div class="offset-lg-2 col-lg-8 col-md-12 col-12">
-            <div class=" py-12 py-lg-15 text-light text-center mr-5" >
-              <h1 class="font-weight-bold text-white mb-3 display-4 pl-4" style="font-family: 'Cera Pro'">
+            <div class=" py-12 py-lg-15 text-light text-center mr-5" style="border: 1px solid gold" >
+              <h1 class="font-weight-bold text-white mb-3 display-4 pl-4" style="font-family: 'Cera Pro';">
                 Unlock Your Full Potential in Life & Business
               </h1>
 
