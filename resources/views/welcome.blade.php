@@ -311,7 +311,6 @@
               <h2 class="mb-3">A Boy Before Coach 🎡</h2>
               <p class="lead">
                 I am a regular guy devoted to helping you make the world a better place by putting love and giving at the centre of growing your business.
-
               </p>
             </div>
           </div>
