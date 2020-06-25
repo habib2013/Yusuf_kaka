@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Wed Jun 24 2020 21:02:08 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-24-5-2020-12-32-7.txt
+* public/images/blurrybg.png
+* public/images/home-slider-edited.png
+* public/myassets/images/home-slider-2.png
+* public/myassets/images/home-slider-edited.png
+
+
+Deleted files:
+
+
+Renamed files:
