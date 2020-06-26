@@ -32,7 +32,7 @@ public function submitcomment(Request $request)
 {
  $validator = Validator::make($request->all(),[
     'comment' => '',
-    'userid' => '',
+    'username' => '',
     'postid' => '',
 
  ]);

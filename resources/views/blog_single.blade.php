@@ -382,10 +382,11 @@
                   </div>
                   <div class="card-body">
 
-             <form id="login-form" method="post" onsubmit="return SubmitComment()" role="form" style="display: block;">
+             <form  method="post" onsubmit="return SubmitComment()" role="form" style="display: block;">
                 @csrf
-                    <input type="text" name="postid" value="4" id="postid">
-                    <input type="text" name="userid" value="4" id="userid">
+             <input type="hidden" name="postid" value="{{$blog->id}}" id="postid">
+             <label for="messages">username</label>
+             <input type="text" name="username" class="form-control pl-3"  id="username">
 
                       <div class="form-group col-12">
                         <label for="messages">Comment</label>
@@ -529,13 +530,13 @@
         {
             var token    = $("input[name=_token]").val();
             var postid    = $("input[name=postid]").val();
-            var userid    = $("input[name=userid]").val();
+            var username    = $("input[name=username]").val();
             var comment    = $("textarea[name=comment]").val();
 
             var data = {
                 _token:token,
                 postid:postid,
-                userid:userid,
+                username:username,
                 comment:comment,
             };
             // Ajax Post
@@ -567,23 +568,7 @@
 
     );
     }
-    if(data.status == 'error') {
 
-    swal({
-        title: data.status,
-        text: data.message,
-        type: "error",
-        dangerMode: true,
-        showCancelButton: false,
-        dangerMode: false,
-        confirmButtonText: 'ERROR!',
-    }
-    );
-
-    }
-
-                    $("#login_button").removeAttr("disabled");
-                        $("#login_button").html('LOGIN');
 
                 },
 

@@ -40,6 +40,7 @@ class DummyPagesController extends Controller
     }
     public function showsingle($slug){
         $blog = Blog::where('slug','=',$slug)->firstorFail();
+        
         return view('blog_single',compact('blog'));
     }
 

@@ -295,7 +295,7 @@
           <div class="  col-lg-8 col-md-12 col-12">
             <div class=" py-12 py-lg-15 text-light text-center mr-5" >
               <h1 class="font-weight-bold text-white mb-3 display-4 spadin" align="center">
-                Unlock Your Full <br> <span style="font-size:44px" class="elegs">Potential  in Life  & Business</span>
+               UNLOCK YOUR FULL <br> <span style="font-size:44px" class="elegs">POTENTIAL IN LIFE & BUSINESS</span>
               </h1>
 
             </div>
@@ -415,14 +415,6 @@
     </div>
     <!-- course section -->
 
-    <div id="social-links">
-        <ul>
-            <li><a href="https://www.facebook.com/sharer/sharer.php?u=http://jorenvanhocht.be" class="social-button " id=""><span class="fa fa-facebook-official"></span></a></li>
-            <li><a href="https://twitter.com/intent/tweet?text=my share text&amp;url=http://jorenvanhocht.be" class="social-button " id=""><span class="fa fa-twitter"></span></a></li>
-            <li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://jorenvanhocht.be&amp;title=my share text&amp;summary=dit is de linkedin summary" class="social-button " id=""><span class="fa fa-linkedin"></span></a></li>
-            <li><a href="https://wa.me/?text=http://jorenvanhocht.be" class="social-button " id=""><span class="fa fa-whatsapp"></span></a></li>
-        </ul>
-    </div>
 
 
     <div class="pt-12 pb-12 bg-primary">
