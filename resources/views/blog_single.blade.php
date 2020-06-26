@@ -10,6 +10,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Theme CSS -->
     <link rel="stylesheet" href="../myassets/css/theme.min.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>
   </head>
 
   <body>
@@ -379,21 +381,21 @@
                     <h4 class="mb-0 h5">Leave A Comment</h4>
                   </div>
                   <div class="card-body">
-                    <form class="form-row" onsubmit="return SubmitComment()" enctype="multipart/form-data" >
-                        @csrf
+
+             <form id="login-form" method="post" onsubmit="return SubmitComment()" role="form" style="display: block;">
+                @csrf
                     <input type="text" name="postid" value="4" id="postid">
                     <input type="text" name="userid" value="4" id="userid">
 
                       <div class="form-group col-12">
                         <label for="messages">Comment</label>
                         <textarea
-                          name="messages"
+                          name="comment"
                           rows="4"
                           class="form-control"
-                          id="messages"
+                          id="comment"
 
                         >
-                        Your comment here
                         </textarea>
                       </div>
                       <div class="col-12">
@@ -522,34 +524,76 @@
 
 
     <script type="text/javascript">
-        function SubmitComment(){
-        var messages = $('#messages').val();
-        // var name = $('#name').val();
-        var userid =$('#userid').val();
-        var postid = $('#postid').val();
-        token = $("input[name = token]").val();
-   var data = {
-    messages : messages,
-    userid:userid,
-    postid:postid,
-    _token : token
+
+        function SubmitComment()
+        {
+            var token    = $("input[name=_token]").val();
+            var postid    = $("input[name=postid]").val();
+            var userid    = $("input[name=userid]").val();
+            var comment    = $("textarea[name=comment]").val();
+
+            var data = {
+                _token:token,
+                postid:postid,
+                userid:userid,
+                comment:comment,
+            };
+            // Ajax Post
+            $.ajax({
+                type: "post",
+                url: "/submitcomment",
+                data: data,
+                cache: false,
+                beforeSend:function(){
+                //   $("#register_button").attr("disabled", "disabled");
+                //         $("#register_button").html('Proccessing . . <i class="fas fa-spinner fa-spin text-white"></i>')
+
+                },
+
+                success: function (data)
+                {
+                    console.log('Comment request sent !');
+    if(data.status == 'success'){
+    swal({
+        title: data.status,
+        text: data.message,
+        type: "success",
+        showCancelButton: false,
+        dangerMode: false,
+        cancelButtonClass: '#4FE870',
+            confirmButtonColor: '#4FE870',
+            confirmButtonText: 'OKAY!',
     }
 
-    $.ajax({
-        type: "post",
-        data: data,
-        url : "/submitcomment",
-        cache:false,
-        beforeSend:function(){
+    );
+    }
+    if(data.status == 'error') {
 
-        },
-        success:function(data){
+    swal({
+        title: data.status,
+        text: data.message,
+        type: "error",
+        dangerMode: true,
+        showCancelButton: false,
+        dangerMode: false,
+        confirmButtonText: 'ERROR!',
+    }
+    );
 
+    }
+
+                    $("#login_button").removeAttr("disabled");
+                        $("#login_button").html('LOGIN');
+
+                },
+
+                error: function (data){
+                  console.log('Fail to run Login..');
+                    // alert("Fail to run Login..");
+
+
+                }
+            });
+            return false;
         }
-
-    })
-
-        }
-
-        </script>
-
+    </script>

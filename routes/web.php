@@ -34,7 +34,6 @@ Route::get('/about','DummyPagesController@about_kaka');
 Route::get('/contactme','DummyPagesController@contactme');
 Route::get('/comingsoon','DummyPagesController@comingsoon');
 Route::get('/events','DummyPagesController@events');
-Route::post('/submitcomment','DummyPagesController@submitcomment');
 
 Route::get('/blogs', 'DummyPagesController@posts')->name('posts');
 Route::post('ajaxRequest', 'AdminsController@ajaxRequest')->name('ajaxRequest');
@@ -50,6 +49,7 @@ Route::post('/create_events', 'EventController@create_events')->name('create_eve
 Route::post('/createblog', 'AdminsController@createblog')->name('createblog');
 Route::post('/updateblog', 'AdminsController@updateblog')->name('updateblog');
 Route::post('/deleteblog', 'AdminsController@deleteblog')->name('deleteblog');
+Route::post('/submitcomment','AdminsController@submitcomment');
 
 // Route::post('/create_events', 'AdminsController@create_events')->name('create_events');
 

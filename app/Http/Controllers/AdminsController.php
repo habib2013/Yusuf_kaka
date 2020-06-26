@@ -28,6 +28,26 @@ public function aboutkaka(){
   return view('admin_about');
 }
 
+public function submitcomment(Request $request)
+{
+ $validator = Validator::make($request->all(),[
+    'comment' => '',
+    'userid' => '',
+    'postid' => '',
+
+ ]);
+
+if ($validator->passes()) {
+$input = $request->all();
+Comment::create($input);
+
+return response()->json(['status' => 'success']);
+}
+else{
+    return response()->json(['error' => $validator->errors()->all()]);
+}
+}
+
 
 public function makeComment(Request $request){
   if ($request->ajax()){
