@@ -268,24 +268,31 @@
     </div>
 
     <!-- hero section -->
-    <div
-      class="bg-shape"
-      style="background:linear-gradient(180deg, rgba(30, 24, 53, 0.4) 0%, rgba(30, 24, 53, 0.4) 90.16%), url(myassets//images/pageheader-1.jpg); background-size: cover; background-repeat: no-repeat;
-     background-position: center;"
-    >
-      <div class="container">
+     <div class="bg-shape bg-dark" style="height: 70vh">
+    <div class="container">
         <div class="row">
-          <div class="offset-lg-2 col-lg-8 col-md-12 col-12">
-            <div class="py-lg-15 py-12 text-center">
-              <h1 class="font-weight-bold text-white mb-3 display-4">
-                Latest Articles
-              </h1>
+          <div class="offset-xl-2 col-xl-8 col-lg-12 col-md-12 col-12">
+            <div class="pt-lg-14 pb-lg-8 py-12 text-center">
+              <img
+                src="images/Rectangle 73.png"
+                alt=""
+                class="rounded-circle avatar-xxl mx-auto mb-4"
+              />
+              <h1 class="display-4 text-white">Kaka Yusuf</h1>
+              <p class="lead text-light">
 
+              </p>
+
+              <p class="text-light">
+                <a href="#" class="text-light mr-4">Back to all Category</a>
+                {{-- <span>9 Articles to read</span> --}}
+              </p>
             </div>
           </div>
         </div>
       </div>
     </div>
+</div>
     <!-- blog post -->
     <div class="pt-12 pb-12">
       <div class="container">
@@ -333,6 +340,7 @@
                     src="/storage/blogs/{{$post->blog_image}}"
                     alt="/showsingle/{{$post->slug}}"
                     class="img-fluid rounded"
+                    style="min-height: 250px"
                 /></a>
               </div>
               <div>

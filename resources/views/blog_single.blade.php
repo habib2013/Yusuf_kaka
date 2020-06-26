@@ -4,7 +4,7 @@
 
 <!-- Mirrored from easetemplate.com/html/coach/pages/blog-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 16 May 2020 13:41:22 GMT -->
 <head>
-    <title>Coach - Blog Single Page</title>
+<title>{{$blog->title}}</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -325,9 +325,87 @@
             </div>
 
             <!-- author post -->
-
+            <div class="mb-4">
+                <div class="card bg-transparent">
+                  <div class="card-header bg-transparent p-3">
+                    <h4 class="mb-0 h5">2 Comments</h4>
+                  </div>
+                  <div class="card-body">
+                    <div class="media">
+                      <img
+                        src="../assets/images/avatar-2.png"
+                        alt=""
+                        class="avatar-lg rounded-circle mr-3"
+                      />
+                      <div class="media-body">
+                        <div class="mb-2">
+                          <h5 class="h6 mb-0">Aubrey Wilson</h5>
+                          <small>December 31, 2020 12:47 PM</small>
+                        </div>
+                        <p>Donec ullamcorper maximus ie aliquam vmentume.</p>
+                        <a href="#" class="btn-primary-link">Reply</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="card-body border-top">
+                    <div class="media">
+                      <img
+                        src="../assets/images/avatar-3.png"
+                        alt=""
+                        class="avatar-lg rounded-circle mr-3"
+                      />
+                      <div class="media-body">
+                        <div class="mb-2">
+                          <h5 class="h6 mb-0">Morris Nguyen</h5>
+                          <small>December 31, 2020 12:00 PM</small>
+                        </div>
+                        <p>
+                          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                          Cras sollicitudin, tellus vitae condimentum egestas,
+                          libero dolor auctor tellus, eu consectetur neque elit
+                          quis nunc.
+                        </p>
+                        <a href="#" class="btn-primary-link">Reply</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
             <!-- comment section -->
 
+            <div class="mb-4">
+                <div class="card bg-transparent">
+                  <div class="card-header bg-transparent p-3">
+                    <h4 class="mb-0 h5">Leave A Comment</h4>
+                  </div>
+                  <div class="card-body">
+                    <form class="form-row" onsubmit="return SubmitComment()" enctype="multipart/form-data" >
+                        @csrf
+                    <input type="text" name="postid" value="4" id="postid">
+                    <input type="text" name="userid" value="4" id="userid">
+
+                      <div class="form-group col-12">
+                        <label for="messages">Comment</label>
+                        <textarea
+                          name="messages"
+                          rows="4"
+                          class="form-control"
+                          id="messages"
+
+                        >
+                        Your comment here
+                        </textarea>
+                      </div>
+                      <div class="col-12">
+                        <button type="submit" class="btn btn-primary">
+                          Submit
+                        </button>
+                      </div>
+                    </form>
+                  </div>
+                </div>
+              </div>
+            {{-- End comments --}}
           </div>
         </div>
       </div>
@@ -412,9 +490,15 @@
         </div>
     </div>
 
+
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <!-- Libs JS -->
+
+    {{-- <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script> --}}
+    {{-- <script src="{{ asset('js/share.js') }}"></script> --}}
+    <script src="myassets/libs/shared/share.js"></script>
+
     <script src="../myassets/libs/jquery/dist/jquery.min.js"></script>
     <script src="../myassets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="../myassets/libs/jquery-slimscroll/jquery.slimscroll.min.js"></script>
@@ -435,3 +519,37 @@
 
     <!-- Theme JS -->
     <script src="../myassets/js/theme.min.js"></script>
+
+
+    <script type="text/javascript">
+        function SubmitComment(){
+        var messages = $('#messages').val();
+        // var name = $('#name').val();
+        var userid =$('#userid').val();
+        var postid = $('#postid').val();
+        token = $("input[name = token]").val();
+   var data = {
+    messages : messages,
+    userid:userid,
+    postid:postid,
+    _token : token
+    }
+
+    $.ajax({
+        type: "post",
+        data: data,
+        url : "/submitcomment",
+        cache:false,
+        beforeSend:function(){
+
+        },
+        success:function(data){
+
+        }
+
+    })
+
+        }
+
+        </script>
+

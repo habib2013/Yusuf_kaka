@@ -34,6 +34,7 @@ Route::get('/about','DummyPagesController@about_kaka');
 Route::get('/contactme','DummyPagesController@contactme');
 Route::get('/comingsoon','DummyPagesController@comingsoon');
 Route::get('/events','DummyPagesController@events');
+Route::post('/submitcomment','DummyPagesController@submitcomment');
 
 Route::get('/blogs', 'DummyPagesController@posts')->name('posts');
 Route::post('ajaxRequest', 'AdminsController@ajaxRequest')->name('ajaxRequest');

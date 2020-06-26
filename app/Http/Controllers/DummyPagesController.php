@@ -5,9 +5,26 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Blog;
 use App\Event;
+use Comment;
+use Illuminate\Support\Facades\Validator;
 
 class DummyPagesController extends Controller
 {
+
+public function submitcomment(Request $request)
+{
+
+    $input = $request->all();
+    dd($input);
+// $validator = Validator::make($request->all(),[
+//     // name: name,
+//     // messages : messages,
+//     // userid:userid,
+//     // postid:postid,
+
+
+// ]);
+}
 
     public function about_kaka(){
         return view('about');

@@ -15,7 +15,6 @@
 
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-
 <style>
 .all-leg {
     background:linear-gradient(180deg, rgba(30, 24, 53, 0.4) 0%, rgba(30, 24, 53, 0.4) 90.16%),url(myassets/images/home-slider.png);
@@ -296,7 +295,7 @@
           <div class="  col-lg-8 col-md-12 col-12">
             <div class=" py-12 py-lg-15 text-light text-center mr-5" >
               <h1 class="font-weight-bold text-white mb-3 display-4 spadin" align="center">
-                Unlock Your Full <br> <span style="font-size:48px" class="elegs">Potential  in Life  & Business</span>
+                Unlock Your Full <br> <span style="font-size:44px" class="elegs">Potential  in Life  & Business</span>
               </h1>
 
             </div>
@@ -416,7 +415,15 @@
     </div>
     <!-- course section -->
 
-{{Share::page('http://jorenvanhocht.be', 'Your share text can be placed here')->twitter()}}
+    <div id="social-links">
+        <ul>
+            <li><a href="https://www.facebook.com/sharer/sharer.php?u=http://jorenvanhocht.be" class="social-button " id=""><span class="fa fa-facebook-official"></span></a></li>
+            <li><a href="https://twitter.com/intent/tweet?text=my share text&amp;url=http://jorenvanhocht.be" class="social-button " id=""><span class="fa fa-twitter"></span></a></li>
+            <li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://jorenvanhocht.be&amp;title=my share text&amp;summary=dit is de linkedin summary" class="social-button " id=""><span class="fa fa-linkedin"></span></a></li>
+            <li><a href="https://wa.me/?text=http://jorenvanhocht.be" class="social-button " id=""><span class="fa fa-whatsapp"></span></a></li>
+        </ul>
+    </div>
+
 
     <div class="pt-12 pb-12 bg-primary">
       <div class="container">
@@ -511,6 +518,7 @@
                   class="rounded img-fluid"
                   src="/storage/blogs/{{$home_blog->blog_image}}"
                   alt=""
+                  style="min-height: 250px"
                 />
               </a>
             </div>
@@ -520,7 +528,7 @@
                   <h4 class="mb-3">{{$home_blog->post_type}}</h4>
                 </a>
                 <p>
-                    {{ substr(strip_tags($home_blog->body), 0, 200) }}  {{ strlen(strip_tags($home_blog->body)) > 50 ? "..." : "" }}
+                    {{ substr(strip_tags($home_blog->body), 0, 62) }}  {{ strlen(strip_tags($home_blog->body)) > 50 ? "..." : "" }}
                 </p>
             <a href="/showsingle/{{$home_blog->slug}}" class="btn-primary-link"
                   >Read more</a
@@ -637,7 +645,7 @@
       </div>
     </div>
     <!-- client logo -->
-    <div class="pt-0 pt-lg-5 pb-5 pb-lg-14 bg-light mt-n15">
+    {{-- <div class="pt-0 pt-lg-5 pb-5 pb-lg-14 bg-light mt-n15">
       <div class="pt-18">
         <div class="container">
           <div class="row">
@@ -713,7 +721,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> --}}
     <!-- footer -->
     <div class="footer pt-11 pb-3 bg-dark text-base">
         <div class="container">
