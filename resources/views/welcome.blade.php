@@ -11,14 +11,17 @@
     <!-- Theme CSS -->
     <link rel="stylesheet" href="myassets/css/theme.min.css">
     <link rel="stylesheet" href="myassets/css/style.css">
+
+
+
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <style>
-.all-leg {  
-    background:linear-gradient(180deg, rgba(30, 24, 53, 0.4) 0%, rgba(30, 24, 53, 0.4) 90.16%),url(myassets/images/home-slider.png); 
+.all-leg {
+    background:linear-gradient(180deg, rgba(30, 24, 53, 0.4) 0%, rgba(30, 24, 53, 0.4) 90.16%),url(myassets/images/home-slider.png);
     background-size: cover;
-     background-repeat: no-repeat; 
-     background-position-x: center;     
+     background-repeat: no-repeat;
+     background-position-x: center;
 }
 .spadin {
     font-family:'Cera Pro';
@@ -293,7 +296,7 @@
           <div class="  col-lg-8 col-md-12 col-12">
             <div class=" py-12 py-lg-15 text-light text-center mr-5" >
               <h1 class="font-weight-bold text-white mb-3 display-4 spadin" align="center">
-                Unlock Your Full <br> <span style="font-size:48px" class="elegs">Potential  in Life  & Business</span> 
+                Unlock Your Full <br> <span style="font-size:48px" class="elegs">Potential  in Life  & Business</span>
               </h1>
 
             </div>
@@ -412,6 +415,9 @@
       </div>
     </div>
     <!-- course section -->
+
+{{Share::page('http://jorenvanhocht.be', 'Your share text can be placed here')->twitter()}}
+
     <div class="pt-12 pb-12 bg-primary">
       <div class="container">
         <div class="row d-flex align-items-center">
@@ -790,6 +796,9 @@
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <!-- Libs JS -->
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    {{-- <script src="{{ asset('js/share.js') }}"></script> --}}
+    <script src="myassets/libs/shared/share.js"></script>
     <script src="myassets/libs/jquery/dist/jquery.min.js"></script>
     <script src="myassets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="myassets/libs/jquery-slimscroll/jquery.slimscroll.min.js"></script>

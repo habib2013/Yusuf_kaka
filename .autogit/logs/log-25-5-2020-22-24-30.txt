@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+		Thu Jun 25 2020 22:24:30 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* composer.json
+* composer.lock
+
+
+Created files:
+* .autogit/logs/log-24-5-2020-21-2-8.txt
+* config/laravel-share.php
+* public/js/share.js
+* resources/lang/vendor/laravel-share/en/laravel-share-fa4.php
+* resources/lang/vendor/laravel-share/en/laravel-share-fa5.php
+
+
+Deleted files:
+
+
+Renamed files:
