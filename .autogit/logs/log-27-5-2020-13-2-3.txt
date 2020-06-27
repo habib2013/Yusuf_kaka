@@ -1,0 +1,26 @@
+-------------------- Auto-Git Log --------------------
+		Sat Jun 27 2020 13:02:03 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* app/Http/Controllers/DummyPagesController.php
+* resources/views/about.blade.php
+* resources/views/blog.blade.php
+* resources/views/blog_single.blade.php
+* resources/views/contactme.blade.php
+* resources/views/events.blade.php
+* resources/views/welcome.blade.php
+* routes/web.php
+
+
+Created files:
+* .autogit/logs/log-26-5-2020-17-47-26.txt
+* app/Http/Controllers/some_links.php
+* resources/views/includes/footer.blade.php
+* resources/views/includes/header.blade.php
+
+
+Deleted files:
+
+
+Renamed files:

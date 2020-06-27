@@ -44,7 +44,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/blogpost', 'AdminsController@blog')->name('blog');
 Route::get('/post_events', 'EventController@post_events')->name('post_events');
 Route::post('/create_events', 'EventController@create_events')->name('create_events');
-
+Route::get('pages/check_slug', 'AdminsController@check_slug')->name('pages.check_slug');
 
 Route::post('/createblog', 'AdminsController@createblog')->name('createblog');
 Route::post('/updateblog', 'AdminsController@updateblog')->name('updateblog');

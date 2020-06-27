@@ -25,8 +25,15 @@ class AdminsController extends Controller
         return $this->middleware('auth');
 }
 public function aboutkaka(){
-  return view('admin_about');
+  return view('admin.admin_about');
 }
+
+public function check_slug(Request $request)
+{
+    $slug = str_slug($request->title);
+    return response()->json(['slug' => $slug]);
+}
+
 
 public function submitcomment(Request $request)
 {
@@ -71,7 +78,7 @@ public function homepage(){
 
   $myblogs = new Blog();
   $show_three = $myblogs->take(3)->get();
-    return view('admin_dashboard',compact('blog','show_three'));
+    return view('admin.admin_dashboard',compact('blog','show_three'));
 }
 
 
@@ -79,7 +86,7 @@ public function homepage(){
 public function blog(){
     $allblogs = new Blog();
     $blog = $allblogs::all();
-    return view('blogpost',compact('blog'));
+    return view('admin.blogpost',compact('blog'));
 }
 
 public function createblog(Request $request){

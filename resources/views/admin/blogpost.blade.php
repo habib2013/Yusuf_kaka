@@ -190,6 +190,16 @@
     </div>
   </div>
 </div>
+
+<div class="input-group input-group-merge mb-3">
+    <input type="text" name="slug" id="slug" class="form-control form-control-prepended">
+    <div class="input-group-prepend">
+      <div class="input-group-text">
+        <span class="fe fe-pen">🖊</span>
+      </div>
+    </div>
+  </div>
+
 <textarea class="form-control" name="body" id="title" data-toggle="autosize" rows="5" placeholder=" type post body here..."></textarea>
 <br>
 <input type="hidden" name="slug" id="slug" value="1" >
@@ -1523,6 +1533,8 @@ Photography
 
     </div> <!-- / .main-content -->
 
+
+
     <!-- JAVASCRIPT
     ================================================== -->
     <!-- Libs JS -->
@@ -1545,6 +1557,19 @@ Photography
 
     <!-- Theme JS -->
     <script src="assets/js/theme.min.js"></script>
+
+
+    <script>
+        $('#title').change(function(e) {
+          $.get('{{ route('pages.check_slug') }}',
+            { 'title': $(this).val() },
+            function( data ) {
+              $('#slug').val(data.slug);
+            }
+          );
+        });
+      </script>
+
 
 
    <script type="text/javascript">
