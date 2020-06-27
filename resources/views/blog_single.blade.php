@@ -7,6 +7,7 @@
 <title>{{$blog->title}}</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
+    @laravelPWA
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Theme CSS -->
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
@@ -14,7 +15,157 @@
     <link rel="stylesheet" href="../myassets/css/theme.min.css">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css" />
   <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>
-  </head>
+
+<style>
+
+.socials {
+  background-color: #23292F;
+padding-top: 30px;
+  height: 80px;
+width: 100%;
+  font-family: 'Cera Pro New';
+  font-weight: 20;
+  font-style: normal;
+  font-size: 15px;
+
+}
+.imgsearch {
+  height: 40px;
+  width: 40px;
+  margin-right: 150px;
+}
+
+.elsocials {
+  width: 10px;
+  height: 13px;
+}
+
+
+
+ .socialul {
+  display: flex;
+
+}
+.allmovey {
+  margin-left: -130px;
+  margin-top: -68px;
+}
+
+
+.socialul::before {
+  content: '\f1e0';
+  font-family: fontawesome;
+  width: 43px;
+  height: 43px;
+  border-radius: 50%;
+   background:#1BC5EF;
+  text-align: center;
+  color: #ffffff;
+  z-index: 1;
+  border: 0px solid #ffffff;
+  position: relative;
+  margin-top: 8px;
+  margin-left: 2px;
+  padding-top: 5px;
+
+  -webkit-animation: pulse 2s infinite;
+  animation: pulse 2s infinite;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+
+}
+
+.socialul:hover:before {
+  width: 40px;
+}
+
+.socialul li {
+  position: absolute;
+list-style: none;
+transition: 1s;
+
+}
+
+.socialul li a {
+  display: block;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  color: #fff;
+  margin: 0 2px;
+  border-radius: 50%;
+  font-size: 30px;
+  transition: 1s;
+}
+
+.checkliquid {
+  background-color: #4CDCFC;
+  width: 60px;
+  height: 30px;
+  margin-bottom: -18px;
+}
+
+
+
+
+
+.socialul::before li:nth-child(1) a {
+  visibility: hidden;
+}
+.socialul li:nth-child(2) a::before {
+  visibility: hidden;
+}
+.socialul li:nth-child(3) a::before {
+  visibility: hidden;
+}
+.socialul li:nth-child(4) a::before {
+  visibility: hidden;
+}
+
+
+
+
+.socialul:hover li:nth-child(1) a {
+transform: translateX(40px) rotate(360deg);
+transition-delay: 0.6s;
+}
+.socialul:hover li:nth-child(2) a {
+  transform: translateX(80px) rotate(360deg);
+  transition-delay: 0.4s;
+  }
+  .socialul:hover li:nth-child(3) a {
+    transform: translateX(120px) rotate(360deg);
+    transition-delay: 0.2s;
+    }
+
+    .socialul:hover li:nth-child(4) a {
+      transform: translateX(160px) rotate(360deg);
+      transition-delay: 0s;
+      }
+
+      /* Lets talk page starts */
+
+/* Start About us Page */
+
+@media (max-width: 768px) {
+/* Start minified Blog */
+.allmovey {
+  margin-left: 0px;
+  margin-top: 4px;
+}
+.forsidepost{
+
+  margin-top: -900px;
+}
+
+}
+
+</style>
+
+
+</head>
 
   <body>
     <!-- header -->
@@ -88,17 +239,36 @@
               </p>
 
 <div class="d-flex">
-    <div id="social-links">
+    {{-- <div id="social-links">
         <ul>
-            <a href="https://twitter.com/intent/tweet?text=my share text&amp;url=http://127.0.0.1:8000/showsingle/{{$blog->slug}}" class="social-button " id=""><span class="fa fa-facebook-official"></span></a>
-            <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://127.0.0.1:8000/showsingle/{{$blog->slug}}&amp;title=my share text&amp;summary=dit is de linkedin summary" class="social-button " id=""><span class="fa fa-linkedin"></span></a>
-            <a href="https://www.facebook.com/sharer/sharer.php?u=http://127.0.0.1:8000/showsingle/{{$blog->slug}}" class="social-button " id=""> <i class="fa fa-facebook"></i></a>
-            <a href="https://wa.me/?text=http://127.0.0.1:8000/showsingle/{{$blog->slug}}" class="social-button " id=""><span class="fas fa-whatsapp"></span></a>
+            <a href="https://twitter.com/intent/tweet?text=my share text&amp;url=http://192.168.43.72/showsingle/{{$blog->slug}}" class="social-button " id=""><span class="fa fa-firefox"></span></a>
+            <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://192.168.43.72/showsingle/{{$blog->slug}}&amp;title=my share text&amp;summary=dit is de linkedin summary" class="social-button " id=""><span class="fa fa-linkedin"></span></a>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=http://192.168.43.72/showsingle/{{$blog->slug}}" class="social-button " id=""> <i class="fa fa-facebook"></i></a>
+            <a href="https://wa.me/?text=http://192.168.43.72/showsingle/{{$blog->slug}}" class="social-button " id=""><span class="fas fa-whatsapp"></span></a>
         </ul>
-    </div>
+    </div> --}}
+
+
+
+
 </div>
 
             </div>
+
+<br>
+            <div class="row allmovey">
+                <div class="col-6">
+
+                    <ul class="socialul">
+                <li id="vespas1"><a href="https://www.facebook.com/sharer/sharer.php?u=http://192.168.43.72/showsingle/{{$blog->slug}}"><img src="../images/icons/face1.png" class="imgsearch" alt=""> </a></li>
+
+                    <li id="vespas2"><a href="https://twitter.com/intent/tweet?text={{$blog->title}}&amp;url=http://192.168.43.72/showsingle/{{$blog->slug}}"> <img src="../images/icons/twitter.png" class="imgsearch" alt=""></a></li>
+                    <li id="vespas3"><a href="https://wa.me/?text={{$blog->title}}  http://192.168.43.72/showsingle/{{$blog->slug}}"> <img src="../images/icons/whatsapp.png" class="imgsearch" alt=""></a></li>
+                <li id="vespas4"><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://192.168.43.72/showsingle/{{$blog->slug}}&amp;title=my share text&amp;summary=dit is de linkedin summary"> <img src="../images/icons/linkedin.png" class="imgsearch" alt=""></a></li>
+
+                </ul>
+                </div>
+                </div>
 
             <!-- author post -->
             <div class="mb-4">
