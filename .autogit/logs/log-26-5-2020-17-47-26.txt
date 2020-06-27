@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Fri Jun 26 2020 17:47:26 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* app/Http/Controllers/AdminsController.php
+* app/Http/Controllers/DummyPagesController.php
+* resources/views/blog_single.blade.php
+* routes/web.php
+
+
+Created files:
+* .autogit/logs/log-26-5-2020-16-57-11.txt
+
+
+Deleted files:
+
+
+Renamed files:

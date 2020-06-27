@@ -50,8 +50,7 @@ Route::post('/createblog', 'AdminsController@createblog')->name('createblog');
 Route::post('/updateblog', 'AdminsController@updateblog')->name('updateblog');
 Route::post('/deleteblog', 'AdminsController@deleteblog')->name('deleteblog');
 Route::post('/submitcomment','AdminsController@submitcomment');
-
-// Route::post('/create_events', 'AdminsController@create_events')->name('create_events');
+Route::get('/seen/{blogid}','DummyPagesController@countComment')->name('seencomment');
 
 Route::get('/showsingle/{slug}','DummyPagesController@showsingle');
 Route::get('/auth/redirect/{provider}', 'SocialController@redirect');
