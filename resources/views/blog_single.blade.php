@@ -263,8 +263,11 @@ transition-delay: 0.6s;
                 <li id="vespas1"><a href="https://www.facebook.com/sharer/sharer.php?u=http://192.168.43.72/showsingle/{{$blog->slug}}"><img src="../images/icons/face1.png" class="imgsearch" alt=""> </a></li>
 
                     <li id="vespas2"><a href="https://twitter.com/intent/tweet?text={{$blog->title}}&amp;url=http://192.168.43.72/showsingle/{{$blog->slug}}"> <img src="../images/icons/twitter.png" class="imgsearch" alt=""></a></li>
-                    <li id="vespas3"><a href="https://wa.me/?text={{$blog->title}}  http://192.168.43.72/showsingle/{{$blog->slug}}"> <img src="../images/icons/whatsapp.png" class="imgsearch" alt=""></a></li>
-                <li id="vespas4"><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://192.168.43.72/showsingle/{{$blog->slug}}&amp;title=my share text&amp;summary=dit is de linkedin summary"> <img src="../images/icons/linkedin.png" class="imgsearch" alt=""></a></li>
+                    <li id="vespas3"><a href="https://wa.me/?text={{$blog->title}} + www.yusufkaka.com/showsingle/{{$blog->slug}}"> <img src="../images/icons/whatsapp.png" class="imgsearch" alt=""></a></li>
+
+                    {{-- <li id="vespas3"> <a href="https://api.whatsapp.com/send?text=www.google.com" data-action="share/whatsapp/share"><img src="../images/icons/whatsapp.png" class="imgsearch" alt=""></a> </li> --}}
+
+                    <li id="vespas4"><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://192.168.43.72/showsingle/{{$blog->slug}}&amp;title=my share text&amp;summary=dit is de linkedin summary"> <img src="../images/icons/linkedin.png" class="imgsearch" alt=""></a></li>
 
                 </ul>
                 </div>

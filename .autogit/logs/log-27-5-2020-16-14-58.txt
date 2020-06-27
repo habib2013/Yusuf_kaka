@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+		Sat Jun 27 2020 16:14:58 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* resources/views/blog_single.blade.php
+* resources/views/welcome.blade.php
+
+
+Created files:
+* .autogit/logs/log-27-5-2020-15-24-40.txt
+* public/images/icons/face1.png
+* public/images/icons/linkedin.png
+* public/images/icons/twitter.png
+* public/images/icons/whatsapp.png
+
+
+Deleted files:
+
+
+Renamed files:
