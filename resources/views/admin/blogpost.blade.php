@@ -202,7 +202,7 @@
 
 <textarea class="form-control" name="body" id="title" data-toggle="autosize" rows="5" placeholder=" type post body here..."></textarea>
 <br>
-<input type="hidden" name="slug" id="slug" value="1" >
+
 <input type="hidden" name="user_id" id="user_id" value="{{auth()->user()->id}}">
 <select class="form-control" name="post_type" id="post_type" data-toggle="select" data-options='{"minimum-results-for-search": -1}'>
   <option value="Wealth">

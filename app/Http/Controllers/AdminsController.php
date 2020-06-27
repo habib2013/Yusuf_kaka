@@ -13,7 +13,7 @@ use App\Blog;
 use App\Event;
 use Illuminate\Database\Eloquent\Collection;
 use Webpatser\Uuid\Uuid;
-
+use Illuminate\Support\Str;
 use Validator;
 use App\AjaxImage;
 
@@ -101,7 +101,7 @@ public function createblog(Request $request){
     ]);
             if($validator->passes()){
 $input = $request->all();
-$input['slug'] = time().rand(10,1000);
+// $input['slug'] = time().rand(10,1000);
 // $input['blog_image'] = time().'.'.$request->blog_image->extension();
 // $request->blog_image->move(public_path('/myassets/images'),$input['blog_image']);
 

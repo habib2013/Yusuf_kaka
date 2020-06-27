@@ -9,6 +9,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Theme CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
     <link rel="stylesheet" href="../myassets/css/theme.min.css">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css" />
   <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>
@@ -84,6 +86,18 @@
               <p>
             {{$blog->body}}
               </p>
+
+<div class="d-flex">
+    <div id="social-links">
+        <ul>
+            <li><a href="https://www.facebook.com/sharer/sharer.php?u=http://127.0.0.1:8000/showsingle/{{$blog->slug}}" class="social-button " id=""><span class="fa fa-facebook-official"></span></a></li>
+            <li><a href="https://twitter.com/intent/tweet?text=my share text&amp;url=http://127.0.0.1:8000/showsingle/{{$blog->slug}}" class="social-button " id=""><span class="fa fa-twitter"></span></a></li>
+            <li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://127.0.0.1:8000/showsingle/{{$blog->slug}}&amp;title=my share text&amp;summary=dit is de linkedin summary" class="social-button " id=""><span class="fa fa-linkedin"></span></a></li>
+            <li><a href="https://wa.me/?text=http://127.0.0.1:8000/showsingle/{{$blog->slug}}" class="social-button " id=""><span class="fa fa-whatsapp"></span></a></li>
+        </ul>
+    </div>
+</div>
+
             </div>
 
             <!-- author post -->

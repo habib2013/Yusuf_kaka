@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+		Sat Jun 27 2020 14:04:11 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* app/Http/Controllers/AdminsController.php
+* resources/views/create_events.blade.php
+* routes/web.php
+
+
+Created files:
+* .autogit/logs/log-27-5-2020-13-2-3.txt
+
+
+Deleted files:
+
+
+Renamed files:
+* [object Object]
+* [object Object]
+* [object Object]
