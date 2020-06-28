@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Sat Jun 27 2020 20:01:40 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-27-5-2020-19-11-23.txt
+
+
+Deleted files:
+
+
+Renamed files:
