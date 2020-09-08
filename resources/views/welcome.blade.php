@@ -3,7 +3,7 @@
 
 <!-- Mirrored from easetemplate.com/html/coach/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 16 May 2020 13:40:39 GMT -->
 <head>
-    <title>Coach - Index</title>
+    <title>Kaka Yusuf</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
 
